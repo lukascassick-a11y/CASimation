@@ -1,0 +1,1547 @@
+item,option,supplier,part_number,price,multiplier,category
+Air Flow Monitor,Ebtron Under 8K CFM,Mike Moore Sales,Ebtron Gold Series,2150.0,1.0,Air Flow Monitor
+Air Flow Monitor,Ebtron 8K to 20K CFM,Mike Moore Sales,Ebtron Gold Series,2595.0,1.0,Air Flow Monitor
+Air Flow Monitor,Ebtron Over 20K CFM,Mike Moore Sales,Ebtron Gold Series,2965.0,1.0,Air Flow Monitor
+Air Flow Monitor,Ebtron Fan Array for 2 or 4 Fans,Mike Moore Sales,GTC108-F/A4,2000.0,1.0,Air Flow Monitor
+Air Flow Monitor,Ebtron Fan Array for 3 or 6 Fans,Mike Moore Sales,GTC108-F/A6,2545.0,1.0,Air Flow Monitor
+Air Flow Monitor,Ebtron Fan Array for 4 or 8 Fans,Mike Moore Sales,GTC108-F/A8,3100.0,1.0,Air Flow Monitor
+Air Flow Monitor,Voluflo OA Diff Press Low Flow Monitor,TRS ,,0.0,1.0,Air Flow Monitor
+Air Flow Monitor,Electraflo SD OA Monitor - Small Duct,TRS ,,0.0,1.0,Air Flow Monitor
+Air Flow Monitor,Retrofit Flow Ring for VAV Boxes,Nailor,36FMI,95.0,1.0,Air Flow Monitor
+Alarm Indication Panel,Flush Mtd,Kele,RAD-1,128.76,1.0,Alarm Indication Panel
+Alarm Indication Panel,Surface Mtd,Kele,AIS-24A,140.94,1.0,Alarm Indication Panel
+BacNet Card,,Honeywell,DR-MSTP-AX,0.0,1.0,BacNet Card
+Modbus Card,,Honeywell,,0.0,1.0,Modbus Card
+BTU Meter,,Onicon,System 10 + F3500 Flow Meter,4635.0,1.0,BTU Meter
+Comm Card,,,,243.0,1.0,Comm Card
+Computer,Laptop,,,1200.0,1.0,Computer
+Computer,Desktop,,,2200.0,1.0,Computer
+Computer,Server,,,3500.0,1.0,Computer
+Computer,BACNet/IP Router,Kele,BASRT-B,400.62,1.0,Computer
+Communicating Room Thermostat,"2H/2C, 2BIs, OAT, Econ- BACnet",Broudy,TEC3630-14-000,459.05,1.05,Communicating Room Thermostat
+Communicating Room Thermostat,"2H/2C, Occ. Sensor, 2BIs, OAT, Econ- BACnet",Broudy,TEC3631-14-000,547.72,1.0,Communicating Room Thermostat
+Communicating Room Thermostat,FCU/VAV on/off floating Dehumid- BACnet,Broudy,TEC3612-14-000,451.98,1.05,Communicating Room Thermostat
+Communicating Room Thermostat,FCU/VAV 0-10VDC Dehumid- BACnet,Broudy,TEC3622-14-000,503.83,1.05,Communicating Room Thermostat
+Communicating Room Thermostat,"2H/2C, 2BIs, OAT, Econ- Wireless",Broudy,TEC3131-14-000,739.27,1.0,Communicating Room Thermostat
+Communicating Room Thermostat,Honeywell FCU Thermostat - BACnet,Broudy,TC300B-G,168.49,1.0,Communicating Room Thermostat
+Communicating Room Thermostat,Honeywell RTU/HP Commercial Thermostat - BACnet,Broudy,TC500A-N,389.23,1.0,Communicating Room Thermostat
+Communicating Room Thermostat,"JCI FCU/RTU BACnet Thermostat - 3CO's, 3BO's, 3UI's w Humd & Occ Sensor",Broudy,TEC4K-SB0-000 ,200.0,1.05,Communicating Room Thermostat
+Current Sw,Analog - Current,ALPS,H921,52.46,1.0,Current Sw
+Current Sw,Digital Status Switch,Kele,H600,31.43,1.0,Current Sw
+Current Sw,Digital for VFD Status,ALPS,H904,88.31,1.0,Current Sw
+"CO, NO2 and O2 Sensors",Combo CO/NO2 Sensor - UL Listed BACNet,Kele,GWNPXX + AG04,570.36,1.0,CO
+"CO, NO2 and O2 Sensors",CO Sensor - Non UL Listed,Kele,CMD5B1100,273.18,1.0,CO
+"CO, NO2 and O2 Sensors",CO Sensor - UL Listed,Broudy,E3SA + E3SCO,818.46,1.0,CO
+"CO, NO2 and O2 Sensors",NO2 Sensor - Non UL Listed,ALPS,NDD5B1100,443.17,1.0,CO
+"CO, NO2 and O2 Sensors",NO2 Sensor - UL Listed,Broudy,E3SA + E3NO2,994.06,1.0,CO
+"CO, NO2 and O2 Sensors","Belimo 0-5000 PPM CO Sensor, BACnet, CANBUS, 1 BO, 2AO,",Broudy,22G15-5A5,640.46,1.0,CO
+"CO, NO2 and O2 Sensors","Belimo 0-2000 PPM CO Sensor, BACnet, CANBUS, 1 BO, 2AO,",Broudy,22G15-5A3,444.23,1.0,CO
+"CO, NO2 and O2 Sensors","Belimo 0-10 PPM NO Sensor, BACnet, CANBUS, 1 BO, 2AO,",Broudy,22G14-5A,427.49,1.0,CO
+"CO, NO2 and O2 Sensors","Belimo 0-250 PPM CO Sensor, BACnet, CANBUS, 1 BO, 2AO,",Broudy,22G02-5A,404.24,1.0,CO
+"CO, NO2 and O2 Sensors","Belimo 0-10,000 PPM CO Sensor, CANBUS",Broudy,22G15-5C6,627.44,1.0,CO
+"CO, NO2 and O2 Sensors","Belimo 0-10 PPM NO Sensor, CANBUS",Broudy,22G14-5C,298.84,1.0,CO
+"CO, NO2 and O2 Sensors","Belimo 0-250 PPM CO Sensor, CANBUS",Broudy,22G02-5C,281.17,1.0,CO
+"CO, NO2 and O2 Sensors","Belimo 0-250 PPM CO, 0-10 PPM NO2 CANBUS",Broudy,22G0214-5C,416.33,1.0,CO
+"CO, NO2 and O2 Sensors","Belimo Comm Module, 1 BO, 2 AO, BACnet, CANBUS",Broudy,C-22G-5A,278.07,1.0,CO
+"CO, NO2 and O2 Sensors","Belimo 0-250 PPM CO, 0-10 PPM NO2 BACnet",Broudy,22G0214-5A,593.96,1.0,CO
+"CO, NO2 and O2 Sensors",Oxygen Sensor - 4-20mA output,Kele,K-O2H5,712.53,1.0,CO
+"CO, NO2 and O2 Sensors",Macurco CO/NO2 Sensor - Modbus,Macurco,CX-6/MRS-485,947.0,1.0,CO
+Damper Actuator,Small - Non Spring Return,Honeywell,MN7505A2001,186.5,1.045,Damper Actuator
+Damper Actuator,Medium - Non Spring Return,Honeywell,MN7510A2001,230.45,1.045,Damper Actuator
+Damper Actuator,Large - Non Spring Return,Honeywell,MN7220A2205,423.28,1.045,Damper Actuator
+Damper Actuator,Small - Spring Return,Honeywell,MS7505A2130,406.65,1.045,Damper Actuator
+Damper Actuator,Medium - Spring Return,Honeywell,MS7510A2008,331.02,1.045,Damper Actuator
+Damper Actuator,Large - Spring Return,Honeywell,MS7520A2007,427.24,1.045,Damper Actuator
+Damper Actuator,Small - 2 Pos Spring Return,Honeywell,MS8105A1030,207.48,1.045,Damper Actuator
+Damper Actuator,Medium - 2 Pos Spring Return,Honeywell,MS8110A1008,293.41,1.045,Damper Actuator
+Damper Actuator,Large - 2 Pos Spring Return,Honeywell,MS8120A1007,364.68,1.045,Damper Actuator
+Damper Actuator,Pneumatic with Positioner,ALPS,D3153-1,578.49,1.0,Damper Actuator
+Damper Actuator,Pneumatic Slave,ALPS,D3153-2,416.44,1.0,Damper Actuator
+Damper Actuator,HW Smoke Damper - 24V (45VA),Honeywell,MS8120F1002,511.18,1.0,Damper Actuator
+Damper Actuator,HW Smoke Damper - 120V w ES,Honeywell,MS4120F1204,544.84,1.0,Damper Actuator
+Damper Actuator,Belimo Smoke Damper - 24V (32VA),Broudy,FSAF24A,368.59,1.0,Damper Actuator
+Damper Actuator,End Switch,Kele,TS-470,50.03,1.0,Damper Actuator
+Damper Actuator,Belimo Metal Weather Shield,Broudy,ZS-100,87.42,1.0,Damper Actuator
+Damper Actuator,Belimo Large Outside Actuator,Broudy,AFX24-S-N4,653.48,1.0,Damper Actuator
+Damper Actuator,JCI Rotary Floating Actuator,Broudy,M9104-AGP-2S,181.36,1.0,Damper Actuator
+Display,Reveal Grey Touchscreen,Honeywell,LCD-GT043A100,0.0,1.045,Display
+Display,Reveal Color Touchcreen,Honeywell,LCD-CT043A100,0.0,1.045,Display
+Display,"LOYTEC 7"" Color",Broudy,LVIS-3ME7-G2,1883.39,1.0,Display
+Display,"EasyIO 10"" Android Panel Mount Display",Broudy,EI-SH-SYSVIEW10 ,756.06,1.0,Display
+Display,"HW HMI 7"" Display - Ethernet Only",Broudy,WEB-HMI7,457.34,1.0,Display
+Display,"HW HMI 10"" Display - Ethernet Only",Broudy,WEB-HMI10,1386.69,1.0,Display
+Drivers,Allen Bradley CIP,Broudy,DR-ML-CIP-N4-J8,2880.73,1.0,Drivers
+Drivers,ASI,Broudy,DR-ML-ASI-N4-J8,2880.73,1.0,Drivers
+Drivers,Barber Colman ASD,Broudy,DR-ML-ASD-N4-J8,2880.73,1.0,Drivers
+Drivers,Barber Colman GCM,Broudy,DR-ML-GCM-N4-J8,2880.73,1.0,Drivers
+Drivers,CSI I-Net,Broudy,DR-ML-INET-N4-J8,2880.73,1.0,Drivers
+Drivers,JCI N2 Open,Broudy,DR-ML-N2-N4-J8,2880.73,1.0,Drivers
+Drivers,Robertshaw DMS,Broudy,DR-ML-DMS-N4-J8,2880.73,1.0,Drivers
+Drivers,Robertshaw Microsmart TCP for 500 Point Block,Broudy,DR-ML-MSTCP-N4-J3,1424.76,1.0,Drivers
+Drivers,Robertshaw Microsmart TCP,Broudy,DR-ML-MSTCP-N4-J8,2880.73,1.0,Drivers
+Drivers,Robertshaw Microsmart for N4 Supervisor,Broudy,DR-ML-MSTCP-N4-WS,3156.32,1.0,Drivers
+Drivers,Siemens APOGEE 600,Broudy,DR-ML-TEC-N4-J8,2880.73,1.0,Drivers
+Drivers,Trane Comm 3 Non Isolated,Broudy,DR-ML-NICOM3-N4-J8,2880.73,1.0,Drivers
+Drivers,Trane Comm 4,Broudy,DR-ML-TCOMM4-N4-J8,2880.73,1.0,Drivers
+Drivers,Modbus Slave Driver over RS-485,Broudy,EZDR-MDB-S-AX,0.0,1.0,Drivers
+Drivers,Modbus Slave Driver over Ethernet,Broudy,EZDR-MDB-TS-AX,0.0,1.0,Drivers
+Drivers,Carrier CCN Driver for Niagara 4,Broudy,DR-CCN,1243.63,1.0,Drivers
+Humidity,Duct High Limit,ALPS,HC-201,236.33,1.0,Humidity
+Humidity,Duct Sensor Only,Broudy,A/RH3-D,128.34,1.0,Humidity
+Humidity,Space Sensor Only 3%,Broudy,A/RH3-R,119.66,1.0,Humidity
+Humidity,Space Sensor Only 2%,Broudy,A/RH2-R,148.49,1.0,Humidity
+Emergency Stop Switch,Flush Mtd,Kele,AOW401R + SSG1-67,75.69000000000001,1.0,Emergency Stop Switch
+Emergency Stop Switch,Surface Mtd,Kele,AOW401R + E-1PBG,179.36,1.0,Emergency Stop Switch
+Filter Status,Digital Status,ALPS,AFS-145,40.9,1.0,Filter Status
+Filter Status,Analog Status,Kele,PX3DXX01,146.69,1.0,Filter Status
+Filter Status,Dwyer Magnahelic Guage,Kele,2002,76.29,1.0,Filter Status
+Filter Status,Dwyer Magnahelic Mounting Kit,Kele,A-602,52.14,1.0,Filter Status
+Static pressure tips,Duct Kit,Kele,A-302K + A-345k,17.9,1.0,Static pressure tips
+Static pressure tips,Outside Air Kit,Kele,A-306-K,57.0,1.0,Static pressure tips
+Static pressure tips,Room Press Tip - SS,Kele,RPS,15.95,1.0,Static pressure tips
+Flow Sensor,Hot Tap with Transmitter,Kele,226B + 310-00,2241.99,1.0,Flow Sensor
+Flow Sensor,Hot Tap Tool,Kele,HTT,723.84,1.0,Flow Sensor
+Flow Sensor,Immersion with Transmitter,Kele,220B + 310-00,1344.15,1.0,Flow Sensor
+Flow Sensor,Onicon Dual Turbine for Domestic Water - Pulse/Analog,Onicon,F-1200-00,1816.8,1.06,Flow Sensor
+Flow Sensor,Onicon Dual Turbine - Non Isolated - Pulse/Analog,Onicon,F-1200-10,1473.6,1.06,Flow Sensor
+Flow Sensor,Onicon Dual Turbine - Isolated - Pulse/Analog,Onicon,F-1200-11,1618.4,1.06,Flow Sensor
+Flow Sensor,"Onicon Electromagnetic - Pulse/Analog - 1 1/4"" to 2 1/2"" Pipe ND",Onicon,F-3500,2809.6,1.06,Flow Sensor
+Flow Sensor,"Onicon Electromagnetic - Pulse/Analog - 3"" to 72"" Pipe - ND",Onicon,FT-3400,2809.6,1.06,Flow Sensor
+Flow Sensor,"Onicon Electromagnetic - BACnet - 3"" to 72""  w Display",Onicon,FT-3500,3576.0,1.06,Flow Sensor
+Flow Sensor,"Onicon Electromagnetic - w/o BACnet - 3"" to 72""  w Display",Onicon,FT-3500,3148.0,1.06,Flow Sensor
+Flow Sensor,Onicon Steam Meter w Integral Electronics - Pulse/Analog,Onicon,F-2606-110,7171.2,1.06,Flow Sensor
+Flow Sensor,Onicon Steam Meter w Remote Electronics 100' - Pulse/Analog,Onicon,F-2606-120,8576.0,1.06,Flow Sensor
+Flow Sensor,"Onicon Mounting Hardware - 1 1/4"" to 2"" Copper",Onicon,,156.8,1.06,Flow Sensor
+Flow Sensor,"Onicon Mounting Hardware - 2 1/2"" to 3"" Steel",Onicon,,275.2,1.06,Flow Sensor
+Flow Sensor,"Onicon Mounting Hardware - 4"" and Up Steel",Onicon,,456.0,1.06,Flow Sensor
+Flow Sensor,Water Flow Switch,Kele,F261KFH-V01C,202.28,1.0,Flow Sensor
+Guard,Wire - Single Thermostat,Kele,AT-1103,76.75,1.0,Guard
+Guard,Cast Aluminum - Single Thermostat,Kele,134-117,182.27,1.0,Guard
+Guard,Kenall - Single Thermostat,ALPS,TG1,35.41,1.0,Guard
+Guard,Clear Plastic Medium,Broudy,TG511A1000,40.19,1.0,Guard
+Guard,Clear Plastic Small,Broudy,TG510A1001,38.66,1.0,Guard
+Guard,Clear Plastic Large,Broudy,TG512A1009,41.66,1.0,Guard
+I/O Module,16 Point,Honeywell,IO-16-H,0.0,1.045,I/O Module
+I/O Module,34 Point ,Honeywell,IO-34-H,0.0,1.045,I/O Module
+I/O Module,Sylk - 12 UI,Honeywell,SIO12000,233.83,1.045,I/O Module
+I/O Module,"Sylk - 6 UI, 4 AO, 2 DO",Honeywell,SIO6042,299.47,1.045,I/O Module
+I/O Module,"Sylk - 4 UI, 2 AO, 2 DO",Honeywell,SIO4022,266.33,1.045,I/O Module
+I/O Module,Remote I/O Module,Honeywell,IO-16-REM-H,,1.045,I/O Module
+I/O Module,"CIPer 30 - 7 Pt Expansion Module - 2 DO, 2 AO, 3 UI",Honeywell,WEB-O3022H,350.11,1.045,I/O Module
+I/O Module,"CIPer 30 - 20 Pt Expansion Module - 6 DO, 5 AO, 9 UI",Honeywell,WEB-O9056H,450.77,1.045,I/O Module
+I/O Module,CIPer 50 - 255 Panel Bus Expansion License,Honeywell,EAGLEH255PUP,164.12,1.045,I/O Module
+I/O Module,CIPer 50 - 1 Device & 50 Exp License for Added MSTP Contrs,Honeywell,PIN-DEV-UP-1,142.23,1.045,I/O Module
+I/O Module,CIPer 50 - 2 Device & 100 Exp License for Added MSTP Contrs,Honeywell,PIN-DEV-UP-2,244.35,1.045,I/O Module
+I/O Module,CIPer 50 - 10 Device & 500 Exp License for Added MSTP Contrs,Honeywell,PIN-DEV-UP-10,760.4,1.045,I/O Module
+I/O Module,CIPer 50 - 25 Device & 1250 Exp License for Added MSTP Contrs,Honeywell,PIN-DEV-UP-25,1287.39,1.045,I/O Module
+I/O Module,CIPer 50 - 50 Device & 2500 Exp License for Added MSTP Contrs,Honeywell,PIN-DEV-UP-50,2405.2,1.045,I/O Module
+I/O Module,Ciper 50 - Panel Bus 8 AI Module,Honeywell,XF821A + XSU821-22,467.65,1.045,I/O Module
+I/O Module,Ciper 50 - Panel Bus 8 AO Module,Honeywell,XFR822A + XSU821-22,567.68,1.045,I/O Module
+I/O Module,Ciper 50 - Panel Bus 12 BI Module,Honeywell,XF823A + XSU823,387.63,1.045,I/O Module
+I/O Module,Ciper 50 - Panel Bus 6 BO Module,Honeywell,XFR824A + XSU824-25,496.09000000000003,1.045,I/O Module
+I/O Module,Ciper 50 - Panel Bus 3 Floating BO Module,Honeywell,XFR825A + XSU824-25,581.12,1.045,I/O Module
+I/O Module,"Ciper 50 - Panel Bus Mixed I/O - 8 AI, 8 AO, 12 BI, 6 BO",Honeywell,XFU830A,922.58,1.045,I/O Module
+I/O Module,Optimizer Unitary Cntr 8-DI - RTU Modbus I/O Module,Broudy,ISMA-B-8I,206.8,1.0,I/O Module
+I/O Module,Optimizer Unitary Cntr 8-UI - RTU Modbus I/O Module,Broudy,ISMA-B-8U,294.81,1.0,I/O Module
+I/O Module,"Optimizer Unitary Cntr 4-UI, 4 DO w OVR I/O Module",Broudy,ISMA-B-4U40-H,310.41,1.0,I/O Module
+I/O Module,"Optimizer Unitary Cntr 5-UI, 5-DI, 4-AO, 4-DO I/O Module",Broudy,ISMA-B-MIX18,338.81,1.0,I/O Module
+I/O Module,"Optimizer Unitary Cntr 8-UI, 12-DI, 6-AO, 12-DO I/O Module",Broudy,ISMA-B-MIX38,532.41,1.0,I/O Module
+I/O Module,Optimizer Plant Cntr 16 Universal I/O Module,Honeywell,IO-16UIO-S-S,531.73,1.045,I/O Module
+I/O Module,Optimizer Plant Cntr 16 Digital Input Module,Honeywell,IO-16DI-S-S,347.93,1.045,I/O Module
+I/O Module,Optimizer Plant Cntr 16 Universal Input Module,Honeywell,IO-16UI-S-S,512.04,1.045,I/O Module
+I/O Module,Optimizer Plant Cntr 16 Universal I/O Module with HOA,Honeywell,IOD-16UIO-S-S,594.1,1.045,I/O Module
+I/O Module,Optimizer Plant Cntr  8 Relay Digital Output Module with HOA,Honeywell,IOD-8DOR-S-S,452.96,1.045,I/O Module
+I/O Module,Optimizer Plant Cntr 8 Relay Digital Output Module,Honeywell,IO-8DOR-S-S,407.0,1.045,I/O Module
+I/O Module,"JCI, F4 Expansion Module, 3UI, 1BI, 4CO, 2BO",JCI,F4-XPM04060-0,311.46,1.05,I/O Module
+I/O Module,"JCI, F4 Expansion Module, 7UI, 2BI, 4CO, 2AO, 3BO",JCI,F4-XPM09090-0,420.39,1.05,I/O Module
+I/O Module,"JCI, F4 Expansion Module, 18BI",JCI,F4-XPM18000-0,387.08,1.05,I/O Module
+I/O Module,"JCI, 2UI, 2RO, 2UO",JCI,FX-PCX2711-0,413.49,1.05,I/O Module
+I/O Module,"JCI, 8UI, 2AO",JCI,FX-PCX2721-0,592.35,1.05,I/O Module
+I/O Module,"JCI, 4UI, 4RO, 4UO",JCI,FX-PCX3711-0,517.68,1.05,I/O Module
+I/O Module,"JCI, 16BI",JCI,FX-PCX3721-0,814.7,1.05,I/O Module
+I/O Module,"JCI, 8BI, 8BO",JCI,FX-PCX3731-0,897.56,1.05,I/O Module
+I/O Module,"JCI, 6UI, 2BI, 4CO, 3BO",JCI,FX-PCX4711-0,741.43,1.05,I/O Module
+I/O Module,"Siemens 24VDC SUPPLY 1200MA, 4 A FUSE",Siemens,TXS1.12F4,213.57,1.0,I/O Module
+I/O Module,Siemens 6 RELAY OUTPUT MODULE,Siemens,TXM1.6R,278.44,1.0,I/O Module
+I/O Module,Siemens 8 UNIVERSAL I/O MODULE,Siemens,TXM1.8U,363.81,1.0,I/O Module
+I/O Module,Siemens 8 UNIV I/O MODULE W/ 4-20MA,Siemens,TXM1.8X,453.95,1.0,I/O Module
+I/O Module,Siemens 8 DIGITAL INPUT MODULE,Siemens,TXM1.8D,185.23,1.0,I/O Module
+I/O Module,Siemens 16 DIGITAL INPUT MODULE,Siemens,TXM1.16D,277.79,1.0,I/O Module
+I/O Module,Siemens @ADDRESS KEY 1-12 + RESET KEY,Siemens,TXA1.K12,7.68,1.0,I/O Module
+I/O Module,Siemens 6 RELAY OUTPUT MODULE W/OVD,Siemens,TXM1.6R-M,427.71,1.0,I/O Module
+I/O Module,Siemens 8 UNIV I/O MODULE W/ OVD&LCD,Siemens,TXM1.8U-ML,590.96,1.0,I/O Module
+I/O Module,"Siemens8 UNIV I/O W/ 4-20MA, OVD&LCD",Siemens,TXM1.8X-ML,695.23,1.0,I/O Module
+I/O Module,Siemens TX-I/O Module Distance Expansion Module,Siemens,TXA1.IBE,157.38,1.0,I/O Module
+I/O Module,Phoenix 8 Digital Inputs,Broudy,IB IL 24 DI 8/HD-ECO,45.44,1.0,I/O Module
+I/O Module,Phoenix 8 Digital Outputs,Broudy,IB IL 24 DO 8/HD-ECO,51.63,1.0,I/O Module
+I/O Module,Phoenix 4 Analog 4-20mA Inputs,Broudy,IB IL AI 4/I/4-20-ECO,177.6,1.0,I/O Module
+I/O Module,Phoenix 4 Analog 0-10VDC Inputs,Broudy,IB IL AI 4/U/0-10-ECO,125.29,1.0,I/O Module
+I/O Module,Phoenix 4 RTD Platinum 100 Inputs,Broudy,IB IL RTD 4/PT100-ECO,303.98,1.0,I/O Module
+I/O Module,Phoenix 4 RTD Platinum 1000 Inputs,Broudy,IB IL RTD 4/PT1000-ECO,259.96,1.0,I/O Module
+I/O Module,Phoenix 4 RTD Inputs 0 - 300K Ohm Range,Broudy,IB IL AI/TEMP 4 RTD-PAC,289.35,1.0,I/O Module
+I/O Module,Phoenix 4 RTD Inputs 0 - 100K Ohm Range,Broudy,IB IL RTD 4/NTC-ECO,156.04,1.0,I/O Module
+I/O Module,Phoenix 4 4-20 Analog Outputs,Broudy,IB IL AO 4/I/4-20-ECO,177.6,1.0,I/O Module
+I/O Module,Phoenix 4 4-20 Analog Outputs,Broudy,IB IL AO 4/U/0-10-ECO,125.29,1.0,I/O Module
+I/O Module,Phoenix RS232 Module,Broudy,IB IL RS 232-ECO,257.28,1.0,I/O Module
+I/O Module,Phoenix RS485 Module,Broudy,IB IL RS 485-ECO,257.07,1.0,I/O Module
+Jace,AX Extended Memory,Honeywell,NPM-256MB,846.15,1.045,Jace
+Jace,300 AX Panel,Honeywell,WEB-300-O,,1.045,Jace
+Jace,600 AX Panel,Honeywell,WEB-600-O,,1.045,Jace
+Jace,700 AX Panel,Honeywell,WEB-700-O,,1.045,Jace
+Jace,Wall Adapter (Plug),Honeywell,NPB-WPM-US,0.0,1.045,Jace
+Jace,LON Repeater,Honeywell,Q7740A1008,,1.045,Jace
+Jace,WEB 8000 Panel,Honeywell,Non WiFi Base Jace ONLY - Needs Core,809.63,1.045,Jace
+Jace,WEB 8005 Panel,Honeywell,WEB-8005,1174.33,1.045,Jace
+Jace,WEB 8010 Panel,Honeywell,WEB-8010,1356.6799999999998,1.045,Jace
+Jace,WEB 8025 Panel,Honeywell,WEB-8025,1699.5,1.045,Jace
+Jace,WEB 8100 Panel,Honeywell,WEB-8100,3439.12,1.045,Jace
+Jace,WEB 8200 Panel,Honeywell,WEB-8200,4750.21,1.045,Jace
+Jace,WEB 9005 Panel,Honeywell,WEB-9005,1330.06,1.045,Jace
+Jace,WEB 9010 Panel,Honeywell,WEB-9010,1512.4099999999999,1.045,Jace
+Jace,WEB 9025 Panel,Honeywell,WEB-9025,1855.23,1.045,Jace
+Jace,WEB 9100 Panel,Honeywell,WEB-9100,3594.85,1.045,Jace
+Jace,WEB 9200 Panel,Honeywell,WEB-9200,4905.94,1.045,Jace
+Jace,WEB 8000 Panel Wall Adater (Plug),Honeywell,WPM-8000,47.41,1.045,Jace
+Jace,WEB8000 - Single Port LON Module,Honeywell,NPB-8000-LON,255.29,1.045,Jace
+Jace,WEB8000 - Dual Port RS-485 Module,Honeywell,NPB-8000-2X-485,255.29,1.045,Jace
+Jace,WEB8000 - Single Port RS-232 Module,Honeywell,NPB-8000-232,235.23,1.045,Jace
+Jace,"WEB8000 - 16 Point Module, 8UI, 4DO, 4AO",Honeywell,IO-R-16,304.52,1.045,Jace
+Jace,"WEB8000 - 34 Point Module, 16UI, 10DO, 8AO",Honeywell,IO-R-34,676.52,1.045,Jace
+Jace,Enables WEB-800 to run WEBs-AX (3.8U),Honeywell,JACE-8000-AX,0.0,1.045,Jace
+Jace,JCI FX80 BASE - NO LICENSES,JCI,FX-SC9BASE-0,1203.16,1.05,Jace
+Jace,JCI FX80 5 Device License,JCI,FX-SC8CL005-0,378.4,1.05,Jace
+Jace,JCI FX80 10 Device License,JCI,FX-SC8CL010-0,656.7,1.05,Jace
+Jace,JCI FX80 25 Device License,JCI,FX-SC8CL025-0,927.83,1.05,Jace
+Jace,JCI FX80 100 Device License,JCI,FX-SC8CL100-0,2740.84,1.05,Jace
+Jace,JCI FX80 200 Device License,JCI,FX-SC8CL200-0,4105.89,1.05,Jace
+Jace,JCI FX80 Wall Power Supply,JCI,FX-SC8XPS-0,61.16,1.05,Jace
+Jace,JCI FX80 LON Expansion Module,JCI,FX-SC8XLON-0,280.9,1.05,Jace
+Jace,JCI FX80 Dual RS485 Expansion Module,JCI,FX-SC8XD485-0,280.9,1.05,Jace
+Jace,JCI FX80 Dual RS232 Expansion Module,JCI,FX-SC8X232-0,258.25,1.05,Jace
+Jace,JCI FX80 Downgrade to run AX Ver 3.8,JCI,FX-SC8LAX-0,,1.05,Jace
+Jace Maintenance,WEB300E 1 Year Maintenance,Honeywell,SMA-3E-1YR,,1.045,Jace Maintenance
+Jace Maintenance,WEB300E 3 Year Maintenance,Honeywell,SMA-3E-3YR,,1.045,Jace Maintenance
+Jace Maintenance,WEB300E 5 Year Maintenance,Honeywell,SMA-3E-5YR,,1.045,Jace Maintenance
+Jace Maintenance,WEB600E 1 Year Maintenance,Honeywell,SMA-6E-1YR,,1.045,Jace Maintenance
+Jace Maintenance,WEB600E 3 Year Maintenance,Honeywell,SMA-6E-3YR,,1.045,Jace Maintenance
+Jace Maintenance,WEB600E 5 Year Maintenance,Honeywell,SMA-6E-5YR,,1.045,Jace Maintenance
+Jace Maintenance,WEB700 1 Year Maintenance,Honeywell,SMA-7-1YR,,1.045,Jace Maintenance
+Jace Maintenance,WEB700 3 Year Maintenance,Honeywell,SMA-7-3YR,,1.045,Jace Maintenance
+Jace Maintenance,WEB700 5 Year Maintenance,Honeywell,SMA-7-5YR,,1.045,Jace Maintenance
+Jace Maintenance,WEB-9005 Initial 18 Month Maintenance,Honeywell,SMA-9005-1YR-INIT,76.96,1.045,Jace Maintenance
+Jace Maintenance,WEB-9010 Initial 18 Month Maintenance,Honeywell,SMA-9010-1YR-INIT,115.42,1.045,Jace Maintenance
+Jace Maintenance,WEB-9025 Initial 18 Month Maintenance,Honeywell,SMA-9025-1YR-INIT,187.56,1.045,Jace Maintenance
+Jace Maintenance,WEB-9100 Initial 18 Month Maintenance,Honeywell,SMA-9100-1YR-INIT,555.48,1.045,Jace Maintenance
+Jace Maintenance,WEB-9200 Initial 18 Month Maintenance,Honeywell,SMA-9200-1YR-INIT,832.02,1.045,Jace Maintenance
+Jace Maintenance,WEB-9005 Additional 1 Year Maintenance,Honeywell,SMA-9005-1YR,76.96,1.045,Jace Maintenance
+Jace Maintenance,WEB-9005 Additional 3 Year Maintenance,Honeywell,SMA-9005-3YR,187.56,1.045,Jace Maintenance
+Jace Maintenance,WEB-9005 Additional 5 Year Maintenance,Honeywell,SMA-9005-5YR,240.47,1.045,Jace Maintenance
+Jace Maintenance,WEB-9010 Additional 1 Year Maintenance,Honeywell,SMA-9010-1YR,115.42,1.045,Jace Maintenance
+Jace Maintenance,WEB-9010 Additional 3 Year Maintenance,Honeywell,SMA-9010-3YR,281.35,1.045,Jace Maintenance
+Jace Maintenance,WEB-9010 Additional 5 Year Maintenance,Honeywell,SMA-9010-5YR,360.7,1.045,Jace Maintenance
+Jace Maintenance,WEB-9025 Additional 1 Year Maintenance,Honeywell,SMA-9025-1YR,187.56,1.045,Jace Maintenance
+Jace Maintenance,WEB-9025 Additional 3 Year Maintenance,Honeywell,SMA-9025-3YR,456.89,1.045,Jace Maintenance
+Jace Maintenance,WEB-9025 Additional 5 Year Maintenance,Honeywell,SMA-9025-5YR,586.74,1.045,Jace Maintenance
+Jace Maintenance,WEB-9100 Additional 1 Year Maintenance,Honeywell,SMA-9100-1YR,555.48,1.045,Jace Maintenance
+Jace Maintenance,WEB-9100 Additional 3 Year Maintenance,Honeywell,SMA-9100-3YR,1351.43,1.045,Jace Maintenance
+Jace Maintenance,WEB-9100 Additional 5 Year Maintenance,Honeywell,SMA-9100-5YR,1733.77,1.045,Jace Maintenance
+Jace Maintenance,WEB-9200 Additional 1 Year Maintenance,Honeywell,SMA-9200-1YR ,832.02,1.045,Jace Maintenance
+Jace Maintenance,WEB-9200 Additional 3 Year Maintenance,Honeywell,SMA-9200-3YR,2027.14,1.045,Jace Maintenance
+Jace Maintenance,WEB-9200 Additional 5 Year Maintenance,Honeywell,SMA-9200-5YR,2599.45,1.045,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 18 Month Maintenance for up to 5 Devices,JCI,FX-SC8D005M1-0,82.92,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 18 Month Maintenance for 10 - 25 Devices,JCI,FX-SC8D010M1-0,152.75,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 18 Month Maintenance for 25 - 99 Devices,JCI,FX-SC8D025M1-0,206.99,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 18 Month Maintenance for 100-199 Devices,JCI,FX-SC8D100M1-0,615.98,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 18 Month Maintenance for 200 Up Devices,JCI,FX-SC8D200M1-0,975.09,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 3 Year Maintenance for up to 5 Devices,JCI,FX-SC8D005M3-0,206.35,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 3 Year Maintenance for 10 - 25 Devices,JCI,FX-SC8D010M3-0,359.12,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 3 Year Maintenance for 25 - 99 Devices,JCI,FX-SC8D025M3-0,502.34,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 3 Year Maintenance for 100-199 Devices,JCI,FX-SC8D100M3-0,1603.02,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 3 Year Maintenance for 200 Up Devices,JCI,FX-SC8D200M3-0,2225.76,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 5 Year Maintenance for up to 5 Devices,JCI,FX-SC8D005M5-0,297.59,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 5 Year Maintenance for 10 - 25 Devices,JCI,FX-SC8D010M5-0,582.43,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 5 Year Maintenance for 25 - 99 Devices,JCI,FX-SC8D025M5-0,828.57,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 5 Year Maintenance for 100-199 Devices,JCI,FX-SC8D100M5-0,2472.42,1.05,Jace Maintenance
+Jace Maintenance,JCI FX80 Initial 5 Year Maintenance for 200 Up Devices,JCI,FX-SC8D200M5-0,3703.06,1.05,Jace Maintenance
+Jace Device Pack,WEB8000 Add 10 Devices/500 Points,Honeywell,DEVICE-10,760.4,1.045,Jace Device Pack
+Jace Device Pack,WEB8000 Add 25 Devices/1250 Points,Honeywell,DEVICE-25,1287.39,1.045,Jace Device Pack
+Jace Device Pack,WEB8000 Add 50 Devices/2500 Points,Honeywell,DEVICE-50,2405.2,1.045,Jace Device Pack
+Jace Device Pack,WEB8000 Add 10 Devices/500 Pts Upgrade,Honeywell,DEVICE-UP-10 - Discontinued,0.0,1.045,Jace Device Pack
+Jace Device Pack,WEB8000 Add 25 Devices/1250 Pts Upgrade,Honeywell,DEVICE-UP-25 - Discontinued,0.0,1.045,Jace Device Pack
+Jace Device Pack,WEB8000 Add 50 Devices/2500 Pts Upgrade,Honeywell,DEVICE-UP-50 - Discontinued,0.0,1.045,Jace Device Pack
+Jace Device Pack,JCI FX80 Initial 10 Device Add,JCI,FX-SC8DL10-0,813.82,1.05,Jace Device Pack
+Jace Device Pack,JCI FX80 Initial 25 Device Add,JCI,FX-SC8DL25-0,1350.0,1.05,Jace Device Pack
+Jace Device Pack,JCI FX80 50 Device Add,JCI,FX-SC8DL50-0,2649.5,1.05,Jace Device Pack
+Nametags,,,,5.0,1.0,Nametags
+Panel - Enclosure w Subpanel,Nema-1 Small,Kele,RET1-181207BT-P,345.85,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Nema-1 Medium,Kele,RET1-262007BT-P,436.83,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Nema-1 Large,Kele,RET1-362607PB-P,823.71,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Nema-1 X-Large,Kele,A-42N3609-P,1667.99,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Nema-4 Small,Kele,A-16H16ALP-P,717.37,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Nema-4 Medium,Kele,A-24H24ALP-P,1124.58,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Nema-4 Large,Kele,CSD423610-PF,1512.98,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Nema-12 Small,Kele,A-161606LP-P,677.78,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Nema-12 Medium,Kele,A-242408LP-P,979.91,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Nema-12 Large,Kele,A-362408LP-P,1306.19,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Micro Spyder Enclosure,Honeywell,WB10707 - Discontinued,0.0,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,One Hole Pushbutton/PL Enclosure,Kele,E1PBG,114.33,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Two Hole Pushbutton/PL Enclosure,Kele,E2PBG,131.35,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Three Hole Pushbutton/PL Enclosure,Kele,E3PBG,150.96,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Four Hole Pushbutton/PL Enclosure,Kele,E4PBG,164.28,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Small Nema-1 Enclosure,ALPS,SCE14N1206LP,107.51,1.0,Panel - Enclosure w Subpanel
+Panel - Enclosure w Subpanel,Outdoor Aspirator Cabinet - Needs 24VDC,Kele,A21,398.46,1.0,Panel - Enclosure w Subpanel
+Pilot Light,Pilot Light - Green,Kele,APW299D-G-24,46.65,1.0,Pilot Light
+Pilot Light,Pilot Light - Red,Kele,APW299D-R-24,46.65,1.0,Pilot Light
+Pilot Light,Pilot Light - Amber,Kele,APW299D-A-24,46.65,1.0,Pilot Light
+Pneumatic,Electronic Pressure Transducer,Kele,EP-313-020,178.79,1.0,Pneumatic
+Pneumatic,Solenoid Air Valve - 24V,ALPS,V11HGA-100,277.27,1.0,Pneumatic
+Pneumatic,Solenoid Air Valve - 120V,ALPS,V11HAA-100,260.34,1.0,Pneumatic
+Pneumatic,Pressure Electric Switch,ALPS,P10BC-7C,123.75,1.0,Pneumatic
+Power Supply,24VDC Panel Mounted - 1.3 A,ALPS,PS5R-VB24,50.96,1.0,Power Supply
+Power Supply,24VDC Field Mounted - 250 mA,Kele,DCP-250-H,73.08,1.0,Power Supply
+Power Supply,24VDC 150 Watt - 6.5 Amp,ALPS,M-600400,632.65,1.0,Power Supply
+Power Supply,Phoenix 30W 24V,Broudy,2902991,23.05,1.0,Power Supply
+Power Supply,Phoenix 60W 24V,Broudy,2902992,55.08,1.0,Power Supply
+Power Supply,Phoenix 100W 24V,Broudy,2902993,87.64,1.0,Power Supply
+Power Supply,Phoenix 90W 24V,Broudy,2904371,99.86,1.0,Power Supply
+Power Supply,Phoenix 2.5A 24V,Broudy,2904598,100.45,1.0,Power Supply
+Power Supply,Phoenix 150W 24V,Broudy,2904376,31.07,1.0,Power Supply
+Power Supply,Phoenix Surge Protector,Broudy,2907918,181.05,1.0,Power Supply
+Power Supply,Phoenix 24VDC UPS,Broudy,2905907,316.2,1.0,Power Supply
+Press Transmitter,High Static Limit Switch,ALPS,1900-5-MR,111.93,1.0,Press Transmitter
+Press Transmitter,Duct Static Air,ALPS,PX3DXX02,130.12,1.0,Press Transmitter
+Press Transmitter,0 - 50 PSI Wet,ALPS,PG05AM,228.2,1.0,Press Transmitter
+Press Transmitter,0 - 50 PSI Wet with Display,Kele,GC51-50,1397.22,1.0,Press Transmitter
+Press Transmitter,"Diff, Wet-Wet",ALPS,PWLX04S,399.25,1.0,Press Transmitter
+Press Transmitter,3 Valve Manifold,ALPS,AA14A,321.32,1.0,Press Transmitter
+Press Transmitter,Steam Pigtail,Kele,PT,13.27,1.0,Press Transmitter
+Press Transmitter,0-50 PSI with 2 Remote Sensors w 10' cables,ALPS,PWRLX03S010,592.31,1.0,Press Transmitter
+Press Transmitter,0-100 PSI with 2 Remote Sensors w 10' cables,ALPS,PWRLX04S010,592.31,1.0,Press Transmitter
+Press Transmitter,0-250 PSI with 2 Remote Sensors w 10' cables,ALPS,PWRLX05S010,592.31,1.0,Press Transmitter
+Press Transmitter,Setra Space Pressure - Analog out,Kele,26410R5WB11A1C,282.25,1.0,Press Transmitter
+Press Transmitter,Setra Low DP Pressure - Analog out,Kele,2691-001WB,1397.66,1.0,Press Transmitter
+Press Transmitter,Setra 1 Room Monitor - Voltage out,Kele,SRPM-0R1WB-A1-V,1976.64,1.0,Press Transmitter
+Press Transmitter,Setra 1 Room Monitor - BACNet,Kele,SRPM-0R1WB-A2-E,1967.07,1.0,Press Transmitter
+Press Transmitter,Setra Remote Annunciator,ALPS,SRAN,249.92,1.0,Press Transmitter
+Press Transmitter,Setra FLEX Room Monitor,ALPS,FLEXNNNNNRM7SN,2464.45,1.0,Press Transmitter
+Press Transmitter,Pressura 1 Room Monitor - BACNet,Pressura,RPM10,1972.45,1.0,Press Transmitter
+Press Transmitter,Pressura 2 Rm + Ante Rm Monitor - BACNET,Pressura,RPM20,2322.65,1.0,Press Transmitter
+Press Transmitter,Pressura RPM20 Remote Monitor - Up to 2 Additional for RPM20,Pressura,800243,618.0,1.0,Press Transmitter
+Press Transmitter,Pressura 2 Rm + Ante Rm Monitor - LON,Pressura,RPM20-LON,2914.9,1.0,Press Transmitter
+Press Transmitter,Pressura 1 Room Controller - BACNet,Pressura,RPC30,3203.3,1.0,Press Transmitter
+Press Transmitter,Pressura 1 Room Controller - LON,Pressura,RPC30-LON,3780.1,1.0,Press Transmitter
+Press Transmitter,Pressura Nurses Station Monitor for 8 Sensors,Pressura,NSD8,2693.45,1.0,Press Transmitter
+Press Transmitter,Iso-Tek Space Pressure,Iso-Tek,SPM-2000,0.0,1.0,Press Transmitter
+Press Transmitter,Iso-Tek Monitor Setup Tool,Iso-Tek,SPM-7000,0.0,1.0,Press Transmitter
+Press Transmitter,Triatek Bacnet Space Pressure,Triatek,FMS-1655,0.0,1.0,Press Transmitter
+Push button,Extended Head,ALPS,ABW-211,22.11,1.0,Push button
+Push button,Flush Head,ALPS,ABW-111,19.32,1.0,Push button
+Horn/Strobe,Red Indoor,Kele,869STR-R-AQ,395.1,1.0,Horn/Strobe
+Horn/Strobe,Red Outdoor,Kele,868STR-R-AQ,516.35,1.0,Horn/Strobe
+Horn/Strobe,Sonalert 24VAC/DC Horn Only,Kele,SC628A,55.68,1.0,Horn/Strobe
+Horn/Strobe,White Horn and Strobe,Kele,P2WLED-P,172.26,1.0,Horn/Strobe
+Horn/Strobe,"Tower Light - Green/Amber/Red with Horn, 24VAC/DC",Kele,WTL-50P1-MCDGDAFRFS3,351.05,1.0,Horn/Strobe
+Relay,24VAC SPDT with Base,Kele,RH1B-UAC24 + SH1B-05,6.949999999999999,1.0,Relay
+Relay,24VAC DPDT with Base,Kele,RH2B-UAC24 + SH2B-05,8.120000000000001,1.0,Relay
+Relay,24VAC DPDT w OR/LED & Base,Kele,KIT-782XBXM4L-24A,33.27,1.0,Relay
+Relay,RIB Pilot Relay,Broudy,RIBU1C,14.36,1.0,Relay
+Relay,RIB Pilot Relay with HOA,Broudy,RIBU1S,30.01,1.0,Relay
+Relay,RIB Power Relay DPDT,Broudy,RIB24P,63.98,1.0,Relay
+Relay,"RIB Power Relay, HOA, SPST",Broudy,RIB2402SB,37.5,1.0,Relay
+Relay,RIB BACnet SPDT Relay with 1 Input - Needs 24VAC,Broudy,RIBTW2401B-BC,113.99,1.0,Relay
+Refrigerant Monitor,"Sherlock Refrigerant Monitor Panel, MODBUS & A/O KIT SHLK404",Sherlock,88-0759-00,3213.61,1.0,Refrigerant Monitor
+Refrigerant Monitor,Sherlock R-123 Room Sensor IR SNR R-123,Sherlock,60-0137-01,1427.14,1.0,Refrigerant Monitor
+Refrigerant Monitor,Sherlock R-513A Room Sensor IR SNR R-513A,Sherlock,60-0542-01,1261.61,1.0,Refrigerant Monitor
+Refrigerant Monitor,Sherlock Blue Alarm Strobe,Sherlock,88-0233-00,267.3,1.0,Refrigerant Monitor
+Refrigerant Monitor,Belimo Refrigerant Gas Detector w CANbus for accessories below,Broudy,22G21-5C,1945.1,1.0,Refrigerant Monitor
+Refrigerant Monitor,Belimo Audible Alarm,Broudy,A-22G-A16,312.17,1.0,Refrigerant Monitor
+Refrigerant Monitor,Belimo Visual Alarm,Broudy,A-22G-A15,143.22,1.0,Refrigerant Monitor
+Refrigerant Monitor,Belimo Relay Module w 4 SPDT Relays,Broudy,C-22G-5B,181.04,1.0,Refrigerant Monitor
+Refrigerant Monitor,"Belimo Communication Module, 2 Relays, BACnet, CANbus",Broudy,C-22G-5B,256.06,1.0,Refrigerant Monitor
+Refrigerant Monitor,"Sen Tech 1, 2 or 3 Zone Refrigerant Monitor",Sen Tech,"IR-SNIF1,2,3",2182.0,1.0,Refrigerant Monitor
+Refrigerant Monitor,Sen Tech 4 Zone Refrigerant Monitor,Sen Tech,MCD4,4677.0,1.0,Refrigerant Monitor
+Refrigerant Monitor,Sen Tech Combo Horn Strobe,Sen Tech,ACC020,164.0,1.0,Refrigerant Monitor
+Refrigerant Monitor,"Refrigerant Sensor, R134A w Alarm Horn,1 Relay and 1 AO",Kele,RLD-134A,1292.39,1.0,Refrigerant Monitor
+SensePoint Gas Detection,CO Modbus w/ Relay,ALPS,SPLCC1BMRCXNZZ,968.53,1.0,SensePoint Gas Detection
+SensePoint Gas Detection,CO Modbus w/o Relay,ALPS,SPLCC1BMXCXNZZ,828.51,1.0,SensePoint Gas Detection
+SensePoint Gas Detection,CO 4-20mA w/ Relay,ALPS,SPLCC1BARCXCXNZZ,808.65,1.0,SensePoint Gas Detection
+SensePoint Gas Detection,CO 4-20mA w/o Relay,ALPS,SPLCC1BAXCXNZZ,808.65,1.0,SensePoint Gas Detection
+SensePoint Gas Detection,NO2 Modbus w/ Relay,ALPS,SPLCN1BMRCXNZZ,968.53,1.0,SensePoint Gas Detection
+SensePoint Gas Detection,NO2 Modbus w/o Relay,ALPS,SPLCNN1BMXCXNZZ,828.51,1.0,SensePoint Gas Detection
+SensePoint Gas Detection,NO2 4-20mA w/ Relay,ALPS,SPLCN1BARCXNZZ,968.53,1.0,SensePoint Gas Detection
+SensePoint Gas Detection,NO2 4-20mA w/o Relay,Kele,SPLCN1BAXCXNZZ,1258.46,1.0,SensePoint Gas Detection
+SensePoint Gas Detection,CO and NO2 Modbus Bundle,Kele,SPLCONO2-BNDL-MB,2333.76,1.0,SensePoint Gas Detection
+SensePoint Gas Detection,CO and NO2 4-20mA Bundle,Kele,SPLCONO2-BNDL-MA,2077.13,1.0,SensePoint Gas Detection
+Switch,2 Position,Kele,ASW-210,25.15,1.0,Switch
+Switch,3 Position,Kele,ASW-320,25.54,1.0,Switch
+Switch,Smoke Dmpr Disconnect with PL,Kele,PDK-L,76.56,1.0,Switch
+Switch,Door Switch,,,25.0,1.0,Switch
+Switch,Overhead Door Switch,Kele,MET-44WG-18,25.04,1.0,Switch
+Switch,Air Flow Switch,Kele,AFS-222,36.0,1.0,Switch
+System Supervisor,Small - AX 3 Stations,Honeywell,WEB-S-AX-3-O,0.0,1.045,System Supervisor
+System Supervisor,Medium - AX 100 Stations,Honeywell,WEB-S-AX-100-O,0.0,1.045,System Supervisor
+System Supervisor,Large - AX Unlimited,Honeywell,WEB-S-AX-UNL-O,0.0,1.045,System Supervisor
+System Supervisor,N4 Supervisor-for 0 Network - (SoftJace),Honeywell,WEB-S-0-N4,565.25,1.045,System Supervisor
+System Supervisor,N4 Supervisor for 1 Network,Honeywell,WEB-S-1-N4,776.81,1.045,System Supervisor
+System Supervisor,N4 Supervisor for 2 Network,Honeywell,WEB-S-2-N4,926.34,1.045,System Supervisor
+System Supervisor,N4 Supervisor for 3 Network,Honeywell,WEB-S-3-N4,1088.63,1.045,System Supervisor
+System Supervisor,N4 Supervisor for 10 Network,Honeywell,WEB-S-10-N4,2478.14,1.045,System Supervisor
+System Supervisor,N4 Supervisor for 100 Network,Honeywell,WEB-S-100-N4,3674.35,1.045,System Supervisor
+System Supervisor,N4 Supervisor Unlimited,Honeywell,WEB-S-UNL-N4,7536.53,1.045,System Supervisor
+System Supervisor,N4 Add 1 Network Connectin,Honeywell,SUP-UP-1,282.64,1.045,System Supervisor
+System Supervisor,N4 Add 100 Network Connectin,Honeywell,SUP-UP-100,3915.05,1.045,System Supervisor
+System Supervisor,N4 Upgrades Supervisor 100 to Unlimited,Honeywell,SUP-UP-UNL,4219.58,1.045,System Supervisor
+System Supervisor,JCI FX80 Server - 0 Network License,JCI,FX-SL000-0,650.88,1.05,System Supervisor
+System Supervisor,JCI FX80 Server - 1 Network License,JCI,FX-SL001-0,808.87,1.05,System Supervisor
+System Supervisor,JCI FX80 Server - 2 Network License,JCI,FX-SL002-0,965.99,1.05,System Supervisor
+System Supervisor,JCI FX80 Server - 3 Network License,JCI,FX-SL003-0,1258.35,1.05,System Supervisor
+System Supervisor,JCI FX80 Server - 10 Network License,JCI,FX-SL010-0,2867.83,1.05,System Supervisor
+System Supervisor,JCI FX80 Server - 100 Network License,JCI,FX-SL100-0,4255.85,1.05,System Supervisor
+System Supervisor,JCI FX80 Server - Unlimited Network Licenses,JCI,FX-SLUNL-0,7850.87,1.05,System Supervisor
+System Supervisor,JCI FX80 Server Add 1 Device License,JCI,FX-SLU001-6,301.19,1.05,System Supervisor
+System Supervisor,JCI FX80 Server Add 10 Device License,JCI,FX-SLDL010-0,1183.04,1.05,System Supervisor
+System Supervisor,JCI FX80 Server Add 25 Device License,JCI,FX-SLDL025-0,1851.17,1.05,System Supervisor
+System Supervisor,JCI FX80 Server Add 50 Device License,JCI,FX-SLDL050-0,2779.0,1.05,System Supervisor
+System Supervisor,JCI FX80 Server Add 100 Device License,JCI,FX-SLDL100-0,4163.09,1.05,System Supervisor
+System Supervisor,JCI FX80 Server Add 200 Device License,JCI,FX-SLDL200-0,5799.5,1.05,System Supervisor
+N4 System Supervisor Device Pack,N4 Supervisor (10) Field Device Pack,Honeywell,SUP-DEVICE-10,979.22,1.045,N
+N4 System Supervisor Device Pack,N4 Supervisor (25) Field Device Pack,Honeywell,SUP-DEVICE-25,1531.74,1.045,N
+N4 System Supervisor Device Pack,N4 Supervisor (50) Field Device Pack,Honeywell,SUP-DEVICE-50,2556.55,1.045,N
+N4 System Supervisor Device Pack,N4 Supervisor (100) Field Device Pack,Honeywell,SUP-DEVICE-100,3413.59,1.045,N
+N4 System Supervisor Device Pack,N4 Supervisor (200) Field Device Pack,Honeywell,SUP-DEVICE-200,4746.57,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 0 Initial 18 Month Maintenance,Honeywell,SUP-0-SMA-INIT,120.23,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 1 Initial 18 Month Maintenance,Honeywell,SUP-1-SMA-INIT,185.16,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 2 Initial 18 Month Maintenance,Honeywell,SUP-2-SMA-INIT,218.82,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 3 Initial 18 Month Maintenance,Honeywell,SUP-3-SMA-INIT,257.3,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 10 Initial 18 Month Maintenance,Honeywell,SUP-10-SMA-INIT,521.81,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 100 Initial 18 Month Maintenance,Honeywell,SUP-100-SMA-INIT,774.31,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor Unlimited Initial 18 Month Maintenance,Honeywell,SUP-UNL-SMA-INIT,1324.57,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 0 Additional 1 Year Maintenance,Honeywell,SUP-0-SMA-1YR,144.28,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 0 Additional 3 Year Maintenance,Honeywell,SUP-0-SMA-3YR,315.01,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 0 Additional 5 Year Maintenance,Honeywell,SUP-0-SMA-5YR,403.98,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 1 Additional 1 Year Maintenance,Honeywell,SUP-1-SMA-1YR,154.3,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 1 Additional 3 Year Maintenance,Honeywell,SUP-1-SMA-3YR,399.18,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 1 Additional 5 Year Maintenance,Honeywell,SUP-1-SMA-5YR,512.2,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 2 Additional 1 Year Maintenance,Honeywell,SUP-2-SMA-1YR,218.82,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 2 Additional 3 Year Maintenance,Honeywell,SUP-2-SMA-3YR,476.12,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 2 Additional 5 Year Maintenance,Honeywell,SUP-2-SMA-5YR,610.78,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 3 Additional 1 Year Maintenance,Honeywell,SUP-3-SMA-1YR,257.3,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 3 Additional 3 Year Maintenance,Honeywell,SUP-3-SMA-3YR,560.29,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 3 Additional 5 Year Maintenance,Honeywell,SUP-3-SMA-5YR,719.0,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 10 Additional 1 Year Maintenance,Honeywell,SUP-10-SMA-1YR,512.81,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 10 Additional 3 Year Maintenance,Honeywell,SUP-10-SMA-3YR,1274.48,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 10 Additional 5 Year Maintenance,Honeywell,SUP-10-SMA-5YR,1635.18,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 100 Additional 1 Year Maintenance,Honeywell,SUP-100-SMA-1YR,774.31,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 100 Additional 3 Year Maintenance,Honeywell,SUP-100-SMA-3YR,1890.08,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor 100 Additional 5 Year Maintenance,Honeywell,SUP-100-SMA-5YR,2423.91,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor Unlimited Additional 1 Year Maintenance,Honeywell,SUP-UNL-SMA-1YR,1589.49,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor Unlimited Additional 3 Year Maintenance,Honeywell,SUP-UNL-SMA-3YR,3876.34,1.045,N
+N4 System Supervisor Maintenance,N4 Supervisor Unlimited Additional 5 Year Maintenance,Honeywell,SUP-UNL-SMA-5YR,4970.46,1.045,N
+Controller,"Spyder 5 w 4AO, 4UI, 0BI, 4 Relay BO, 2 Triac BO, w TC",Honeywell,WEB-RS5N,415.45,1.045,Controller
+Controller,"Spyder 6 w 6AO, 10UI, 0BI, 4 Relay BO, 4 Triac BO, w TC",Honeywell,WEB-RL6N,587.84,1.045,Controller
+Controller,Spyder Unitary 6438 wo Act or VP,Honeywell,PUL6438S,512.04,1.045,Controller
+Controller,Spyder Relay 6438 wo Act or VP for SIO,Honeywell,PUL6438SR,564.56,1.045,Controller
+Controller,Spyder VAV 4024 w VP No Act,Honeywell,PVL4024NS,361.05,1.045,Controller
+Controller,Spyder Unitary 4024 wo Act or VP,Honeywell,PUL4024S,338.23,1.045,Controller
+Controller,Spyder Unitary 1012 wo Act or VP,Honeywell,PUL1012S,256.02,1.045,Controller
+Controller,Spyder VAV 0000 w Act & VP,Honeywell,PVL0000AS,301.97,1.045,Controller
+Controller,Spyder VAV 4022 w Act & VP,Honeywell,PVL4022AS,387.31,1.045,Controller
+Controller,Spyder VAV 6436 w Act & VP,Honeywell,PVL6436AS,544.86,1.045,Controller
+Controller,Spyder VAV 6438 w VP No Act,Honeywell,PVL6438NS,620.51,1.045,Controller
+Controller,Stryker VAV 4022 w Act & VP,Honeywell,CVL4022AS-VAV1,325.1,1.045,Controller
+Controller,Stryker VAV 4024 wo Act,Honeywell,CVL4024NS-VAV1,298.85,1.045,Controller
+Controller,Stryker AHU Controller,Honeywell,CUL6438SR-CV1,420.14,1.045,Controller
+Controller,Stryker BACNet Lighting Controller,Honeywell,CLB6438S - Discontinued,,1.045,Controller
+Controller,Stryker BACNet VAV 4022 w Act & VP,Honeywell,CVB4022AS-VAV1,303.85,1.045,Controller
+Controller,Stryker BACNet VAV 4024 wo Act,Honeywell,CVB4024NS-VAV1,266.71,1.045,Controller
+Controller,Spyder BACNet 6438 wo Act or VP,Honeywell,PUB6438S,604.64,1.045,Controller
+Controller,Spyder BACNet 6438 wo Act or VP for SIO,Honeywell,PUB6438SR,593.65,1.045,Controller
+Controller,Spyder BACNet 4024 wo Act or VP,Honeywell,PUB4024S,320.73,1.045,Controller
+Controller,Spyder BACNet 1012 wo Act or VP,Honeywell,PUB1012S,232.95,1.045,Controller
+Controller,Spyder BACNet VAV 0000AS w Act & VP,Honeywell,PVB0000AS,261.65,1.045,Controller
+Controller,Spyder BACNet VAV 4022AS w Act & VP,Honeywell,PVB4022AS,357.62,1.045,Controller
+Controller,Spyder BACNet VAV 4024NS w VP No Act,Honeywell,PVB4024NS,311.35,1.045,Controller
+Controller,Spyder BACNet VAV 6436AS w Act & VP,Honeywell,PVB6436AS,496.72,1.045,Controller
+Controller,Spyder BACNet VAV 6438NS w VP No Act,Honeywell,PVB6438NS,470.15,1.045,Controller
+Controller,"Spyder 7 BACNet or IP VAV Controller w Act & VP, 7 Univ IO, 5 BO",Honeywell,WEB-VA75IB24NM,265.4,1.045,Controller
+Controller,"Spyder 7 BACNet or IP VAV Controller w Act & VP, 7 Univ IO, 5 BO BLE",Honeywell,WEB-VA75MB24NM,265.4,1.045,Controller
+Controller,"CIPer 10 Controller, 5 UI, 2 AO, 3 DO",Honeywell,EDGE-10,483.23,1.045,Controller
+Controller,"CIPer 30 Controller, 3 UI, 3 AO, 6 DO",Honeywell,WEB-C3036EPUBNH,790.53,1.045,Controller
+Controller,CIPer 30 VAV Controller - No Actuator,Honeywell,WEB-C3036EPVBNH,738.05,1.045,Controller
+Controller,CIPer 50 Plant Controller wo Display ,Honeywell,WEB-EHSERIESNX26ND,1291.63,1.045,Controller
+Controller,CIPer 50 Plant Controller with Display,Honeywell,WEB-EHSERIESNX26D,1451.67,1.045,Controller
+Controller,"Optimizer BACnet IP,8UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RS0844ES24NMC,286.97,1.045,Controller
+Controller,"Optimizer BACnet T1L,8UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RS0844TS24NMC,300.47,1.045,Controller
+Controller,"Optimizer BACnet MSTP,8UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RS0844MS24NMC,249.83,1.045,Controller
+Controller,"Optimizer BACnet IP,16UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RL1644ES24NMC,584.69,1.045,Controller
+Controller,"Optimizer BACnet T1L,16UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RL1644TS24NMC,591.69,1.045,Controller
+Controller,"Optimizer BACnet MSTP,16UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RL1644MS24NMC,549.68,1.045,Controller
+Controller,"Optimizer BACnet MSTP VAV Cntr w Act & VP, Bluetooth, 7 UIO, 5 SSR",Honeywell,VAA-VA75MB24NMC,269.24,1.045,Controller
+Controller,"Optimizer IP VAV Cntr w Act & VP, Bluetooth, 7 UIO, 5 SSR",Honeywell,VAA-VA75IB24NMC ,269.24,1.045,Controller
+Controller,"Optimizer T1L VAV Cntr w Act & VP, Bluetooth, 7 UIO, 5 SSR",Honeywell,VAA-VA75T24NMC ,281.96,1.045,Controller
+Controller,IP to T1L media adapter converts 10BASE-T to 10BASE-T1L,Honeywell,10BASE-T1L-ADAPT,201.14,1.045,Controller
+Controller,"Optimizer Plant Cntr, 1 IP, 2 Ethernet Switched+2 RS485 Ports",Honeywell,N-ADV-112-H-C,717.42,1.045,Controller
+Controller,"Optimizer Plant Cntr, 1 IP, 3 Ethernet Switched+4 RS485 Ports",Honeywell,N-ADV-134-H-C,837.46,1.045,Controller
+Controller,Optimizer Plant Cntr Remote Panel Bus or Extra RS485 Port,Honeywell,IO-ADPT-S-2,58.24,1.045,Controller
+Optimizer License with 18 Month SMA,Optimizer License for 3 Devices or 50 Points,Honeywell,N-ADV-00050-100PCA,307.6,1.045,Optimizer License with
+Optimizer License with 18 Month SMA,Optimizer License for 10 Devices or 500 Points,Honeywell,N-ADV-00500-100PCA,781.19,1.045,Optimizer License with
+Optimizer License with 18 Month SMA,"Optimizer License for 25 Devices or 1,250 Points",Honeywell,N-ADV-01250-100PCA,1290.1,1.045,Optimizer License with
+Optimizer License with 18 Month SMA,"Optimizer License for 100 Devices or 5,000 Points",Honeywell,N-ADV-05000-100PCA,3307.62,1.045,Optimizer License with
+Optimizer License with 18 Month SMA,"Optimizer License for 200 Devices or 10,000 Points",Honeywell,N-ADV-10000-100PCA,4829.05,1.045,Optimizer License with
+Controller,"JCI BACNet Cntr, 7UI, 2BI, 4CO, 2AO, 3BO, ND",JCI,F4-CGM09090-0,734.79,1.05,Controller
+Controller,"JCI BACNet Cntr, 7UI, 2BI, 4CO, 2AO, 3BO with Display",JCI,F4-CGM09090-0H,1041.54,1.05,Controller
+Controller,"JCI BACNet Controller, 3UI, 1BI, 4CO, 2BO",JCI,F4-CGM04060-0,414.61,1.05,Controller
+Controller,"JCI IP Cntr, 7UI, 2BI, 4CO, 2A20, A2nd 3BO, B-A2A2C",JCI,F4-CGE09090-0,605.72,1.05,Controller
+Controller,"JCI IP Cntr, 7UI, 2BI, 4CO, 2AO, 3BO, B-AAC with Display",JCI,F4-CGE09090-0H,813.1,1.05,Controller
+Controller,"JCI IP Controller, 3UI, 1BI, 4CO, 2BO",JCI,F4-CGE04060-0,421.08,1.05,Controller
+Controller,"JCI BACNet Controller, 3UI, 1BI, 2BO, 4CO, ND",JCI,F4-CGM04060-0 ,518.26,1.05,Controller
+Controller,"JCI BACNet Controller, 7UI, 2BI, 3BO, 2AO, 4CO, w Display",JCI,F4-CGM09090-0H,833.23,1.05,Controller
+Controller,"JCI BACNet Controller, 7UI, 2BI, 3BO, 2AO, 4CO, ND",JCI,FX-CGM09090-0 ,587.83,1.05,Controller
+Controller,"JCI BACNet Controller, 6UI, 2BI, 3BO, 2AO, 4CO, ND, E. Temp",JCI,FX-PCG2611-0ET,762.48,1.05,Controller
+Controller,"JCI BACNet Controller, 6UI, 2BI, 3BO, 2AO, 4CO, w Display",JCI,FX-PCG2621-0,1519.11,1.05,Controller
+Controller,"JCI BACNet VAV Controller, 3UI, 2BO w Act & VP",JCI,FX-PCV1615-1,373.33,1.05,Controller
+Controller,"JCI BACNet VAV Controller, 3UI, 3BO, 2AO w Act & VP",JCI,FX-PCV1630-1 - Discontinued,0.0,1.05,Controller
+Controller,"JCI BACNet VAV Controller, 3UI, 3BO, 2CO w Act & VP",JCI,F4-CVM3050-0,315.56,1.05,Controller
+Controller,"JCI IP VAV Controller, 3UI, 2CO, 3BO w Act & VP",JCI,F4-CVE03050-0P,388.56,1.05,Controller
+Controller,JCI Rotary Floating Actuator,Broudy,M9104-AGP-2S,181.36,1.05,Controller
+Controller,"Siemens Ethernet Controller, 12UIO, 4 BO, Add TXM1 Expansion Modules",Siemens,PXC4.E16S,426.69,1.0,Controller
+Controller,"Siemens MSTP Controller, 12UIO, 4 BO, Add TXM1 Expansion Modules",Siemens,PXC4.M16S,426.69,1.0,Controller
+Controller,"Siemens Ethernet Controller, 4 BO, 12UIO, Add TXM1 Expansion Modules",Siemens,PXC4.E16.A,822.85,1.0,Controller
+Controller,"Siemens MSTP Controller, 4 BO, 12 UIO, Add TXM1 Expansion Modules",Siemens,PXC4.M16,533.36,1.0,Controller
+Controller,"Siemens Station BACnet/IP, 16UIO, 2BI, 6DO, Supports up to 6 TX-I/O",Siemens,PXC5.E24,1645.57,1.0,Controller
+Controller,"Siemens Station BACnet/IP, 1 BACnet Comm, 60 Devices, Up to 100 TXM I/O's",Siemens,PXC7.E400S,978.64,1.0,Controller
+Controller,"Siemens Station BACnet/IP, 2 BACnet Comm, 120 Devices, Up to 200 TXM I/O's",Siemens,PXC7.E400M,1250.48,1.0,Controller
+Controller,"Siemens Station BACnet/IP, 4 BACnet Comm, 240 Devices, Up to 400 TXM I/O's",Siemens,PXC7.E400L,2120.37,1.0,Controller
+Controller,"Siemens Talon UL864 - 16Pt Cntr, 3 UI, 5 UO, 2 DI, 3 AO & 3 DO",Siemens,TC16.2-EF32.T,1004.83,1.0,Controller
+Controller,"Siemens Talon UL864 - 24Pt Cntr, 3 UI, 9 UO, 4 Super I/O, 3 AO, 5 DO",Siemens,TC24.2-EF32.T,1259.78,1.0,Controller
+Controller,"Siemens Talon UL864 - 36Pt Cntr, 18 UI, 6 Super I/O, 4 DI, and 8 DO",Siemens,TC36-EF.T,2458.13,1.0,Controller
+Controller,Siemens VAV - UL864 BACnet IP NO ACTUATOR,Siemens,DXR2.E12P-102K,224.79,1.0,Controller
+Controller,Siemens VAV - UL864 BACnet MSTP NO ACTUATOR,Siemens,DXR2.M12P-102K,224.79,1.0,Controller
+Controller,Siemens VAV - BACnet IP WITH ACTUATOR,Siemens,DXR2.E10PL-102B,227.25,1.0,Controller
+Controller,Siemens VAV - BACnet MSTP WITH ACTUATOR,Siemens,DXR2.M10PL-102B,227.25,1.0,Controller
+Controller,"Siemens Fan Coil Units, Heatpumps - BACnet IP",Siemens,DXR2.E18-101K,237.02,1.0,Controller
+Controller,"Siemens Fan Coil Units, Heatpumps - BACnet MSTP",Siemens,DXR2.M18-101B,215.48,1.0,Controller
+Controller,"Phoenix ILC Controller w 4 LAN, 2 USB, 2 RS485 - Needs SMA",Broudy,ILC 2050 BI,679.52,1.0,Controller
+Controller,"Phoenix ILC Controller w 4 LAN,2 USB,2 RS485 & LON - Needs SMA",Broudy,ILC 2050 BI-L,1241.29,1.0,Controller
+Phoenix Controller Core License,100 data points,Broudy,NC4-100,222.21,1.0,Phoenix Controller Core License
+Phoenix Controller Core License,250 data points,Broudy,NC4-250,442.25,1.0,Phoenix Controller Core License
+Phoenix Controller Core License,500 data points,Broudy,NC4-500,664.46,1.0,Phoenix Controller Core License
+Phoenix Controller Core License,1250 data points,Broudy,NC4-1250,1080.56,1.0,Phoenix Controller Core License
+Phoenix Controller Core License,5000 data points,Broudy,NC4-5000,3189.41,1.0,Phoenix Controller Core License
+Phoenix Controller Core License,10000 data points,Broudy,NC4-10000,4781.93,1.0,Phoenix Controller Core License
+Phoenix ILC SMA,Phoenix 1 year Controller license for NC4-100,Broudy,NC4-100-SMA-1YR,32.68,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 3 year Controller license for NC4-100,Broudy,NC4-100-SMA-3YR,80.61,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 5 year Controller license for NC4-100,Broudy,NC4-100-SMA-5YR,102.39,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 1 year Controller license for NC4-250,Broudy,NC4-250-SMA-1YR,65.36,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 3 year Controller license for NC4-250,Broudy,NC4-250-SMA-3YR,159.03,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 5 year Controller license for NC4-250,Broudy,NC4-250-SMA-5YR,204.79,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 1 year Controller license for NC4-500,Broudy,NC4-500-SMA-1YR,98.04,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 3 year Controller license for NC4-500,Broudy,NC4-500-SMA-3YR,239.64,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 5 years Controller license for NC4-500,Broudy,NC4-500-SMA-5YR,307.18,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 1 year Controller license for NC4-1250,Broudy,NC4-1250-SMA-1YR,159.03,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 3 year Controller license for NC4-1250,Broudy,NC4-1250-SMA-3YR,389.96,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 5 year Controller license for NC4-1250,Broudy,NC4-1250-SMA-5YR,501.07,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 1 year Controller license for NC4-5000,Broudy,NC4-5000-SMA-1YR,472.75,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 3 year Controller license for NC4-5000,Broudy,NC4-5000-SMA-3YR,1152.46,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 5 year Controller license for NC4-5000,Broudy,NC4-5000-SMA-5YR,1477.06,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 1 year Controller license for NC4-10000,Broudy,NC4-10000-SMA-1YR,708.03,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 3 years Controller license for NC4-10000,Broudy,NC4-10000-SMA-3YR,1725.42,1.0,Phoenix ILC SMA
+Phoenix ILC SMA,Phoenix 5 year Controller license for NC4-10000,Broudy,NC4-10000-SMA-5YR,2213.41,1.0,Phoenix ILC SMA
+Optimizer Accessories,Optimizer Display for DIN Rail Mount,Honeywell,HMI-DN,315.54,1.045,Optimizer Accessories
+Optimizer Accessories,Optimizer Display for Panel Mount,Honeywell,HMI-WL,315.73,1.045,Optimizer Accessories
+Optimizer Accessories,Optimizer 100 Point License Upgrade,Honeywell,N-ADV-0100P-UP,82.06,1.045,Optimizer Accessories
+Optimizer Accessories,Optimizer 255 Point License Upgrade,Honeywell,N-ADV-0255P-UP,164.12,1.045,Optimizer Accessories
+Optimizer Accessories,Optimizer 1 Device & 50 Point Upgrade,Honeywell,PIN-DEV-1,142.23,1.045,Optimizer Accessories
+Optimizer Accessories,Optimizer 2 Device & 100 Point Upgrade,Honeywell,PIN-DEV-2,244.35,1.045,Optimizer Accessories
+Optimizer Accessories,Optimizer 10 Device & 500 Point Upgrade,Honeywell,PIN-DEV-10,760.4,1.045,Optimizer Accessories
+Optimizer Accessories,Optimizer 25 Device & 1250 Point Upgrade,Honeywell,PIN-DEV-25,1287.39,1.045,Optimizer Accessories
+Optimizer Accessories,Optimizer 50 Device & 2500 Point Upgrade,Honeywell,PIN-DEV-50,2405.2,1.045,Optimizer Accessories
+Carbon Dioxide Sensor,Space CO2 w LCD,Honeywell,C7233A1008,236.95,1.045,Carbon Dioxide Sensor
+Carbon Dioxide Sensor,Space CO2 wo LCD,Honeywell,C7263A1008,340.42,1.045,Carbon Dioxide Sensor
+Carbon Dioxide Sensor,Duct CO2 w LCD,Honeywell,C7232B1006,377.0,1.045,Carbon Dioxide Sensor
+Carbon Dioxide Sensor,Duct CO2 wo LCD,Honeywell,C7632B1002,316.98,1.045,Carbon Dioxide Sensor
+Carbon Dioxide Sensor,ACI Space CO2 wo LCD,Kele,A/CO2-R2,191.66,1.0,Carbon Dioxide Sensor
+Carbon Dioxide Sensor,Outside Air CO2 w Heater,Kele,050-8-NA01,530.27,1.0,Carbon Dioxide Sensor
+Sylk Bus IO,Combination,Honeywell,SIO4022,266.33,1.045,Sylk Bus IO
+Sylk Bus IO,Input,Honeywell,SIO12000,233.83,1.045,Sylk Bus IO
+Sylk Bus IO,Output,Honeywell,SIO6042,299.47,1.045,Sylk Bus IO
+Temp Sensor,Averaging Sensor,Honeywell,C7041R2018,159.74,1.045,Temp Sensor
+Temp Sensor,Duct Temp/Humidity,Honeywell,H7735B2018,254.77,1.045,Temp Sensor
+Temp Sensor,Duct Temp/Humidity SYLK Bus 5%,Honeywell,C7400S1010 + 50053060-001,135.81,1.045,Temp Sensor
+Temp Sensor,Duct Insertion Sensor,Honeywell,C7041B2005,22.19,1.045,Temp Sensor
+Temp Sensor,Duct Sensor w 6' Cable,Honeywell,C7770A1040,25.32,1.045,Temp Sensor
+Temp Sensor,TR21 Space Sensor Only,Honeywell,TR21,20.32,1.045,Temp Sensor
+Temp Sensor,TR21 Space Sensor with Humd,Honeywell,TR21-H,168.18,1.045,Temp Sensor
+Temp Sensor,TR21 Wireless Sensor with Receiver,Honeywell,TR21-WK,285.72,1.045,Temp Sensor
+Temp Sensor,TR23 Space with SP/OV,Honeywell,TR23,70.34,1.045,Temp Sensor
+Temp Sensor,TR23 Space with SP/OV/Humd,Honeywell,TR23-H,214.13,1.045,Temp Sensor
+Temp Sensor,TR23 Wireless Sensor w SP & Rec,Honeywell,TR23-WK - Discontinued,0.0,1.045,Temp Sensor
+Temp Sensor,TR40 Space Sensor Only,Honeywell,TR40,40.64,1.045,Temp Sensor
+Temp Sensor,TR40 Space with Temp/Humd,Honeywell,TR40-H,195.38,1.045,Temp Sensor
+Temp Sensor,TR40 Space with CO2,Honeywell,TR40-CO2,304.79,1.045,Temp Sensor
+Temp Sensor,TR40 Space with Temp/Humd/CO2,Honeywell,TR40-H-CO2,307.91,1.045,Temp Sensor
+Temp Sensor,TR42 Space Sensor Only/LCD,Honeywell,TR42,85.65,1.045,Temp Sensor
+Temp Sensor,TR42 Space with Temp/Humd/LCD,Honeywell,TR42-H,261.65,1.045,Temp Sensor
+Temp Sensor,TR42 Space with CO2/LCD,Honeywell,TR42-CO2,385.75,1.045,Temp Sensor
+Temp Sensor,TR42 Space with Temp/Humd/CO2/LCD,Honeywell,TR42-H-CO2,389.19,1.045,Temp Sensor
+Temp Sensor,TR50 Space IAQ with Temp/Humd/CO2/TVOC and Display,Honeywell,TR50-5D,446.71,1.045,Temp Sensor
+Temp Sensor,TR50 Space IAQ with Temp/Humd/CO2/TVOC and No Display,Honeywell,TR50-5N,437.02,1.045,Temp Sensor
+Temp Sensor,TR50 Space Temp/Humd/CO2 with Display,Honeywell,TR50-3D,236.33,1.045,Temp Sensor
+Temp Sensor,TR50 Space Temp/Humd/CO2 with No Display,Honeywell,TR50-3N,226.64,1.045,Temp Sensor
+Temp Sensor,TR71 Space with LCD,Honeywell,TR71,147.86,1.045,Temp Sensor
+Temp Sensor,TR71 Space with Temp/Humd/LCD,Honeywell,TR71H,278.53,1.045,Temp Sensor
+Temp Sensor,TR75 Space with Time Clock/LCD,Honeywell,TR75,200.38,1.045,Temp Sensor
+Temp Sensor,TR75 Space w Temp/Humd/Time Clock/LCD,Honeywell,TR75-H,332.3,1.045,Temp Sensor
+Temp Sensor,TR100 Space with LCD,Honeywell,TR100-T-G,123.17,1.045,Temp Sensor
+Temp Sensor,TR100 Space with Temp/Humd LCD,Honeywell,TR100-TH-G,178.18,1.045,Temp Sensor
+Temp Sensor,TR100 Space with Temp/Humd/CO2 LCD,Honeywell,TR100-THC-G,294.47,1.045,Temp Sensor
+Temp Sensor,TR120 Space Sensor Only/LCD,Honeywell,TR120,223.51,1.045,Temp Sensor
+Temp Sensor,TR120H Space with Temp/Humd/LCD,Honeywell,TR120-H,350.74,1.045,Temp Sensor
+Temp Sensor,OA Temp/Humidity for HW,Honeywell,H7735C2015,271.65,1.045,Temp Sensor
+Temp Sensor,OA Temp Only for HW,Honeywell,C7041F2006,32.2,1.045,Temp Sensor
+Temp Sensor,Immersion for HW,Honeywell,C7041D2001,22.19,1.045,Temp Sensor
+Temp Sensor,Well - Stainless Steel for HW,Honeywell,50001774-001,32.87,1.045,Temp Sensor
+Temp Sensor,Strap On Sensor for HW,Honeywell,C7041K2005,25.01,1.045,Temp Sensor
+Temp Sensor,Freezer Sensor for HW,Kele,KTM42SC,26.84,1.0,Temp Sensor
+Temp Sensor,JCI Network LCD Space Temp Sensor,JCI,NSB8BTN240-0,91.39,1.05,Temp Sensor
+Temp Sensor,JCI Network LCD Space Temp/Humd Sensor,JCI,NSB8BHN240-0,278.24,1.05,Temp Sensor
+Temp Sensor,JCI Network LCD Space Temp/Humd/CO2 Sensor,JCI,NSB8BHC241-0,518.8,1.05,Temp Sensor
+Temp Sensor,JCI Network LCD Space Temp Sensor w Occupancy Sensor,JCI,NSB8MTN240-0,188.9,1.05,Temp Sensor
+Temp Sensor,JCI Network Space CO2 Sensor Only,JCI,NSB8BNC040-0,335.91,1.05,Temp Sensor
+Temp Sensor,JCI Network Space Temp/CO2 Sensor,JCI,NSB8BTC240-0 ,352.12,1.05,Temp Sensor
+Temp Sensor,JCI Network Space Temp/CO2 Sensor w Occupancy Sensor,JCI,NSB8MTC241-0,461.02,1.05,Temp Sensor
+Temp Sensor,JCI Network ND Space Temp/Humd Sensor,JCI,NSB8BHN241-0,345.81,1.05,Temp Sensor
+Temp Sensor,JCI Network ND Space Temp Sensor w JCI Logo Warm/Cool,JCI,NSB8BTN140-0,77.02,1.05,Temp Sensor
+Temp Sensor,JCI Network ND Space Temp Sensor Warm/Cool,JCI,NSB8BTN141-0,97.92,1.05,Temp Sensor
+Temp Sensor,JCI Wireless Receiver - Needs WRZ-TTJ0000-2 Sensor (1-1),JCI,JC-ZFR1831-0,181.88,1.05,Temp Sensor
+Temp Sensor,JCI Wireless Room Temp Sensor - Needs JC-ZFR1831-0 (1-1),JCI,WRZ-TTJ0000-2,190.18,1.05,Temp Sensor
+Temp Sensor,JCI Wireless Comm Gateway - 1 per 35 Devices (Receivers),JCI,JC-WRGKIT-0,1462.94,1.05,Temp Sensor
+Temp Sensor,OA Combo Temp/Humd Sensor for JCI,Broudy,A/RH3-1K-NI-O,129.89,1.0,Temp Sensor
+Temp Sensor,Duct Temp/Humidity for JCI,Broudy,A/RH3-1K-NI-D,136.4,1.0,Temp Sensor
+Temp Sensor,Duct Insertion Sensor for JCI,JCI,TE-6311M-1,16.5,1.05,Temp Sensor
+Temp Sensor,Averaging Sensor for JCI,JCI,TE-6316M-1,111.63,1.05,Temp Sensor
+Temp Sensor,Blank Wall Temp Sensor for JCI,JCI,TE-6314P-1,19.21,1.05,Temp Sensor
+Temp Sensor,Immersion Sensor for JCI,JCI,TE-631AM-1,29.29,1.05,Temp Sensor
+Temp Sensor,Immersion Well for JCI Sensor,JCI,TE-6300W-103,33.3,1.05,Temp Sensor
+Temp Sensor,Freezer Sensor for JCI,ALPS,"A/1K-NI-FRZ2""-30'",86.7,1.0,Temp Sensor
+Temp Sensor,Siemens Space with LCD,Siemens,QMX3.P34-1WSB,85.87,1.0,Temp Sensor
+Temp Sensor,Siemens Space with Temp/Humd/CO2/LCD,Siemens,QMX3.P74-1WSB,301.84,1.0,Temp Sensor
+Temp Sensor,"Siemens Duct, 10k Ohm, 8 Inch Probe",Siemens,QAM2030.020,16.26,1.0,Temp Sensor
+Temp Sensor,"Siemens Duct, 4-20mA, 8 Inch Rigid Probe",Siemens,533-376-8,54.2,1.0,Temp Sensor
+Temp Sensor,"Siemens Duct, 4-20mA, 30-250F, 8 Inch Rigid Probe",Siemens,533-377-8,54.21,1.0,Temp Sensor
+Temp Sensor,"Siemens Averaging, 16 Foot Probe",Siemens,QAM2030.500,54.49,1.0,Temp Sensor
+Temp Sensor,"Siemens Averaging, 4-20mA, 20-120F, 16 Foot Flexible Probe",Siemens,533-380-16,92.62,1.0,Temp Sensor
+Temp Sensor,"Siemens Blank Sensor, 10k Ohm",Siemens,540-984,10.6,1.0,Temp Sensor
+Temp Sensor,"Siemens Insersion 10k Ohm, 4 Inch Probe w Well",Siemens,QAE2030.010,35.13,1.0,Temp Sensor
+Temp Sensor,"Siemens Inserion 4-20mA, 30-250F, 4 Inch Probe w Well",Siemens,536-767-40,77.86,1.0,Temp Sensor
+Temp Sensor,Siemens OA Temp/Humidity w/o Display,Siemens,QFA3171,184.81,1.0,Temp Sensor
+Temp Sensor,Siemens OA Temp/Humidity with Display,Siemens,QFA3171D,227.49,1.0,Temp Sensor
+Thermostat,Low Limit,Broudy,A11A-1C,270.31,1.0,Thermostat
+Thermostat,Space Line Voltage,Broudy,T26S-18,127.13,1.0,Thermostat
+Thermostat,Duct Temperature High Limit,Broudy,A25AN-1C,161.69,1.0,Thermostat
+Thermostat,Strap On Thermostat,Broudy,A19DAC-1C,100.6,1.0,Thermostat
+Thermostat,"JCI FCU/RTU Thermostat - 3CO's, 3BO's, 3UI's w Humd & Occ Sensor",Broudy,TEC4K-SN0-000 ,133.2,1.05,Thermostat
+Timed Override,MH Rhodes TOS without Hold,Kele,93506C,50.7,1.0,Timed Override
+Timed Override,MH Rhodes TOS with Hold,Kele,93516C,77.87,1.0,Timed Override
+Transformer,100 VA with circuit breaker,Broudy,TR100VA004,43.69,1.0,Transformer
+Transformer,75 VA with circuit breaker,Broudy,TR75VA004,42.14,1.0,Transformer
+Transformer,50 VA with circuit breaker,Kele,TR50VA015,30.35,1.0,Transformer
+Transformer,40 VA,Broudy,TR40VA001,17.76,1.0,Transformer
+Transformer,(3) - 100 VA w Enclosure,Broudy,PSH300A,314.8,1.0,Transformer
+Transformer,(5) - 100 VA w Enclosure,Broudy,PSH500A,430.65,1.0,Transformer
+UPS/Surge Protection,Desktop Power Supply Only,Broudy,UPS850,348.39,1.0,UPS/Surge Protection
+UPS/Surge Protection,Power Supply With Enclosure,Broudy,PSH2C2RB10-L + UPS850,653.73,1.0,UPS/Surge Protection
+UPS/Surge Protection,APC Smart UPS With Enclosure,APS,APC SMC1500C + ASE24X24X8,931.4,1.0,UPS/Surge Protection
+VAV HW Valve 2W & 3-way NSR,,,,150.0,1.0,VAV HW Valve
+VFD,"Honeywell 3 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0030G110C,1566.36,1.045,VFD
+VFD,"Honeywell 5 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0050G110C,1707.91,1.045,VFD
+VFD,"Honeywell 7.5 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0075G110C,1869.43,1.045,VFD
+VFD,"Honeywell 10 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0100G110C,2085.61,1.045,VFD
+VFD,"Honeywell 15 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0150G110C,2234.54,1.045,VFD
+VFD,"Honeywell 20 HP wo Bypass, Nema-1, Fused, 460V",Honeywell,HVFD3B3C0200G110C,2780.01,1.045,VFD
+VFD,"Honeywell 25 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0250G110C,3356.96,1.045,VFD
+VFD,"Honeywell 30 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0300G110C,3779.86,1.045,VFD
+VFD,"Honeywell 40 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0400G110C,4666.1,1.045,VFD
+VFD,"Honeywell 50 HP wo Bypass, Non-Fused, Nema-1, 460V",Honeywell,HVFD3B3C0500G110C,5977.4,1.045,VFD
+VFD,"Honeywell 60 HP wo Bypass, Non-Fused, Nema-1, 460V",Honeywell,HVFD3B3C0600G110C,7627.32,1.045,VFD
+VFD,"Honeywell 75 HP wo Bypass, Non-Fused, Nema-1, 460V",Honeywell,HVFD3B3C0750G110C,8252.88,1.045,VFD
+VFD,"Honeywell 100 HP wo Bypass, Non-Fused, Nema-1, 460V",Honeywell,HVFD3B3C1000G110C,10546.85,1.045,VFD
+VFD,"Honeywell 3 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0030G131C,2107.15,1.045,VFD
+VFD,"Honeywell 5 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0050G131C,2253.49,1.045,VFD
+VFD,"Honeywell 7.5 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0075G131C,2417.66,1.045,VFD
+VFD,"Honeywell 10 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0100G131C,2653.13,1.045,VFD
+VFD,"Honeywell 15 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0150G131C,2991.61,1.045,VFD
+VFD,"Honeywell 20 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0200G131C,3366.11,1.045,VFD
+VFD,"Honeywell 25 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0250G131C,4051.9,1.045,VFD
+VFD,"Honeywell 30 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0300G131C,4257.97,1.045,VFD
+VFD,"Honeywell 40 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0400G131C,5083.58,1.045,VFD
+VFD,"Honeywell 50 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0500G131C,6588.56,1.045,VFD
+VFD,"Honeywell 60 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0600G131C,8224.43,1.045,VFD
+VFD,"Honeywell 75 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0750G131C,9844.23,1.045,VFD
+VFD,"Honeywell 100 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C1000G131C,12310.47,1.045,VFD
+Water Detection,Float Switch,ALPS,AG-1100+,24.51,1.0,Water Detection
+Water Detection,"10' Rope Sensor, .5 A Relay Output",Kele,WD-2PR-10,204.45,1.0,Water Detection
+Water Detection,"25' Rope Sensor, .5 A Relay Output",Kele,WD-2PR-25,327.99,1.0,Water Detection
+Water Detection,"50' Rope Sensor, .5 A Relay Output",Kele,WD-2PR-50,514.58,1.0,Water Detection
+Water Detection,"100' Rope Sensor, .5 A Relay Output",Kele,WD-2PR-100,983.1,1.0,Water Detection
+Water Detection,"Floor Spot Sensor, .5A",Kele,WD-1B,117.45,1.0,Water Detection
+Water Detection,Cooling Tower Level Controller w 4 Probes,ALPS,WLC-5000,1242.5,1.0,Water Detection
+Wireless Transmitter,MSTP Nema 4 Master Transmitter,DCS,WBT900-MSTP,0.0,1.0,Wireless Transmitter
+Wireless Transmitter,MSTP Nema 4 Client Transmitter,DCS,WBT900-MSTP Combo Kit-3/LP9023 ,0.0,1.0,Wireless Transmitter
+Wireless Transmitter,Programming/Config.,DCS,,0.0,1.0,Wireless Transmitter
+Master Panel,Air Alert,ICD,AA96D-DLC,0.0,1.0,Master Panel
+Master Panel,301-C w/o BACnet,ALPS,301-C-DLC,2662.85,1.0,Master Panel
+Master Panel,301-C BACnet,ALPS,301-C-DLC-BIP,5111.0,1.0,Master Panel
+Miscellanous,Display - Reveal Grey Touchscreen,Honeywell,LCD-GT043A100,0.0,1.045,Miscellanous
+Miscellanous,Display - Reveal Color Touchcreen,Honeywell,LCD-CT043A100,0.0,1.045,Miscellanous
+Miscellanous,"Display - LOYTEC 7"" Color",Broudy,LVIS-3ME7-G2,1883.39,1.0,Miscellanous
+Miscellanous,"IP Touch Screen 7"" Monitor",Honeywell,WEBHMI-7,457.34,1.045,Miscellanous
+Miscellanous,"EasyIO 10"" Android Panel Mount Display",Broudy,EI-SH-SYSVIEW10 ,756.06,1.0,Miscellanous
+Miscellanous,Jace - License Change Fee,Honeywell,LIC-CHG,161.0,1.045,Miscellanous
+Miscellanous,Jace - Web Controller Software Upgrade,Honeywell,WEB-U-AX,0.0,1.045,Miscellanous
+Miscellanous,Occupancy Sensor  w Wall Plate,Kele,PW100-24-W-P,98.75,1.0,Miscellanous
+Miscellanous,HOA Board - Binary 4 Output,Kele,MOB-4,105.71,1.0,Miscellanous
+Miscellanous,HOA Board - Binary 8 Output,Kele,MOB-8,157.04,1.0,Miscellanous
+Miscellanous,HOA Board - Analog 2 Output,Atkinson Elec,HOA-102S,121.0,1.0,Miscellanous
+Miscellanous,HOA Board - Analog 4 Output,Atkinson Elec,HOA-100S,204.0,1.0,Miscellanous
+Miscellanous,Ebtron Under 8K CFM,Mike Moore Sales,Ebtron Gold Series,2150.0,1.0,Miscellanous
+Miscellanous,Ebtron 8K to 20K CFM,Mike Moore Sales,Ebtron Gold Series,2595.0,1.0,Miscellanous
+Miscellanous,Ebtron Over 20K CFM,Mike Moore Sales,Ebtron Gold Series,2965.0,1.0,Miscellanous
+Miscellanous,Ebtron Fan Array for 2 or 4 Fans,Mike Moore Sales,GTC108-F/A4,2000.0,1.0,Miscellanous
+Miscellanous,Ebtron Fan Array for 3 or 6 Fans,Mike Moore Sales,GTC108-F/A6,2545.0,1.0,Miscellanous
+Miscellanous,Ebtron Fan Array for 4 or 8 Fans,Mike Moore Sales,GTC108-F/A8,3100.0,1.0,Miscellanous
+Miscellanous,Voluflo OA Diff Press Low Flow Monitor,TRS ,,0.0,1.0,Miscellanous
+Miscellanous,Electraflo SD OA Monitor - Small Duct,TRS ,,0.0,1.0,Miscellanous
+Miscellanous,Retrofit Flow Ring for VAV Boxes,Nailor,36FMI,95.0,,Miscellanous
+Miscellanous,Flush Mtd,Kele,RAD-1,128.76,1.0,Miscellanous
+Miscellanous,Surface Mtd,Kele,AIS-24A,140.94,1.0,Miscellanous
+Miscellanous,Laptop,0,,1200.0,1.0,Miscellanous
+Miscellanous,Desktop,,,2200.0,1.0,Miscellanous
+Miscellanous,Server,,,3500.0,1.0,Miscellanous
+Miscellanous,BACNet/IP Router,Kele,BASRT-B,400.62,1.0,Miscellanous
+Miscellanous,"2H/2C, 2BIs, OAT, Econ- BACnet",Broudy,TEC3630-14-000,459.05,1.05,Miscellanous
+Miscellanous,"2H/2C, Occ. Sensor, 2BIs, OAT, Econ- BACnet",Broudy,TEC3631-14-000,547.72,1.0,Miscellanous
+Miscellanous,FCU/VAV on/off floating Dehumid- BACnet,Broudy,TEC3612-14-000,451.98,1.05,Miscellanous
+Miscellanous,FCU/VAV 0-10VDC Dehumid- BACnet,Broudy,TEC3622-14-000,503.83,1.05,Miscellanous
+Miscellanous,"2H/2C, 2BIs, OAT, Econ- Wireless",Broudy,TEC3131-14-000,739.27,1.0,Miscellanous
+Miscellanous,Honeywell FCU Thermostat - BACnet,Broudy,TC300B-G,168.49,1.0,Miscellanous
+Miscellanous,Honeywell RTU/HP Commercial Thermostat - BACnet,Broudy,TC500A-N,389.23,1.0,Miscellanous
+Miscellanous,"JCI FCU/RTU BACnet Thermostat - 3CO's, 3BO's, 3UI's w Humd & Occ Sensor",Broudy,TEC4K-SB0-000 ,200.0,1.05,Miscellanous
+Miscellanous,Analog - Current,Veris,H921,52.46,1.0,Miscellanous
+Miscellanous,Digital Status Switch,Veris,H600,31.43,1.0,Miscellanous
+Miscellanous,Digital for VFD Status,Veris,H904,88.31,1.0,Miscellanous
+Miscellanous,Combo CO/NO2 Sensor - UL Listed BACNet,Kele,GWNPXX + AG04,570.36,1.0,Miscellanous
+Miscellanous,CO Sensor - Non UL Listed,Kele,CMD5B1100,273.18,1.0,Miscellanous
+Miscellanous,CO Sensor - UL Listed,Broudy,E3SA + E3SCO,818.46,1.0,Miscellanous
+Miscellanous,NO2 Sensor - Non UL Listed,ALPS,NDD5B1100,443.17,1.0,Miscellanous
+Miscellanous,NO2 Sensor - UL Listed,Broudy,E3SA + E3NO2,994.06,1.0,Miscellanous
+Miscellanous,"Belimo 0-5000 PPM CO Sensor, BACnet, CANBUS, 1 BO, 2AO,",Broudy,22G15-5A5,640.46,1.045,Miscellanous
+Miscellanous,"Belimo 0-2000 PPM CO Sensor, BACnet, CANBUS, 1 BO, 2AO,",Broudy,22G15-5A3,444.23,1.045,Miscellanous
+Miscellanous,"Belimo 0-10 PPM NO Sensor, BACnet, CANBUS, 1 BO, 2AO,",Broudy,22G14-5A,427.49,1.045,Miscellanous
+Miscellanous,"Belimo 0-250 PPM CO Sensor, BACnet, CANBUS, 1 BO, 2AO,",Broudy,22G02-5A,404.24,1.045,Miscellanous
+Miscellanous,"Belimo 0-10,000 PPM CO Sensor, CANBUS",Broudy,22G15-5C6,627.44,1.045,Miscellanous
+Miscellanous,"Belimo 0-10 PPM NO Sensor, CANBUS",Broudy,22G14-5C,298.84,1.045,Miscellanous
+Miscellanous,"Belimo 0-250 PPM CO Sensor, CANBUS",Broudy,22G02-5C,281.17,1.045,Miscellanous
+Miscellanous,"Belimo 0-250 PPM CO, 0-10 PPM NO2 CANBUS",Broudy,22G0214-5C,416.33,1.045,Miscellanous
+Miscellanous,"Belimo Comm Module, 1 BO, 2 AO, BACnet, CANBUS",Broudy,C-22G-5A,278.07,1.045,Miscellanous
+Miscellanous,"Belimo 0-250 PPM CO, 0-10 PPM NO2 BACnet",Broudy,22G0214-5A,593.96,1.045,Miscellanous
+Miscellanous,Oxygen Sensor - 4-20mA output,Kele,K-O2H5,712.53,1.0,Miscellanous
+Miscellanous,Macurco CO/NO2 Sensor - Modbus,Macurco,CX-6/MRS-485,947.0,1.0,Miscellanous
+Miscellanous,Small - Non Spring Return,Honeywell,MN7505A2001,186.5,1.045,Miscellanous
+Miscellanous,Medium - Non Spring Return,Honeywell,MN7510A2001,230.45,1.045,Miscellanous
+Miscellanous,Large - Non Spring Return,Honeywell,MN7220A2205,423.28,1.045,Miscellanous
+Miscellanous,Small - Spring Return,Honeywell,MS7505A2130,406.65,1.045,Miscellanous
+Miscellanous,Medium - Spring Return,Honeywell,MS7510A2008,331.02,1.045,Miscellanous
+Miscellanous,Large - Spring Return,Honeywell,MS7520A2007,427.24,1.045,Miscellanous
+Miscellanous,Small - 2 Pos Spring Return,Honeywell,MS8105A1030,207.48,1.045,Miscellanous
+Miscellanous,Medium - 2 Pos Spring Return,Honeywell,MS8110A1008,293.41,1.045,Miscellanous
+Miscellanous,Large - 2 Pos Spring Return,Honeywell,MS8120A1007,364.68,1.045,Miscellanous
+Miscellanous,Pneumatic with Positioner,Broudy,D3153-1,578.49,1.0,Miscellanous
+Miscellanous,Pneumatic Slave,Broudy,D3153-2,416.44,1.0,Miscellanous
+Miscellanous,HW Smoke Damper - 24V (45VA),Honeywell,MS8120F1002,511.18,1.0,Miscellanous
+Miscellanous,HW Smoke Damper - 120V w ES,Honeywell,MS4120F1204,544.84,1.0,Miscellanous
+Miscellanous,Belimo Smoke Damper - 24V (32VA),Broudy,FSAF24A,368.59,1.0,Miscellanous
+Miscellanous,End Switch,Kele,TS-470,50.03,1.0,Miscellanous
+Miscellanous,Belimo Metal Weather Shield,Broudy,ZS-100,87.42,1.0,Miscellanous
+Miscellanous,Belimo Large Outside Actuator,Broudy,AFX24-S-N4,653.48,1.0,Miscellanous
+Miscellanous,JCI Rotary Floating Actuator,Broudy,M9104-AGP-2S,181.36,1.0,Miscellanous
+Miscellanous,Reveal Grey Touchscreen,Honeywell,LCD-GT043A100,0.0,1.045,Miscellanous
+Miscellanous,Reveal Color Touchcreen,Honeywell,LCD-CT043A100,0.0,1.045,Miscellanous
+Miscellanous,"LOYTEC 7"" Color",Broudy,LVIS-3ME7-G2,1883.39,1.0,Miscellanous
+Miscellanous,"EasyIO 10"" Android Panel Mount Display",Broudy,EI-SH-SYSVIEW10 ,756.06,1.045,Miscellanous
+Miscellanous,"HW HMI 7"" Display - Ethernet Only",Broudy,WEB-HMI7,457.34,1.0,Miscellanous
+Miscellanous,"HW HMI 10"" Display - Ethernet Only",Broudy,WEB-HMI10,1386.69,1.0,Miscellanous
+Miscellanous,Allen Bradley CIP,Broudy,DR-ML-CIP-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,ASI,Broudy,DR-ML-ASI-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,Barber Colman ASD,Broudy,DR-ML-ASD-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,Barber Colman GCM,Broudy,DR-ML-GCM-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,CSI I-Net,Broudy,DR-ML-INET-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,JCI N2 Open,Broudy,DR-ML-N2-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,Robertshaw DMS,Broudy,DR-ML-DMS-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,Robertshaw Microsmart TCP for 500 Point Block,Broudy,DR-ML-MSTCP-N4-J3,1424.76,1.0,Miscellanous
+Miscellanous,Robertshaw Microsmart TCP,Broudy,DR-ML-MSTCP-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,Robertshaw Microsmart for N4 Supervisor,Broudy,DR-ML-MSTCP-N4-WS,3156.32,1.0,Miscellanous
+Miscellanous,Siemens APOGEE 600,Broudy,DR-ML-TEC-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,Trane Comm 3 Non Isolated,Broudy,DR-ML-NICOM3-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,Trane Comm 4,Broudy,DR-ML-TCOMM4-N4-J8,2880.73,1.0,Miscellanous
+Miscellanous,Modbus Slave Driver over RS-485,Broudy,EZDR-MDB-S-AX,0.0,1.0,Miscellanous
+Miscellanous,Modbus Slave Driver over Ethernet,Broudy,EZDR-MDB-TS-AX,0.0,1.0,Miscellanous
+Miscellanous,Carrier CCN Driver for Niagara 4,Broudy,DR-CCN,1243.63,1.0,Miscellanous
+Miscellanous,Duct High Limit,Broudy,HC-201,236.33,1.0,Miscellanous
+Miscellanous,Duct Sensor Only,Veris,HD3XMSX,128.34,1.0,Miscellanous
+Miscellanous,Space Sensor Only 3%,Kele,A/RH3-R,119.66,1.0,Miscellanous
+Miscellanous,Space Sensor Only 2%,Kele,A/RH2-R,148.49,1.0,Miscellanous
+Miscellanous,Flush Mtd,Kele,AOW401R + SSG1-67,75.69000000000001,1.0,Miscellanous
+Miscellanous,Surface Mtd,Kele,AOW401R + E-1PBG,179.36,1.0,Miscellanous
+Miscellanous,Digital Status,Kele,AFS-145-C,40.9,1.0,Miscellanous
+Miscellanous,Analog Status,Veris,PX3DXX01,146.69,1.0,Miscellanous
+Miscellanous,Dwyer Magnahelic Guage,Kele,2002,76.29,1.0,Miscellanous
+Miscellanous,Dwyer Magnahelic Mounting Kit,Kele,A-602,52.14,1.0,Miscellanous
+Miscellanous,Duct Kit,Kele,A-302K + A-345k,17.9,1.0,Miscellanous
+Miscellanous,Outside Air Kit,Kele,A-306-K,57.0,1.0,Miscellanous
+Miscellanous,Room Press Tip - SS,Kele,RPS,15.95,1.0,Miscellanous
+Miscellanous,Hot Tap with Transmitter,Kele,226B + 310-00,2241.99,1.0,Miscellanous
+Miscellanous,Hot Tap Tool,Kele,HTT,723.84,1.0,Miscellanous
+Miscellanous,Immersion with Transmitter,Kele,220B + 310-00,1344.15,1.0,Miscellanous
+Miscellanous,Onicon Dual Turbine for Domestic Water - Pulse/Analog,Onicon,F-1200-00,1816.8,1.0,Miscellanous
+Miscellanous,Onicon Dual Turbine - Non Isolated - Pulse/Analog,Onicon,F-1200-10,1473.6,1.0,Miscellanous
+Miscellanous,Onicon Dual Turbine - Isolated - Pulse/Analog,Onicon,F-1200-11,1618.4,1.0,Miscellanous
+Miscellanous,"Onicon Electromagnetic - Pulse/Analog - 1 1/4"" to 2 1/2"" Pipe ND",Onicon,F-3500,2809.6,1.0,Miscellanous
+Miscellanous,"Onicon Electromagnetic - Pulse/Analog - 3"" to 72"" Pipe - ND",Onicon,FT-3400,2809.6,1.0,Miscellanous
+Miscellanous,"Onicon Electromagnetic - BACnet - 3"" to 72""  w Display",Onicon,FT-3500,3576.0,1.0,Miscellanous
+Miscellanous,"Onicon Electromagnetic - w/o BACnet - 3"" to 72""  w Display",Onicon,FT-3500,3148.0,1.0,Miscellanous
+Miscellanous,Onicon Steam Meter w Integral Electronics - Pulse/Analog,Onicon,F-2606-110,7171.2,1.0,Miscellanous
+Miscellanous,Onicon Steam Meter w Remote Electronics 100' - Pulse/Analog,Onicon,F-2606-120,8576.0,1.0,Miscellanous
+Miscellanous,"Onicon Mounting Hardware - 1 1/4"" to 2"" Copper",Onicon,,156.8,1.0,Miscellanous
+Miscellanous,"Onicon Mounting Hardware - 2 1/2"" to 3"" Steel",Onicon,,275.2,1.0,Miscellanous
+Miscellanous,"Onicon Mounting Hardware - 4"" and Up Steel",Onicon,,456.0,1.0,Miscellanous
+Miscellanous,Water Flow Switch,Broudy,F261KFH-V01C,202.28,1.0,Miscellanous
+Miscellanous,Wire - Single Thermostat,Kele,AT-1103,76.75,1.0,Miscellanous
+Miscellanous,Cast Aluminum - Single Thermostat,Kele,134-117,182.27,1.0,Miscellanous
+Miscellanous,Kenall - Single Thermostat,Kele,TG-1,35.41,1.0,Miscellanous
+Miscellanous,Clear Plastic Medium,Kele,TG511A1000,40.19,1.0,Miscellanous
+Miscellanous,Clear Plastic Small,Kele,TG510A1001,38.66,1.0,Miscellanous
+Miscellanous,Clear Plastic Large,Kele,TG512A1009,41.66,1.0,Miscellanous
+Miscellanous,16 Point,Honeywell,IO-16-H,0.0,1.045,Miscellanous
+Miscellanous,34 Point ,Honeywell,IO-34-H,0.0,1.045,Miscellanous
+Miscellanous,Sylk - 12 UI,Honeywell,SIO12000,233.83,1.045,Miscellanous
+Miscellanous,"Sylk - 6 UI, 4 AO, 2 DO",Honeywell,SIO6042,299.47,1.045,Miscellanous
+Miscellanous,"Sylk - 4 UI, 2 AO, 2 DO",Honeywell,SIO4022,266.33,1.045,Miscellanous
+Miscellanous,Remote I/O Module,Honeywell,IO-16-REM-H,0.0,1.045,Miscellanous
+Miscellanous,"CIPer 30 - 7 Pt Expansion Module - 2 DO, 2 AO, 3 UI",Honeywell,WEB-O3022H,350.11,1.045,Miscellanous
+Miscellanous,"CIPer 30 - 20 Pt Expansion Module - 6 DO, 5 AO, 9 UI",Honeywell,WEB-O9056H,450.77,1.045,Miscellanous
+Miscellanous,CIPer 50 - 255 Panel Bus Expansion License,Honeywell,EAGLEH255PUP,164.12,1.045,Miscellanous
+Miscellanous,CIPer 50 - 1 Device & 50 Exp License for Added MSTP Contrs,Honeywell,PIN-DEV-UP-1,142.23,1.045,Miscellanous
+Miscellanous,CIPer 50 - 2 Device & 100 Exp License for Added MSTP Contrs,Honeywell,PIN-DEV-UP-2,244.35,1.045,Miscellanous
+Miscellanous,CIPer 50 - 10 Device & 500 Exp License for Added MSTP Contrs,Honeywell,PIN-DEV-UP-10,760.4,1.045,Miscellanous
+Miscellanous,CIPer 50 - 25 Device & 1250 Exp License for Added MSTP Contrs,Honeywell,PIN-DEV-UP-25,1287.39,1.045,Miscellanous
+Miscellanous,CIPer 50 - 50 Device & 2500 Exp License for Added MSTP Contrs,Honeywell,PIN-DEV-UP-50,2405.2,1.045,Miscellanous
+Miscellanous,Ciper 50 - Panel Bus 8 AI Module,Honeywell,XF821A + XSU821-22,467.65,1.045,Miscellanous
+Miscellanous,Ciper 50 - Panel Bus 8 AO Module,Honeywell,XFR822A + XSU821-22,567.68,1.045,Miscellanous
+Miscellanous,Ciper 50 - Panel Bus 12 BI Module,Honeywell,XF823A + XSU823,387.63,1.045,Miscellanous
+Miscellanous,Ciper 50 - Panel Bus 6 BO Module,Honeywell,XFR824A + XSU824-25,496.09000000000003,1.045,Miscellanous
+Miscellanous,Ciper 50 - Panel Bus 3 Floating BO Module,Honeywell,XFR825A + XSU824-25,581.12,1.045,Miscellanous
+Miscellanous,"Ciper 50 - Panel Bus Mixed I/O - 8 AI, 8 AO, 12 BI, 6 BO",Honeywell,XFU830A,922.58,1.045,Miscellanous
+Miscellanous,Optimizer Unitary Cntr 8-DI - RTU Modbus I/O Module,Broudy,ISMA-B-8I,206.8,1.0,Miscellanous
+Miscellanous,Optimizer Unitary Cntr 8-UI - RTU Modbus I/O Module,Broudy,ISMA-B-8U,294.81,1.0,Miscellanous
+Miscellanous,"Optimizer Unitary Cntr 4-UI, 4 DO w OVR I/O Module",Broudy,ISMA-B-4U40-H,310.41,1.0,Miscellanous
+Miscellanous,"Optimizer Unitary Cntr 5-UI, 5-DI, 4-AO, 4-DO I/O Module",Broudy,ISMA-B-MIX18,338.81,1.0,Miscellanous
+Miscellanous,"Optimizer Unitary Cntr 8-UI, 12-DI, 6-AO, 12-DO I/O Module",Broudy,ISMA-B-MIX38,532.41,1.0,Miscellanous
+Miscellanous,Optimizer Plant Cntr 16 Universal I/O Module,Honeywell,IO-16UIO-S-S,531.73,1.045,Miscellanous
+Miscellanous,Optimizer Plant Cntr 16 Digital Input Module,Honeywell,IO-16DI-S-S,347.93,1.045,Miscellanous
+Miscellanous,Optimizer Plant Cntr 16 Universal Input Module,Honeywell,IO-16UI-S-S,512.04,1.045,Miscellanous
+Miscellanous,Optimizer Plant Cntr 16 Universal I/O Module with HOA,Honeywell,IOD-16UIO-S-S,594.1,1.045,Miscellanous
+Miscellanous,Optimizer Plant Cntr  8 Relay Digital Output Module with HOA,Honeywell,IOD-8DOR-S-S,452.96,1.045,Miscellanous
+Miscellanous,Optimizer Plant Cntr 8 Relay Digital Output Module,Honeywell,IO-8DOR-S-S,407.0,1.045,Miscellanous
+Miscellanous,"JCI, F4 Expansion Module, 3UI, 1BI, 4CO, 2BO",JCI,F4-XPM04060-0,311.46,1.0,Miscellanous
+Miscellanous,"JCI, F4 Expansion Module, 7UI, 2BI, 4CO, 2AO, 3BO",JCI,F4-XPM09090-0,420.39,1.0,Miscellanous
+Miscellanous,"JCI, F4 Expansion Module, 18BI",JCI,F4-XPM18000-0,387.08,1.0,Miscellanous
+Miscellanous,"JCI, 2UI, 2RO, 2UO",JCI,FX-PCX2711-0,413.49,1.05,Miscellanous
+Miscellanous,"JCI, 8UI, 2AO",JCI,FX-PCX2721-0,592.35,1.05,Miscellanous
+Miscellanous,"JCI, 4UI, 4RO, 4UO",JCI,FX-PCX3711-0,517.68,1.05,Miscellanous
+Miscellanous,"JCI, 16BI",JCI,FX-PCX3721-0,814.7,1.05,Miscellanous
+Miscellanous,"JCI, 8BI, 8BO",JCI,FX-PCX3731-0,897.56,1.05,Miscellanous
+Miscellanous,"JCI, 6UI, 2BI, 4CO, 3BO",JCI,FX-PCX4711-0,741.43,1.05,Miscellanous
+Miscellanous,"Siemens 24VDC SUPPLY 1200MA, 4 A FUSE",Siemens,TXS1.12F4,213.57,1.0,Miscellanous
+Miscellanous,Siemens 6 RELAY OUTPUT MODULE,Siemens,TXM1.6R,278.44,1.0,Miscellanous
+Miscellanous,Siemens 8 UNIVERSAL I/O MODULE,Siemens,TXM1.8U,363.81,1.0,Miscellanous
+Miscellanous,Siemens 8 UNIV I/O MODULE W/ 4-20MA,Siemens,TXM1.8X,453.95,1.0,Miscellanous
+Miscellanous,Siemens 8 DIGITAL INPUT MODULE,Siemens,TXM1.8D,185.23,1.0,Miscellanous
+Miscellanous,Siemens 16 DIGITAL INPUT MODULE,Siemens,TXM1.16D,277.79,1.0,Miscellanous
+Miscellanous,Siemens @ADDRESS KEY 1-12 + RESET KEY,Siemens,TXA1.K12,7.68,1.0,Miscellanous
+Miscellanous,Siemens 6 RELAY OUTPUT MODULE W/OVD,Siemens,TXM1.6R-M,427.71,1.0,Miscellanous
+Miscellanous,Siemens 8 UNIV I/O MODULE W/ OVD&LCD,Siemens,TXM1.8U-ML,590.96,1.0,Miscellanous
+Miscellanous,"Siemens8 UNIV I/O W/ 4-20MA, OVD&LCD",Siemens,TXM1.8X-ML,695.23,1.0,Miscellanous
+Miscellanous,Siemens TX-I/O Module Distance Expansion Module,Siemens,TXA1.IBE,157.38,1.0,Miscellanous
+Miscellanous,Phoenix 8 Digital Inputs,Broudy,IB IL 24 DI 8/HD-ECO,45.44,1.0,Miscellanous
+Miscellanous,Phoenix 8 Digital Outputs,Broudy,IB IL 24 DO 8/HD-ECO,51.63,1.0,Miscellanous
+Miscellanous,Phoenix 4 Analog 4-20mA Inputs,Broudy,IB IL AI 4/I/4-20-ECO,177.6,1.0,Miscellanous
+Miscellanous,Phoenix 4 Analog 0-10VDC Inputs,Broudy,IB IL AI 4/U/0-10-ECO,125.29,1.0,Miscellanous
+Miscellanous,Phoenix 4 RTD Platinum 100 Inputs,Broudy,IB IL RTD 4/PT100-ECO,303.98,1.0,Miscellanous
+Miscellanous,Phoenix 4 RTD Platinum 1000 Inputs,Broudy,IB IL RTD 4/PT1000-ECO,259.96,1.0,Miscellanous
+Miscellanous,Phoenix 4 RTD Inputs 0 - 300K Ohm Range,Broudy,IB IL AI/TEMP 4 RTD-PAC,289.35,1.0,Miscellanous
+Miscellanous,Phoenix 4 RTD Inputs 0 - 100K Ohm Range,Broudy,IB IL RTD 4/NTC-ECO,156.04,1.0,Miscellanous
+Miscellanous,Phoenix 4 4-20 Analog Outputs,Broudy,IB IL AO 4/I/4-20-ECO,177.6,1.0,Miscellanous
+Miscellanous,Phoenix 4 4-20 Analog Outputs,Broudy,IB IL AO 4/U/0-10-ECO,125.29,1.0,Miscellanous
+Miscellanous,Phoenix RS232 Module,Broudy,IB IL RS 232-ECO,257.28,1.0,Miscellanous
+Miscellanous,Phoenix RS485 Module,Broudy,IB IL RS 485-ECO,257.07,1.0,Miscellanous
+Miscellanous,AX Extended Memory,Honeywell,NPM-256MB,846.15,1.045,Miscellanous
+Miscellanous,300 AX Panel,Honeywell,WEB-300-O,0.0,1.045,Miscellanous
+Miscellanous,600 AX Panel,Honeywell,WEB-600-O,0.0,1.045,Miscellanous
+Miscellanous,700 AX Panel,Honeywell,WEB-700-O,0.0,1.045,Miscellanous
+Miscellanous,Wall Adapter (Plug),Honeywell,NPB-WPM-US,0.0,1.045,Miscellanous
+Miscellanous,LON Repeater,Honeywell,Q7740A1008,0.0,1.045,Miscellanous
+Miscellanous,WEB 8000 Panel,Honeywell,Non WiFi Base Jace ONLY - Needs Core,809.63,1.045,Miscellanous
+Miscellanous,WEB 8005 Panel,Honeywell,WEB-8005,1174.33,1.045,Miscellanous
+Miscellanous,WEB 8010 Panel,Honeywell,WEB-8010,1356.6799999999998,1.045,Miscellanous
+Miscellanous,WEB 8025 Panel,Honeywell,WEB-8025,1699.5,1.045,Miscellanous
+Miscellanous,WEB 8100 Panel,Honeywell,WEB-8100,3439.12,1.045,Miscellanous
+Miscellanous,WEB 8200 Panel,Honeywell,WEB-8200,4750.21,1.045,Miscellanous
+Miscellanous,WEB 9005 Panel,Honeywell,WEB-9005,1330.06,1.045,Miscellanous
+Miscellanous,WEB 9010 Panel,Honeywell,WEB-9010,1512.4099999999999,1.045,Miscellanous
+Miscellanous,WEB 9025 Panel,Honeywell,WEB-9025,1855.23,1.045,Miscellanous
+Miscellanous,WEB 9100 Panel,Honeywell,WEB-9100,3594.85,1.045,Miscellanous
+Miscellanous,WEB 9200 Panel,Honeywell,WEB-9200,4905.94,1.045,Miscellanous
+Miscellanous,WEB 8000 Panel Wall Adater (Plug),Honeywell,WPM-8000,47.41,1.045,Miscellanous
+Miscellanous,WEB8000 - Single Port LON Module,Honeywell,NPB-8000-LON,255.29,1.045,Miscellanous
+Miscellanous,WEB8000 - Dual Port RS-485 Module,Honeywell,NPB-8000-2X-485,255.29,1.045,Miscellanous
+Miscellanous,WEB8000 - Single Port RS-232 Module,Honeywell,NPB-8000-232,235.23,1.045,Miscellanous
+Miscellanous,"WEB8000 - 16 Point Module, 8UI, 4DO, 4AO",Honeywell,IO-R-16,304.52,1.045,Miscellanous
+Miscellanous,"WEB8000 - 34 Point Module, 16UI, 10DO, 8AO",Honeywell,IO-R-34,676.52,1.0,Miscellanous
+Miscellanous,Enables WEB-800 to run WEBs-AX (3.8U),Honeywell,JACE-8000-AX,0.0,1.045,Miscellanous
+Miscellanous,JCI FX80 BASE - NO LICENSES,JCI,FX-SC8BDWIFI-0,1203.16,1.05,Miscellanous
+Miscellanous,JCI FX80 5 Device License,JCI,FX-SC8CL005-0,378.4,1.05,Miscellanous
+Miscellanous,JCI FX80 10 Device License,JCI,FX-SC8CL010-0,656.7,1.05,Miscellanous
+Miscellanous,JCI FX80 25 Device License,JCI,FX-SC8CL025-0,927.83,1.05,Miscellanous
+Miscellanous,JCI FX80 100 Device License,JCI,FX-SC8CL100-0,2740.84,1.05,Miscellanous
+Miscellanous,JCI FX80 200 Device License,JCI,FX-SC8CL200-0,4105.89,1.05,Miscellanous
+Miscellanous,JCI FX80 Wall Power Supply,JCI,FX-SC8XPS-0,61.16,1.05,Miscellanous
+Miscellanous,JCI FX80 LON Expansion Module,JCI,FX-SC8XLON-0,280.9,1.05,Miscellanous
+Miscellanous,JCI FX80 Dual RS485 Expansion Module,JCI,FX-SC8XD485-0,280.9,1.05,Miscellanous
+Miscellanous,JCI FX80 Dual RS232 Expansion Module,JCI,FX-SC8X232-0,258.25,1.05,Miscellanous
+Miscellanous,JCI FX80 Downgrade to run AX Ver 3.8,JCI,FX-SC8LAX-0,0.0,1.05,Miscellanous
+Miscellanous,WEB300E 1 Year Maintenance,Honeywell,SMA-3E-1YR,0.0,1.045,Miscellanous
+Miscellanous,WEB300E 3 Year Maintenance,Honeywell,SMA-3E-3YR,0.0,1.045,Miscellanous
+Miscellanous,WEB300E 5 Year Maintenance,Honeywell,SMA-3E-5YR,0.0,1.045,Miscellanous
+Miscellanous,WEB600E 1 Year Maintenance,Honeywell,SMA-6E-1YR,0.0,1.045,Miscellanous
+Miscellanous,WEB600E 3 Year Maintenance,Honeywell,SMA-6E-3YR,0.0,1.045,Miscellanous
+Miscellanous,WEB600E 5 Year Maintenance,Honeywell,SMA-6E-5YR,0.0,1.045,Miscellanous
+Miscellanous,WEB700 1 Year Maintenance,Honeywell,SMA-7-1YR,0.0,1.045,Miscellanous
+Miscellanous,WEB700 3 Year Maintenance,Honeywell,SMA-7-3YR,0.0,1.045,Miscellanous
+Miscellanous,WEB700 5 Year Maintenance,Honeywell,SMA-7-5YR,0.0,1.045,Miscellanous
+Miscellanous,WEB-9005 Initial 18 Month Maintenance,Honeywell,SMA-X005-1YR-INIT,76.96,1.045,Miscellanous
+Miscellanous,WEB-9010 Initial 18 Month Maintenance,Honeywell,SMA-X010-1YR-INIT,115.42,1.045,Miscellanous
+Miscellanous,WEB-9025 Initial 18 Month Maintenance,Honeywell,SMA-X025-1YR-INIT,187.56,1.045,Miscellanous
+Miscellanous,WEB-9100 Initial 18 Month Maintenance,Honeywell,SMA-X100-1YR-INIT,555.48,1.045,Miscellanous
+Miscellanous,WEB-9200 Initial 18 Month Maintenance,Honeywell,SMA-X200-1YR-INIT,832.02,1.045,Miscellanous
+Miscellanous,WEB-9005 Additional 1 Year Maintenance,Honeywell,SMA-X005-1YR,76.96,1.045,Miscellanous
+Miscellanous,WEB-9005 Additional 3 Year Maintenance,Honeywell,SMA-X005-3YR,187.56,1.045,Miscellanous
+Miscellanous,WEB-9005 Additional 5 Year Maintenance,Honeywell,SMA-X005-5YR,240.47,1.045,Miscellanous
+Miscellanous,WEB-9010 Additional 1 Year Maintenance,Honeywell,SMA-X010-1YR,115.42,1.045,Miscellanous
+Miscellanous,WEB-9010 Additional 3 Year Maintenance,Honeywell,SMA-X010-3YR,281.35,1.045,Miscellanous
+Miscellanous,WEB-9010 Additional 5 Year Maintenance,Honeywell,SMA-X010-5YR,360.7,1.045,Miscellanous
+Miscellanous,WEB-9025 Additional 1 Year Maintenance,Honeywell,SMA-X025-1YR,187.56,1.045,Miscellanous
+Miscellanous,WEB-9025 Additional 3 Year Maintenance,Honeywell,SMA-X025-3YR,456.89,1.045,Miscellanous
+Miscellanous,WEB-9025 Additional 5 Year Maintenance,Honeywell,SMA-X025-5YR,586.74,1.045,Miscellanous
+Miscellanous,WEB-9100 Additional 1 Year Maintenance,Honeywell,SMA-X100-1YR,555.48,1.045,Miscellanous
+Miscellanous,WEB-9100 Additional 3 Year Maintenance,Honeywell,SMA-X100-3YR,1351.43,1.045,Miscellanous
+Miscellanous,WEB-9100 Additional 5 Year Maintenance,Honeywell,SMA-X100-5YR,1733.77,1.045,Miscellanous
+Miscellanous,WEB-9200 Additional 1 Year Maintenance,Honeywell,SMA-X200-1YR ,832.02,1.045,Miscellanous
+Miscellanous,WEB-9200 Additional 3 Year Maintenance,Honeywell,SMA-X200-3YR,2027.14,1.045,Miscellanous
+Miscellanous,WEB-9200 Additional 5 Year Maintenance,Honeywell,SMA-X200-5YR,2599.45,1.045,Miscellanous
+Miscellanous,JCI FX80 Initial 18 Month Maintenance for up to 5 Devices,JCI,FX-SC8D005M1-0,82.92,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 18 Month Maintenance for 10 - 25 Devices,JCI,FX-SC8D010M1-0,152.75,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 18 Month Maintenance for 25 - 99 Devices,JCI,FX-SC8D025M1-0,206.99,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 18 Month Maintenance for 100-199 Devices,JCI,FX-SC8D100M1-0,615.98,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 18 Month Maintenance for 200 Up Devices,JCI,FX-SC8D200M1-0,975.09,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 3 Year Maintenance for up to 5 Devices,JCI,FX-SC8D005M3-0,206.35,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 3 Year Maintenance for 10 - 25 Devices,JCI,FX-SC8D010M3-0,359.12,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 3 Year Maintenance for 25 - 99 Devices,JCI,FX-SC8D025M3-0,502.34,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 3 Year Maintenance for 100-199 Devices,JCI,FX-SC8D100M3-0,1603.02,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 3 Year Maintenance for 200 Up Devices,JCI,FX-SC8D200M3-0,2225.76,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 5 Year Maintenance for up to 5 Devices,JCI,FX-SC8D005M5-0,297.59,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 5 Year Maintenance for 10 - 25 Devices,JCI,FX-SC8D010M5-0,582.43,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 5 Year Maintenance for 25 - 99 Devices,JCI,FX-SC8D025M5-0,828.57,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 5 Year Maintenance for 100-199 Devices,JCI,FX-SC8D100M5-0,2472.42,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 5 Year Maintenance for 200 Up Devices,JCI,FX-SC8D200M5-0,3703.06,1.05,Miscellanous
+Miscellanous,WEB8000 Add 10 Devices/500 Points,Honeywell,DEVICE-10,760.4,1.045,Miscellanous
+Miscellanous,WEB8000 Add 25 Devices/1250 Points,Honeywell,DEVICE-25,1287.39,1.045,Miscellanous
+Miscellanous,WEB8000 Add 50 Devices/2500 Points,Honeywell,DEVICE-50,2405.2,1.045,Miscellanous
+Miscellanous,WEB8000 Add 10 Devices/500 Pts Upgrade,Honeywell,DEVICE-UP-10 - Obsolete,0.0,1.045,Miscellanous
+Miscellanous,WEB8000 Add 25 Devices/1250 Pts Upgrade,Honeywell,DEVICE-UP-25 - Obsolete,0.0,1.045,Miscellanous
+Miscellanous,WEB8000 Add 50 Devices/2500 Pts Upgrade,Honeywell,DEVICE-UP-50 - Obsolete,0.0,1.045,Miscellanous
+Miscellanous,JCI FX80 Initial 10 Device Add,JCI,FX-SC8DL10-0,813.82,1.05,Miscellanous
+Miscellanous,JCI FX80 Initial 25 Device Add,JCI,FX-SC8DL25-0,1350.0,1.05,Miscellanous
+Miscellanous,JCI FX80 50 Device Add,JCI,FX-SC8DL50-0,2649.5,1.05,Miscellanous
+Miscellanous,Nametag,,,5.0,1.0,Miscellanous
+Miscellanous,Nema-1 Small,Kele,RET1-181207BT-P,345.85,1.0,Miscellanous
+Miscellanous,Nema-1 Medium,Kele,RET1-262007BT-P,436.83,1.0,Miscellanous
+Miscellanous,Nema-1 Large,Kele,RET1-362607PB-P,823.71,1.0,Miscellanous
+Miscellanous,Nema-1 X-Large,Kele,A-42N3609-P,1667.99,1.0,Miscellanous
+Miscellanous,Nema-4 Small,Kele,A-16H16ALP-P,717.37,1.0,Miscellanous
+Miscellanous,Nema-4 Medium,Kele,A-24H24ALP-P,1124.58,1.0,Miscellanous
+Miscellanous,Nema-4 Large,Kele,A-36H24ALP-P,1512.98,1.0,Miscellanous
+Miscellanous,Nema-12 Small,Kele,A-161606LP-P,677.78,1.0,Miscellanous
+Miscellanous,Nema-12 Medium,Kele,A-242408LP-P,979.91,1.0,Miscellanous
+Miscellanous,Nema-12 Large,Kele,A-362408LP-P,1306.19,1.0,Miscellanous
+Miscellanous,Micro Spyder Enclosure,Honeywell,WB10707,0.0,1.0,Miscellanous
+Miscellanous,One Hole Pushbutton/PL Enclosure,Kele,E1PBG,114.33,1.0,Miscellanous
+Miscellanous,Two Hole Pushbutton/PL Enclosure,Kele,E2PBG,131.35,1.0,Miscellanous
+Miscellanous,Three Hole Pushbutton/PL Enclosure,Kele,E3PBG,150.96,1.0,Miscellanous
+Miscellanous,Four Hole Pushbutton/PL Enclosure,Kele,E4PBG,164.28,1.0,Miscellanous
+Miscellanous,Small Nema-1 Enclosure,Kele,SCE12N1206LP,107.51,1.0,Miscellanous
+Miscellanous,Outdoor Aspirator Cabinet - Needs 24VDC,Kele,A21,398.46,1.0,Miscellanous
+Miscellanous,Pilot Light - Green,Kele,APW299D-G-24 ,46.65,1.0,Miscellanous
+Miscellanous,Pilot Light - Red,Kele,APW299D-R-24 ,46.65,1.0,Miscellanous
+Miscellanous,Pilot Light - Amber,Kele,APW299D-A-24,46.65,1.0,Miscellanous
+Miscellanous,Electronic Pressure Transducer,Kele,EP-313-020,178.79,1.0,Miscellanous
+Miscellanous,Solenoid Air Valve - 24V,Broudy,V11HGA-100,277.27,1.0,Miscellanous
+Miscellanous,Solenoid Air Valve - 120V,Broudy,V11HAA-100,260.34,1.0,Miscellanous
+Miscellanous,Pressure Electric Switch,Broudy,P10BC-7C,123.75,1.0,Miscellanous
+Miscellanous,24VDC Panel Mounted - 1.3 A,Kele,PS5R-VB24,50.96,1.0,Miscellanous
+Miscellanous,24VDC Field Mounted - 250 mA,Kele,DCP-250-H,73.08,1.0,Miscellanous
+Miscellanous,24VDC 150 Watt - 6.5 Amp,Broudy,M-600400,632.65,1.0,Miscellanous
+Miscellanous,Phoenix 30W 24V,Broudy,UNO-PS/1AC/24DC/ 30W,23.05,1.0,Miscellanous
+Miscellanous,Phoenix 60W 24V,Broudy,UNO-PS/1AC/24DC/ 60W,55.08,1.0,Miscellanous
+Miscellanous,Phoenix 100W 24V,Broudy,UNO-PS/1AC/24DC/100W,87.64,1.0,Miscellanous
+Miscellanous,Phoenix 90W 24V,Broudy,UNO-PS/1AC/24DC/90W/C2LPS,99.86,1.0,Miscellanous
+Miscellanous,Phoenix 2.5A 24V,Broudy,QUINT4-PS/1AC/24DC/2.5/SC,100.45,1.0,Miscellanous
+Miscellanous,Phoenix 150W 24V,Broudy,UNO-PS/1AC/24DC/150W,31.07,1.0,Miscellanous
+Miscellanous,Phoenix Surge Protector,Broudy,PLT-SEC-T3-120-FM-UT,181.05,1.0,Miscellanous
+Miscellanous,Phoenix 24VDC UPS,Broudy,UNO-UPS/24DC/24DC/60W,316.2,1.0,Miscellanous
+Miscellanous,High Static Limit Switch,Kele,1900-5-MR,111.93,1.0,Miscellanous
+Miscellanous,Duct Static Air,Veris,PX3DXX02,130.12,1.0,Miscellanous
+Miscellanous,0 - 50 PSI Wet,Veris,PG05AM,228.2,1.0,Miscellanous
+Miscellanous,0 - 50 PSI Wet with Display,Kele,GC51-50,1397.22,1.0,Miscellanous
+Miscellanous,"Diff, Wet-Wet",Veris,PWLX04S,399.25,1.0,Miscellanous
+Miscellanous,3 Valve Manifold,Veris,AA14A,321.32,1.0,Miscellanous
+Miscellanous,Steam Pigtail,Veris,AA13,13.27,1.0,Miscellanous
+Miscellanous,0-50 PSI with 2 Remote Sensors w 10' cables,Veris,PWRLX03S010,592.31,1.0,Miscellanous
+Miscellanous,0-100 PSI with 2 Remote Sensors w 10' cables,Veris,PWRLX04S010,592.31,1.0,Miscellanous
+Miscellanous,0-250 PSI with 2 Remote Sensors w 10' cables,Veris,PWRLX05S010,592.31,1.0,Miscellanous
+Miscellanous,Setra Space Pressure - Analog out,Kele,26410R5WB11A1C,282.25,1.0,Miscellanous
+Miscellanous,Setra Low DP Pressure - Analog out,Kele,2691-001WB,1397.66,1.0,Miscellanous
+Miscellanous,Setra 1 Room Monitor - Voltage out,Kele,SRPM-0R1WB-A1-V,1976.64,1.0,Miscellanous
+Miscellanous,Setra 1 Room Monitor - BACNet,Kele,SRPM-0R1WB-A2-E,1967.07,1.0,Miscellanous
+Miscellanous,Setra Remote Annunciator,Kele,SRAN,249.92,1.0,Miscellanous
+Miscellanous,Setra FLEX Room Monitor,ALPS,FLEX0R1WBRC7S2,2464.45,1.0,Miscellanous
+Miscellanous,Pressura 1 Room Monitor - BACNet,Pressura,RPM10,1972.45,1.0,Miscellanous
+Miscellanous,Pressura 2 Rm + Ante Rm Monitor - BACNET,Pressura,RPM20,2322.65,1.0,Miscellanous
+Miscellanous,Pressura RPM20 Remote Monitor - Up to 2 Additional for RPM20,Pressura,800243,618.0,1.0,Miscellanous
+Miscellanous,Pressura 2 Rm + Ante Rm Monitor - LON,Pressura,RPM20-LON,2914.9,1.0,Miscellanous
+Miscellanous,Pressura 1 Room Controller - BACNet,Pressura,RPC30,3203.3,1.0,Miscellanous
+Miscellanous,Pressura 1 Room Controller - LON,Pressura,RPC30-LON,3780.1,1.0,Miscellanous
+Miscellanous,Pressura Nurses Station Monitor for 8 Sensors,Pressura,NSD8,2693.45,1.0,Miscellanous
+Miscellanous,Iso-Tek Space Pressure,Iso-Tek,SPM-2000,0.0,1.0,Miscellanous
+Miscellanous,Iso-Tek Monitor Setup Tool,Iso-Tek,SPM-7000,0.0,1.0,Miscellanous
+Miscellanous,Triatek Bacnet Space Pressure,Triatek,FMS-1655,0.0,1.0,Miscellanous
+Miscellanous,Extended Head,Kele,ABW-111,22.11,1.0,Miscellanous
+Miscellanous,Flush Head,Kele,ABW-211,19.32,1.0,Miscellanous
+Miscellanous,Red Indoor,Kele,869STR-R-AQ,395.1,1.0,Miscellanous
+Miscellanous,Red Outdoor,Kele,868STR-R-AQ,516.35,1.0,Miscellanous
+Miscellanous,Sonalert 24VAC/DC Horn Only,Kele,SC628A,55.68,1.0,Miscellanous
+Miscellanous,White Horn and Strobe,Kele,P2WL-P,172.26,1.0,Miscellanous
+Miscellanous,"Tower Light - Green/Amber/Red with Horn, 24VAC/DC",Kele,WTL-50P1-MCDGDAFRFS3,351.05,1.0,Miscellanous
+Miscellanous,24VAC SPDT with Base,Kele,RH1B-UAC24 + SH1B-05,6.949999999999999,1.0,Miscellanous
+Miscellanous,24VAC DPDT with Base,Kele,RH2B-UAC24 + SH2B-05,8.120000000000001,1.0,Miscellanous
+Miscellanous,24VAC DPDT w OR/LED & Base,Kele,KIT-782XBXM4L-24A,33.27,1.0,Miscellanous
+Miscellanous,RIB Pilot Relay,Broudy,RIBU1C,14.36,1.0,Miscellanous
+Miscellanous,RIB Pilot Relay with HOA,Broudy,RIBU1S,30.01,1.0,Miscellanous
+Miscellanous,RIB Power Relay DPDT,Broudy,RIB24P,63.98,1.0,Miscellanous
+Miscellanous,"RIB Power Relay, HOA, SPST",Broudy,RIB2402SB,37.5,1.0,Miscellanous
+Miscellanous,RIB BACnet SPDT Relay with 1 Input - Needs 24VAC,Broudy,RIBTW2401B-BC,113.99,1.0,Miscellanous
+Miscellanous,"Sherlock Refrigerant Monitor Panel, MODBUS & A/O KIT SHLK404",Sherlock,88-0759-00,3213.61,1.0,Miscellanous
+Miscellanous,Sherlock R-123 Room Sensor IR SNR R-123,Sherlock,60-0137-01,1427.14,1.0,Miscellanous
+Miscellanous,Sherlock R-513A Room Sensor IR SNR R-513A,Sherlock,60-0542-01,1261.61,1.0,Miscellanous
+Miscellanous,Sherlock Blue Alarm Strobe,Sherlock,88-0233-00,267.3,1.0,Miscellanous
+Miscellanous,Belimo Refrigerant Gas Detector w CANbus for accessories below,Broudy,22G21-5C,1945.1,1.0,Miscellanous
+Miscellanous,Belimo Audible Alarm,Broudy,A-22G-A16,312.17,1.0,Miscellanous
+Miscellanous,Belimo Visual Alarm,Broudy,A-22G-A15,143.22,1.0,Miscellanous
+Miscellanous,Belimo Relay Module w 4 SPDT Relays,Broudy,C-22G-5B,181.04,1.0,Miscellanous
+Miscellanous,"Belimo Communication Module, 2 Relays, BACnet, CANbus",Broudy,C-22G-5B,256.06,1.0,Miscellanous
+Miscellanous,"Sen Tech 1, 2 or 3 Zone Refrigerant Monitor",Sen Tech,"IR-SNIF1,2,3",,1.0,Miscellanous
+Miscellanous,Sen Tech 4 Zone Refrigerant Monitor,Sen Tech,MCD4,,1.0,Miscellanous
+Miscellanous,Sen Tech Combo Horn Strobe,Sen Tech,ACC020,,1.0,Miscellanous
+Miscellanous,"Refrigerant Sensor, R134A w Alarm Horn,1 Relay and 1 AO",Kele,RLD-134A,1292.39,1.0,Miscellanous
+Miscellanous,CO Modbus w/ Relay,Honeywell,SPLCC1BMRCXNZZ,968.53,1.045,Miscellanous
+Miscellanous,CO Modbus w/o Relay,Honeywell,SPLCC1BMXCXNZZ,828.51,1.045,Miscellanous
+Miscellanous,CO 4-20mA w/ Relay,Honeywell,SPLCC1BARCXCXNZZ,808.65,1.045,Miscellanous
+Miscellanous,CO 4-20mA w/o Relay,Honeywell,SPLCC1BAXCXNZZ,808.65,1.045,Miscellanous
+Miscellanous,NO2 Modbus w/ Relay,Honeywell,SPLCN1BMRCXNZZ,968.53,1.045,Miscellanous
+Miscellanous,NO2 Modbus w/o Relay,Honeywell,SPCCNN1BMXCXNZZ,828.51,1.045,Miscellanous
+Miscellanous,NO2 4-20mA w/ Relay,Honeywell,SPLCN1BARCXNZZ,968.53,1.045,Miscellanous
+Miscellanous,NO2 4-20mA w/o Relay,Honeywell,SPLCN1BAXCXNZZ,1258.46,1.045,Miscellanous
+Miscellanous,CO and NO2 Modbus Bundle,Honeywell,SPLCONO2-BNDL-MB,2333.76,1.045,Miscellanous
+Miscellanous,CO and NO2 4-20mA Bundle,Honeywell,SPLCONO2-BNDL-MA,2077.13,1.045,Miscellanous
+Miscellanous,2 Position,Kele,ASW-210,25.15,1.0,Miscellanous
+Miscellanous,3 Position,Kele,ASW-320,25.54,1.0,Miscellanous
+Miscellanous,Smoke Dmpr Disconnect with PL,Kele,PDK-L,76.56,1.0,Miscellanous
+Miscellanous,Door Switch,,Door Switch,25.0,1.0,Miscellanous
+Miscellanous,Overhead Door Switch,Kele,MET-44WG-18,25.04,1.0,Miscellanous
+Miscellanous,Air Flow Switch,Kele,AFS-222,36.0,1.0,Miscellanous
+Miscellanous,Small - AX 3 Stations,Honeywell,WEB-S-AX-3-O,0.0,1.045,Miscellanous
+Miscellanous,Medium - AX 100 Stations,Honeywell,WEB-S-AX-100-O,0.0,1.045,Miscellanous
+Miscellanous,Large - AX Unlimited,Honeywell,WEB-S-AX-UNL-O,0.0,1.045,Miscellanous
+Miscellanous,N4 Supervisor-for 0 Network - (SoftJace),Honeywell,WEB-S-0-N4,565.25,1.045,Miscellanous
+Miscellanous,N4 Supervisor for 1 Network,Honeywell,WEB-S-1-N4,776.81,1.045,Miscellanous
+Miscellanous,N4 Supervisor for 2 Network,Honeywell,WEB-S-2-N4,926.34,1.045,Miscellanous
+Miscellanous,N4 Supervisor for 3 Network,Honeywell,WEB-S-3-N4,1088.63,1.045,Miscellanous
+Miscellanous,N4 Supervisor for 10 Network,Honeywell,WEB-S-10-N4,2478.14,1.045,Miscellanous
+Miscellanous,N4 Supervisor for 100 Network,Honeywell,WEB-S-100-N4,3674.35,1.045,Miscellanous
+Miscellanous,N4 Supervisor Unlimited,Honeywell,WEB-S-UNL-N4,7536.53,1.045,Miscellanous
+Miscellanous,N4 Add 1 Network Connectin,Honeywell,SUP-UP-1,282.64,1.045,Miscellanous
+Miscellanous,N4 Add 100 Network Connectin,Honeywell,SUP-UP-100,3915.05,1.045,Miscellanous
+Miscellanous,N4 Upgrades Supervisor 100 to Unlimited,Honeywell,SUP-UP-UNL,4219.58,1.045,Miscellanous
+Miscellanous,JCI FX80 Server - 0 Network License,JCI,FX-SL000-0,650.88,1.05,Miscellanous
+Miscellanous,JCI FX80 Server - 1 Network License,JCI,FX-SL001-0,808.87,1.05,Miscellanous
+Miscellanous,JCI FX80 Server - 2 Network License,JCI,FX-SL002-0,965.99,1.05,Miscellanous
+Miscellanous,JCI FX80 Server - 3 Network License,JCI,FX-SL003-0,1258.35,1.05,Miscellanous
+Miscellanous,JCI FX80 Server - 10 Network License,JCI,FX-SL010-0,2867.83,1.05,Miscellanous
+Miscellanous,JCI FX80 Server - 100 Network License,JCI,FX-SL100-0,4255.85,1.05,Miscellanous
+Miscellanous,JCI FX80 Server - Unlimited Network Licenses,JCI,FX-SLUNL-0,7850.87,1.05,Miscellanous
+Miscellanous,JCI FX80 Server Add 1 Device License,JCI,FX-SLU001-6,301.19,1.05,Miscellanous
+Miscellanous,JCI FX80 Server Add 10 Device License,JCI,FX-SLDL010-0,1183.04,1.05,Miscellanous
+Miscellanous,JCI FX80 Server Add 25 Device License,JCI,FX-SLDL025-0,1851.17,1.05,Miscellanous
+Miscellanous,JCI FX80 Server Add 50 Device License,JCI,FX-SLDL050-0,2779.0,1.05,Miscellanous
+Miscellanous,JCI FX80 Server Add 100 Device License,JCI,FX-SLDL100-0,4163.09,1.05,Miscellanous
+Miscellanous,JCI FX80 Server Add 200 Device License,JCI,FX-SLDL200-0,5799.5,1.05,Miscellanous
+Miscellanous,N4 Supervisor (10) Field Device Pack,Honeywell,SUP-DEVICE-10,979.22,1.045,Miscellanous
+Miscellanous,N4 Supervisor (25) Field Device Pack,Honeywell,SUP-DEVICE-25,1531.74,1.045,Miscellanous
+Miscellanous,N4 Supervisor (50) Field Device Pack,Honeywell,SUP-DEVICE-50,2556.55,1.045,Miscellanous
+Miscellanous,N4 Supervisor (100) Field Device Pack,Honeywell,SUP-DEVICE-100,3413.59,1.045,Miscellanous
+Miscellanous,N4 Supervisor (200) Field Device Pack,Honeywell,SUP-DEVICE-200,4746.57,1.045,Miscellanous
+Miscellanous,N4 Supervisor 0 Initial 18 Month Maintenance,Honeywell,SUP-0-SMA-INIT,120.23,1.045,Miscellanous
+Miscellanous,N4 Supervisor 1 Initial 18 Month Maintenance,Honeywell,SUP-1-SMA-INIT,185.16,1.045,Miscellanous
+Miscellanous,N4 Supervisor 2 Initial 18 Month Maintenance,Honeywell,SUP-2-SMA-INIT,218.82,1.045,Miscellanous
+Miscellanous,N4 Supervisor 3 Initial 18 Month Maintenance,Honeywell,SUP-3-SMA-INIT,257.3,1.045,Miscellanous
+Miscellanous,N4 Supervisor 10 Initial 18 Month Maintenance,Honeywell,SUP-10-SMA-INIT,521.81,1.045,Miscellanous
+Miscellanous,N4 Supervisor 100 Initial 18 Month Maintenance,Honeywell,SUP-100-SMA-INIT,774.31,1.045,Miscellanous
+Miscellanous,N4 Supervisor Unlimited Initial 18 Month Maintenance,Honeywell,SUP-UNL-SMA-INIT,1324.57,1.045,Miscellanous
+Miscellanous,N4 Supervisor 0 Additional 1 Year Maintenance,Honeywell,SUP-0-SMA-1YR,144.28,1.045,Miscellanous
+Miscellanous,N4 Supervisor 0 Additional 3 Year Maintenance,Honeywell,SUP-0-SMA-3YR,315.01,1.045,Miscellanous
+Miscellanous,N4 Supervisor 0 Additional 5 Year Maintenance,Honeywell,SUP-0-SMA-5YR,403.98,1.045,Miscellanous
+Miscellanous,N4 Supervisor 1 Additional 1 Year Maintenance,Honeywell,SUP-1-SMA-1YR,154.3,1.045,Miscellanous
+Miscellanous,N4 Supervisor 1 Additional 3 Year Maintenance,Honeywell,SUP-1-SMA-3YR,399.18,1.045,Miscellanous
+Miscellanous,N4 Supervisor 1 Additional 5 Year Maintenance,Honeywell,SUP-1-SMA-5YR,512.2,1.045,Miscellanous
+Miscellanous,N4 Supervisor 2 Additional 1 Year Maintenance,Honeywell,SUP-2-SMA-1YR,218.82,1.045,Miscellanous
+Miscellanous,N4 Supervisor 2 Additional 3 Year Maintenance,Honeywell,SUP-2-SMA-3YR,476.12,1.045,Miscellanous
+Miscellanous,N4 Supervisor 2 Additional 5 Year Maintenance,Honeywell,SUP-2-SMA-5YR,610.78,1.045,Miscellanous
+Miscellanous,N4 Supervisor 3 Additional 1 Year Maintenance,Honeywell,SUP-3-SMA-1YR,257.3,1.045,Miscellanous
+Miscellanous,N4 Supervisor 3 Additional 3 Year Maintenance,Honeywell,SUP-3-SMA-3YR,560.29,1.045,Miscellanous
+Miscellanous,N4 Supervisor 3 Additional 5 Year Maintenance,Honeywell,SUP-3-SMA-5YR,719.0,1.045,Miscellanous
+Miscellanous,N4 Supervisor 10 Additional 1 Year Maintenance,Honeywell,SUP-10-SMA-1YR,512.81,1.045,Miscellanous
+Miscellanous,N4 Supervisor 10 Additional 3 Year Maintenance,Honeywell,SUP-10-SMA-3YR,1274.48,1.045,Miscellanous
+Miscellanous,N4 Supervisor 10 Additional 5 Year Maintenance,Honeywell,SUP-10-SMA-5YR,1635.18,1.045,Miscellanous
+Miscellanous,N4 Supervisor 100 Additional 1 Year Maintenance,Honeywell,SUP-100-SMA-1YR,774.31,1.045,Miscellanous
+Miscellanous,N4 Supervisor 100 Additional 3 Year Maintenance,Honeywell,SUP-100-SMA-3YR,1890.08,1.045,Miscellanous
+Miscellanous,N4 Supervisor 100 Additional 5 Year Maintenance,Honeywell,SUP-100-SMA-5YR,2423.91,1.045,Miscellanous
+Miscellanous,N4 Supervisor Unlimited Additional 1 Year Maintenance,Honeywell,SUP-UNL-SMA-1YR,1589.49,1.045,Miscellanous
+Miscellanous,N4 Supervisor Unlimited Additional 3 Year Maintenance,Honeywell,SUP-UNL-SMA-3YR,3876.34,1.045,Miscellanous
+Miscellanous,N4 Supervisor Unlimited Additional 5 Year Maintenance,Honeywell,SUP-UNL-SMA-5YR,4970.46,1.045,Miscellanous
+Miscellanous,"Spyder 5 w 4AO, 4UI, 0BI, 4 Relay BO, 2 Triac BO, w TC",Honeywell,WEB-RS5N,415.45,1.045,Miscellanous
+Miscellanous,"Spyder 6 w 6AO, 10UI, 0BI, 4 Relay BO, 4 Triac BO, w TC",Honeywell,WEB-RL6N,587.84,1.045,Miscellanous
+Miscellanous,Spyder Unitary 6438 wo Act or VP,Honeywell,PUL6438S,512.04,1.045,Miscellanous
+Miscellanous,Spyder Relay 6438 wo Act or VP for SIO,Honeywell,PUL6438SR,564.56,1.045,Miscellanous
+Miscellanous,Spyder VAV 4024 w VP No Act,Honeywell,PVL4024NS,361.05,1.045,Miscellanous
+Miscellanous,Spyder Unitary 4024 wo Act or VP,Honeywell,PUL4024S,338.23,1.045,Miscellanous
+Miscellanous,Spyder Unitary 1012 wo Act or VP,Honeywell,PUL1012S,256.02,1.045,Miscellanous
+Miscellanous,Spyder VAV 0000 w Act & VP,Honeywell,PVL0000AS,301.97,1.045,Miscellanous
+Miscellanous,Spyder VAV 4022 w Act & VP,Honeywell,PVL4022AS,387.31,1.045,Miscellanous
+Miscellanous,Spyder VAV 6436 w Act & VP,Honeywell,PVL6436AS,544.86,1.045,Miscellanous
+Miscellanous,Spyder VAV 6438 w VP No Act,Honeywell,PVL6438NS,620.51,1.045,Miscellanous
+Miscellanous,Stryker VAV 4022 w Act & VP,Honeywell,CVL4022AS-VAV1,325.1,1.045,Miscellanous
+Miscellanous,Stryker VAV 4024 wo Act,Honeywell,CVL4024NS-VAV1,298.85,1.045,Miscellanous
+Miscellanous,Stryker AHU Controller,Honeywell,CUL6438SR-CV1,420.14,1.045,Miscellanous
+Miscellanous,Stryker BACNet Lighting Controller,Honeywell,CLB6438S - Discontinued,0.0,1.045,Miscellanous
+Miscellanous,Stryker BACNet VAV 4022 w Act & VP,Honeywell,CVB4022AS-VAV1,303.85,1.045,Miscellanous
+Miscellanous,Stryker BACNet VAV 4024 wo Act,Honeywell,CVB4024NS-VAV1,266.71,1.045,Miscellanous
+Miscellanous,Spyder BACNet 6438 wo Act or VP,Honeywell,PUB6438S,604.64,1.045,Miscellanous
+Miscellanous,Spyder BACNet 6438 wo Act or VP for SIO,Honeywell,PUB6438SR,593.65,1.045,Miscellanous
+Miscellanous,Spyder BACNet 4024 wo Act or VP,Honeywell,PUB4024S,320.73,1.045,Miscellanous
+Miscellanous,Spyder BACNet 1012 wo Act or VP,Honeywell,PUB1012S,232.95,1.045,Miscellanous
+Miscellanous,Spyder BACNet VAV 0000AS w Act & VP,Honeywell,PVB0000AS,261.65,1.045,Miscellanous
+Miscellanous,Spyder BACNet VAV 4022AS w Act & VP,Honeywell,PVB4022AS,357.62,1.045,Miscellanous
+Miscellanous,Spyder BACNet VAV 4024NS w VP No Act,Honeywell,PVB4024NS,311.35,1.045,Miscellanous
+Miscellanous,Spyder BACNet VAV 6436AS w Act & VP,Honeywell,PVB6436AS,496.72,1.045,Miscellanous
+Miscellanous,Spyder BACNet VAV 6438NS w VP No Act,Honeywell,PVB6438NS,470.15,1.045,Miscellanous
+Miscellanous,"Spyder 7 BACNet or IP VAV Controller w Act & VP, 7 Univ IO, 5 BO",Honeywell,WEB-VA75IB24NM,265.4,1.045,Miscellanous
+Miscellanous,"Spyder 7 BACNet or IP VAV Controller w Act & VP, 7 Univ IO, 5 BO BLE",Honeywell,WEB-VA75MB24NM,265.4,1.045,Miscellanous
+Miscellanous,"CIPer 10 Controller, 5 UI, 2 AO, 3 DO",Honeywell,EDGE-10,483.23,1.0,Miscellanous
+Miscellanous,"CIPer 30 Controller, 3 UI, 3 AO, 6 DO",Honeywell,WEB-C3036EPUBNH,790.53,1.0,Miscellanous
+Miscellanous,CIPer 30 VAV Controller - No Actuator,Honeywell,WEB-C3036EPVBNH,738.05,1.0,Miscellanous
+Miscellanous,CIPer 50 Plant Controller wo Display ,Honeywell,WEB-EHSERIESNX26ND,1291.63,1.045,Miscellanous
+Miscellanous,CIPer 50 Plant Controller with Display,Honeywell,WEB-EHSERIESNX26D,1451.67,1.045,Miscellanous
+Miscellanous,"Optimizer BACnet IP,8UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RS0844ES24NMC,286.97,1.045,Miscellanous
+Miscellanous,"Optimizer BACnet T1L,8UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RS0844TS24NMC,300.47,1.045,Miscellanous
+Miscellanous,"Optimizer BACnet MSTP,8UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RS0844MS24NMC,249.83,1.045,Miscellanous
+Miscellanous,"Optimizer BACnet IP,16UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RL1644ES24NMC,584.69,1.045,Miscellanous
+Miscellanous,"Optimizer BACnet T1L,16UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RL1644TS24NMC,591.69,1.045,Miscellanous
+Miscellanous,"Optimizer BACnet MSTP,16UIO's,4SSR's,4Relay, Sylk&Modbus RTU",Honeywell,UN-RL1644MS24NMC,549.68,1.045,Miscellanous
+Miscellanous,"Optimizer BACnet MSTP VAV Cntr w Act & VP, Bluetooth, 7 UIO, 5 SSR",Honeywell,VAA-VA75MB24NMC,269.24,1.045,Miscellanous
+Miscellanous,"Optimizer IP VAV Cntr w Act & VP, Bluetooth, 7 UIO, 5 SSR",Honeywell,VAA-VA75IB24NMC ,269.24,,Miscellanous
+Miscellanous,"Optimizer T1L VAV Cntr w Act & VP, Bluetooth, 7 UIO, 5 SSR",Honeywell,VAA-VA75T24NMC ,281.96,,Miscellanous
+Miscellanous,IP to T1L media adapter converts 10BASE-T to 10BASE-T1L,Honeywell,10BASE-T1L-ADAPT,201.14,1.045,Miscellanous
+Miscellanous,"Optimizer Plant Cntr, 1 IP, 2 Ethernet Switched+2 RS485 Ports",Honeywell,N-ADV-112-H-C,717.42,1.045,Miscellanous
+Miscellanous,"Optimizer Plant Cntr, 1 IP, 3 Ethernet Switched+4 RS485 Ports",Honeywell,N-ADV-134-H-C,837.46,1.045,Miscellanous
+Miscellanous,Optimizer Plant Cntr Remote Panel Bus or Extra RS485 Port,Honeywell,IO-ADPT-S-2,58.24,1.045,Miscellanous
+Miscellanous,Optimizer License for 3 Devices or 50 Points,Honeywell,N-ADV-00050-100PCA,307.6,1.045,Miscellanous
+Miscellanous,Optimizer License for 10 Devices or 500 Points,Honeywell,N-ADV-00500-100PCA,781.19,1.045,Miscellanous
+Miscellanous,"Optimizer License for 25 Devices or 1,250 Points",Honeywell,N-ADV-01250-100PCA,1290.1,1.045,Miscellanous
+Miscellanous,"Optimizer License for 100 Devices or 5,000 Points",Honeywell,N-ADV-05000-100PCA,3307.62,1.045,Miscellanous
+Miscellanous,"Optimizer License for 200 Devices or 10,000 Points",Honeywell,N-ADV-10000-100PCA,4829.05,1.045,Miscellanous
+Miscellanous,"JCI BACNet Cntr, 7UI, 2BI, 4CO, 2AO, 3BO, ND",JCI,F4-CGM09090-0,734.79,1.05,Miscellanous
+Miscellanous,"JCI BACNet Cntr, 7UI, 2BI, 4CO, 2AO, 3BO with Display",JCI,F4-CGM09090-0H,1041.54,1.0,Miscellanous
+Miscellanous,"JCI BACNet Controller, 3UI, 1BI, 4CO, 2BO",JCI,F4-CGM04060-0,414.61,1.0,Miscellanous
+Miscellanous,"JCI IP Cntr, 7UI, 2BI, 4CO, 2A20, A2nd 3BO, B-A2A2C",JCI,F4-CGE09090-0,605.72,1.0,Miscellanous
+Miscellanous,"JCI IP Cntr, 7UI, 2BI, 4CO, 2AO, 3BO, B-AAC with Display",JCI,F4-CGE09090-0H,813.1,1.0,Miscellanous
+Miscellanous,"JCI IP Controller, 3UI, 1BI, 4CO, 2BO",JCI,F4-CGE04060-0,421.08,1.0,Miscellanous
+Miscellanous,"JCI BACNet Controller, 3UI, 1BI, 2BO, 4CO, ND",JCI,F4-CGM04060-0 ,518.26,1.05,Miscellanous
+Miscellanous,"JCI BACNet Controller, 7UI, 2BI, 3BO, 2AO, 4CO, w Display",JCI,F4-CGM09090-0H,833.23,1.05,Miscellanous
+Miscellanous,"JCI BACNet Controller, 7UI, 2BI, 3BO, 2AO, 4CO, ND",JCI,FX-CGM09090-0 ,587.83,1.05,Miscellanous
+Miscellanous,"JCI BACNet Controller, 6UI, 2BI, 3BO, 2AO, 4CO, ND, E. Temp",JCI,FX-PCG2611-0ET,762.48,1.05,Miscellanous
+Miscellanous,"JCI BACNet Controller, 6UI, 2BI, 3BO, 2AO, 4CO, w Display",JCI,FX-PCG2621-0,1519.11,1.05,Miscellanous
+Miscellanous,"JCI BACNet VAV Controller, 3UI, 2BO w Act & VP",JCI,FX-PCV1615-1,373.33,1.05,Miscellanous
+Miscellanous,"JCI BACNet VAV Controller, 3UI, 3BO, 2AO w Act & VP",JCI,FX-PCV1630-1 - Discontinued,0.0,1.05,Miscellanous
+Miscellanous,"JCI BACNet VAV Controller, 3UI, 3BO, 2CO w Act & VP",JCI,F4-CVM3050-0,315.56,1.05,Miscellanous
+Miscellanous,"JCI IP VAV Controller, 3UI, 2CO, 3BO w Act & VP",JCI,F4-CVE03050-0P,388.56,1.05,Miscellanous
+Miscellanous,JCI Rotary Floating Actuator,Broudy,M9104-AGP-2S,181.36,1.05,Miscellanous
+Miscellanous,"Siemens Ethernet Controller, 12UIO, 4 BO, Add TXM1 Expansion Modules",Siemens,PXC4.E16S,426.69,1.0,Miscellanous
+Miscellanous,"Siemens MSTP Controller, 12UIO, 4 BO, Add TXM1 Expansion Modules",Siemens,PXC4.M16S,426.69,1.0,Miscellanous
+Miscellanous,"Siemens Ethernet Controller, 4 BO, 12UIO, Add TXM1 Expansion Modules",Siemens,PXC4.E16.A,822.85,1.0,Miscellanous
+Miscellanous,"Siemens MSTP Controller, 4 BO, 12 UIO, Add TXM1 Expansion Modules",Siemens,PXC4.M16,533.36,1.0,Miscellanous
+Miscellanous,"Siemens Station BACnet/IP, 16UIO, 2BI, 6DO, Supports up to 6 TX-I/O",Siemens,PXC5.E24,1645.57,1.0,Miscellanous
+Miscellanous,"Siemens Station BACnet/IP, 1 BACnet Comm, 60 Devices, Up to 100 TXM I/O's",Siemens,PXC7.E400S,978.64,1.0,Miscellanous
+Miscellanous,"Siemens Station BACnet/IP, 2 BACnet Comm, 120 Devices, Up to 200 TXM I/O's",Siemens,PXC7.E400M,1250.48,1.0,Miscellanous
+Miscellanous,"Siemens Station BACnet/IP, 4 BACnet Comm, 240 Devices, Up to 400 TXM I/O's",Siemens,PXC7.E400L,2120.37,1.0,Miscellanous
+Miscellanous,"Siemens Talon UL864 - 16Pt Cntr, 3 UI, 5 UO, 2 DI, 3 AO & 3 DO",Siemens,TC16.2-EF32.T,1004.83,1.0,Miscellanous
+Miscellanous,"Siemens Talon UL864 - 24Pt Cntr, 3 UI, 9 UO, 4 Super I/O, 3 AO, 5 DO",Siemens,TC24.2-EF32.T,1259.78,1.0,Miscellanous
+Miscellanous,"Siemens Talon UL864 - 36Pt Cntr, 18 UI, 6 Super I/O, 4 DI, and 8 DO",Siemens,TC36-EF.T,2458.13,1.0,Miscellanous
+Miscellanous,Siemens VAV - UL864 BACnet IP NO ACTUATOR,Siemens,DXR2.E12P-102K,224.79,1.0,Miscellanous
+Miscellanous,Siemens VAV - UL864 BACnet MSTP NO ACTUATOR,Siemens,DXR2.M12P-102K,224.79,1.0,Miscellanous
+Miscellanous,Siemens VAV - BACnet IP WITH ACTUATOR,Siemens,DXR2.E10PL-102B,227.25,1.0,Miscellanous
+Miscellanous,Siemens VAV - BACnet MSTP WITH ACTUATOR,Siemens,DXR2.M10PL-102B,227.25,1.0,Miscellanous
+Miscellanous,"Siemens Fan Coil Units, Heatpumps - BACnet IP",Siemens,DXR2.E18-101K,237.02,1.0,Miscellanous
+Miscellanous,"Siemens Fan Coil Units, Heatpumps - BACnet MSTP",Siemens,DXR2.M18-101B,215.48,1.0,Miscellanous
+Miscellanous,"Phoenix ILC Controller w 4 LAN, 2 USB, 2 RS485 - Needs SMA",Broudy,ILC 2050 BI,679.52,1.0,Miscellanous
+Miscellanous,"Phoenix ILC Controller w 4 LAN,2 USB,2 RS485 & LON - Needs SMA",Broudy,ILC 2050 BI-L,1241.29,1.0,Miscellanous
+Miscellanous,100 data points,Broudy,NC4-100                       ,222.21,1.0,Miscellanous
+Miscellanous,250 data points,Broudy,NC4-250                       ,442.25,1.0,Miscellanous
+Miscellanous,500 data points,Broudy,NC4-500                       ,664.46,1.0,Miscellanous
+Miscellanous,1250 data points,Broudy,NC4-1250                      ,1080.56,1.0,Miscellanous
+Miscellanous,5000 data points,Broudy,NC4-5000                      ,3189.41,1.0,Miscellanous
+Miscellanous,10000 data points,Broudy,NC4-10000                     ,4781.93,1.0,Miscellanous
+Miscellanous,Phoenix 1 year Controller license for NC4-100,Broudy,NC4-100-SMA-1YR               ,32.68,1.0,Miscellanous
+Miscellanous,Phoenix 3 year Controller license for NC4-100,Broudy,NC4-100-SMA-3YR               ,80.61,1.0,Miscellanous
+Miscellanous,Phoenix 5 year Controller license for NC4-100,Broudy,NC4-100-SMA-5YR               ,102.39,1.0,Miscellanous
+Miscellanous,Phoenix 1 year Controller license for NC4-250,Broudy,NC4-250-SMA-1YR               ,65.36,1.0,Miscellanous
+Miscellanous,Phoenix 3 year Controller license for NC4-250,Broudy,NC4-250-SMA-3YR               ,159.03,1.0,Miscellanous
+Miscellanous,Phoenix 5 year Controller license for NC4-250,Broudy,NC4-250-SMA-5YR               ,204.79,1.0,Miscellanous
+Miscellanous,Phoenix 1 year Controller license for NC4-500,Broudy,NC4-500-SMA-1YR               ,98.04,1.0,Miscellanous
+Miscellanous,Phoenix 3 year Controller license for NC4-500,Broudy,NC4-500-SMA-3YR               ,239.64,1.0,Miscellanous
+Miscellanous,Phoenix 5 years Controller license for NC4-500,Broudy,NC4-500-SMA-5YR               ,307.18,1.0,Miscellanous
+Miscellanous,Phoenix 1 year Controller license for NC4-1250,Broudy,NC4-1250-SMA-1YR              ,159.03,1.0,Miscellanous
+Miscellanous,Phoenix 3 year Controller license for NC4-1250,Broudy,NC4-1250-SMA-3YR              ,389.96,1.0,Miscellanous
+Miscellanous,Phoenix 5 year Controller license for NC4-1250,Broudy,NC4-1250-SMA-5YR              ,501.07,1.0,Miscellanous
+Miscellanous,Phoenix 1 year Controller license for NC4-5000,Broudy,NC4-5000-SMA-1YR              ,472.75,1.0,Miscellanous
+Miscellanous,Phoenix 3 year Controller license for NC4-5000,Broudy,NC4-5000-SMA-3YR              ,1152.46,1.0,Miscellanous
+Miscellanous,Phoenix 5 year Controller license for NC4-5000,Broudy,NC4-5000-SMA-5YR              ,1477.06,1.0,Miscellanous
+Miscellanous,Phoenix 1 year Controller license for NC4-10000,Broudy,NC4-10000-SMA-1YR             ,708.03,1.0,Miscellanous
+Miscellanous,Phoenix 3 years Controller license for NC4-10000,Broudy,NC4-10000-SMA-3YR             ,1725.42,1.0,Miscellanous
+Miscellanous,Phoenix 5 year Controller license for NC4-10000,Broudy,NC4-10000-SMA-5YR             ,2213.41,1.0,Miscellanous
+Miscellanous,Optimizer Display for DIN Rail Mount,Honeywell,HMI-DN,315.54,1.045,Miscellanous
+Miscellanous,Optimizer Display for Panel Mount,Honeywell,HMI-WL,315.73,1.045,Miscellanous
+Miscellanous,Optimizer 100 Point License Upgrade,Honeywell,N-ADV-0100P-UP,82.06,1.045,Miscellanous
+Miscellanous,Optimizer 255 Point License Upgrade,Honeywell,N-ADV-0255P-UP,164.12,1.045,Miscellanous
+Miscellanous,Optimizer 1 Device & 50 Point Upgrade,Honeywell,PIN-DEV-1,142.23,1.045,Miscellanous
+Miscellanous,Optimizer 2 Device & 100 Point Upgrade,Honeywell,PIN-DEV-2,244.35,1.045,Miscellanous
+Miscellanous,Optimizer 10 Device & 500 Point Upgrade,Honeywell,PIN-DEV-10,760.4,1.045,Miscellanous
+Miscellanous,Optimizer 25 Device & 1250 Point Upgrade,Honeywell,PIN-DEV-25,1287.39,1.045,Miscellanous
+Miscellanous,Optimizer 50 Device & 2500 Point Upgrade,Honeywell,PIN-DEV-50,2405.2,1.045,Miscellanous
+Miscellanous,Space CO2 w LCD,Honeywell,C7232A1008,236.95,1.045,Miscellanous
+Miscellanous,Space CO2 wo LCD,Honeywell,C7632A1004,340.42,1.045,Miscellanous
+Miscellanous,Duct CO2 w LCD,Honeywell,C7232B1006,377.0,1.045,Miscellanous
+Miscellanous,Duct CO2 wo LCD,Honeywell,C7632B1002,316.98,1.045,Miscellanous
+Miscellanous,ACI Space CO2 wo LCD,ACI,CO2-VDC-R,191.66,1.0,Miscellanous
+Miscellanous,Outside Air CO2 w Heater,Kele,050-8-NA01,530.27,1.0,Miscellanous
+Miscellanous,Combination,Honeywell,SIO4022,266.33,1.045,Miscellanous
+Miscellanous,Input,Honeywell,SIO12000,233.83,1.045,Miscellanous
+Miscellanous,Output,Honeywell,SIO6042,299.47,1.045,Miscellanous
+Miscellanous,Averaging Sensor,Honeywell,C7041R2018,159.74,1.045,Miscellanous
+Miscellanous,Duct Temp/Humidity,Honeywell,H7735B2018,254.77,1.045,Miscellanous
+Miscellanous,Duct Temp/Humidity SYLK Bus 5%,Honeywell,C7400S1010 + 50053060-001,135.81,1.0,Miscellanous
+Miscellanous,Duct Insertion Sensor,Honeywell,C7041B2005,22.19,1.045,Miscellanous
+Miscellanous,Duct Sensor w 6' Cable,Honeywell,C7770A1040,25.32,1.045,Miscellanous
+Miscellanous,TR21 Space Sensor Only,Honeywell,TR21,20.32,1.045,Miscellanous
+Miscellanous,TR21 Space Sensor with Humd,Honeywell,TR21-H,168.18,1.045,Miscellanous
+Miscellanous,TR21 Wireless Sensor with Receiver,Honeywell,TR21-WK,285.72,1.045,Miscellanous
+Miscellanous,TR23 Space with SP/OV,Honeywell,TR23,70.34,1.045,Miscellanous
+Miscellanous,TR23 Space with SP/OV/Humd,Honeywell,TR23-H,214.13,1.045,Miscellanous
+Miscellanous,TR23 Wireless Sensor w SP & Rec,Honeywell,TR23-WK - Discontinued,0.0,1.045,Miscellanous
+Miscellanous,TR40 Space Sensor Only,Honeywell,TR40,40.64,1.045,Miscellanous
+Miscellanous,TR40 Space with Temp/Humd,Honeywell,TR40-H,195.38,1.045,Miscellanous
+Miscellanous,TR40 Space with CO2,Honeywell,TR40-CO2,304.79,1.045,Miscellanous
+Miscellanous,TR40 Space with Temp/Humd/CO2,Honeywell,TR40-H-CO2,307.91,1.045,Miscellanous
+Miscellanous,TR42 Space Sensor Only/LCD,Honeywell,TR42,85.65,1.045,Miscellanous
+Miscellanous,TR42 Space with Temp/Humd/LCD,Honeywell,TR42-H,261.65,1.045,Miscellanous
+Miscellanous,TR42 Space with CO2/LCD,Honeywell,TR42-CO2,385.75,1.045,Miscellanous
+Miscellanous,TR42 Space with Temp/Humd/CO2/LCD,Honeywell,TR42-H-CO2,389.19,1.045,Miscellanous
+Miscellanous,TR50 Space IAQ with Temp/Humd/CO2/TVOC and Display,Honeywell,TR50-5D,446.71,1.045,Miscellanous
+Miscellanous,TR50 Space IAQ with Temp/Humd/CO2/TVOC and No Display,Honeywell,TR50-5N,437.02,1.045,Miscellanous
+Miscellanous,TR50 Space Temp/Humd/CO2 with Display,Honeywell,TR50-3D,236.33,1.045,Miscellanous
+Miscellanous,TR50 Space Temp/Humd/CO2 with No Display,Honeywell,TR50-3N,226.64,1.045,Miscellanous
+Miscellanous,TR71 Space with LCD,Honeywell,TR71,147.86,1.045,Miscellanous
+Miscellanous,TR71 Space with Temp/Humd/LCD,Honeywell,TR71H,278.53,1.045,Miscellanous
+Miscellanous,TR75 Space with Time Clock/LCD,Honeywell,TR75,200.38,1.045,Miscellanous
+Miscellanous,TR75 Space w Temp/Humd/Time Clock/LCD,Honeywell,TR75-H,332.3,1.045,Miscellanous
+Miscellanous,TR100 Space with LCD,Honeywell,TR100-T-G,123.17,1.045,Miscellanous
+Miscellanous,TR100 Space with Temp/Humd LCD,Honeywell,TR100-TH-G,178.18,1.045,Miscellanous
+Miscellanous,TR100 Space with Temp/Humd/CO2 LCD,Honeywell,TR100-THC-G,294.47,1.045,Miscellanous
+Miscellanous,TR120 Space Sensor Only/LCD,Honeywell,TR120,223.51,1.045,Miscellanous
+Miscellanous,TR120H Space with Temp/Humd/LCD,Honeywell,TR120-H,350.74,1.045,Miscellanous
+Miscellanous,OA Temp/Humidity for HW,Honeywell,H7735C2015,271.65,1.045,Miscellanous
+Miscellanous,OA Temp Only for HW,Honeywell,C7041F2006,32.2,1.045,Miscellanous
+Miscellanous,Immersion for HW,Honeywell,C7041D2001,22.19,1.045,Miscellanous
+Miscellanous,Well - Stainless Steel for HW,Honeywell,50001774-001,32.87,1.045,Miscellanous
+Miscellanous,Strap On Sensor for HW,Honeywell,C7041K2005,25.01,1.045,Miscellanous
+Miscellanous,Freezer Sensor for HW,Kele,KTM42SC,26.84,1.0,Miscellanous
+Miscellanous,JCI Network LCD Space Temp Sensor,JCI,NSB8BTN240-0,91.39,1.05,Miscellanous
+Miscellanous,JCI Network LCD Space Temp/Humd Sensor,JCI,NSB8BHN240-0,278.24,1.05,Miscellanous
+Miscellanous,JCI Network LCD Space Temp/Humd/CO2 Sensor,JCI,NSB8BHC241-0,518.8,1.05,Miscellanous
+Miscellanous,JCI Network LCD Space Temp Sensor w Occupancy Sensor,JCI,NSB8MTN240-0,188.9,1.05,Miscellanous
+Miscellanous,JCI Network Space CO2 Sensor Only,JCI,NSB8BNC040-0,335.91,1.05,Miscellanous
+Miscellanous,JCI Network Space Temp/CO2 Sensor,JCI,NSB8BTC240-0 ,352.12,1.05,Miscellanous
+Miscellanous,JCI Network Space Temp/CO2 Sensor w Occupancy Sensor,JCI,NSB8MTC241-0,461.02,1.05,Miscellanous
+Miscellanous,JCI Network ND Space Temp/Humd Sensor,JCI,NSB8BHN241-0,345.81,1.05,Miscellanous
+Miscellanous,JCI Network ND Space Temp Sensor w JCI Logo Warm/Cool,JCI,NSB8BTN140-0,77.02,1.05,Miscellanous
+Miscellanous,JCI Network ND Space Temp Sensor Warm/Cool,JCI,NSB8BTN141-0,97.92,1.05,Miscellanous
+Miscellanous,JCI Wireless Receiver - Needs WRZ-TTJ0000-2 Sensor (1-1),JCI,JC-ZFR1831-0,181.88,1.0,Miscellanous
+Miscellanous,JCI Wireless Room Temp Sensor - Needs JC-ZFR1831-0 (1-1),JCI,WRZ-TTJ0000-2,190.18,1.0,Miscellanous
+Miscellanous,JCI Wireless Comm Gateway - 1 per 35 Devices (Receivers),JCI,JC-WRGKIT-0,1462.94,1.0,Miscellanous
+Miscellanous,OA Combo Temp/Humd Sensor for JCI,Broudy,A/RH3-1K-NI-O,129.89,1.0,Miscellanous
+Miscellanous,Duct Temp/Humidity for JCI,Broudy,A/RH3-1K-NI-D,136.4,1.0,Miscellanous
+Miscellanous,Duct Insertion Sensor for JCI,JCI,TE-6311M-1,16.5,1.05,Miscellanous
+Miscellanous,Averaging Sensor for JCI,JCI,TE-6316M-1,111.63,1.05,Miscellanous
+Miscellanous,Blank Wall Temp Sensor for JCI,JCI,TE-6314P-1,19.21,1.05,Miscellanous
+Miscellanous,Immersion Sensor for JCI,JCI,TE-631AM-1,29.29,1.05,Miscellanous
+Miscellanous,Immersion Well for JCI Sensor,JCI,TE-6300W-103,33.3,1.05,Miscellanous
+Miscellanous,Freezer Sensor for JCI,ALPS,"A/1K-NI-FRZ2""-30'",86.7,1.0,Miscellanous
+Miscellanous,Siemens Space with LCD,Siemens,QMX3.P34-1WSB,85.87,0.0,Miscellanous
+Miscellanous,Siemens Space with Temp/Humd/CO2/LCD,Siemens,QMX3.P74-1WSB,301.84,0.0,Miscellanous
+Miscellanous,"Siemens Duct, 10k Ohm, 8 Inch Probe",Siemens,QAM2030.020,16.26,0.0,Miscellanous
+Miscellanous,"Siemens Duct, 4-20mA, 8 Inch Rigid Probe",Siemens,533-376-8,54.2,0.0,Miscellanous
+Miscellanous,"Siemens Duct, 4-20mA, 30-250F, 8 Inch Rigid Probe",Siemens,533-377-8,54.21,0.0,Miscellanous
+Miscellanous,"Siemens Averaging, 16 Foot Probe",Siemens,QAM2030.500,54.49,0.0,Miscellanous
+Miscellanous,"Siemens Averaging, 4-20mA, 20-120F, 16 Foot Flexible Probe",Siemens,533-380-16,92.62,0.0,Miscellanous
+Miscellanous,"Siemens Blank Sensor, 10k Ohm",Siemens,540-984,10.6,0.0,Miscellanous
+Miscellanous,"Siemens Insersion 10k Ohm, 4 Inch Probe w Well",Siemens,QAE2030.010,35.13,0.0,Miscellanous
+Miscellanous,"Siemens Inserion 4-20mA, 30-250F, 4 Inch Probe w Well",Siemens,536-767-40,77.86,0.0,Miscellanous
+Temp Sensor,Siemens OA Temp/Humidity w/o Display,Siemens,QFA3171,174.68,0.0,Temp Sensor
+Temp Sensor,Siemens OA Temp/Humidity with Display,Siemens,QFA3171D,215.48,0.0,Temp Sensor
+Miscellanous,Low Limit,Honeywell,L480G1044,270.31,1.0,Miscellanous
+Miscellanous,Space Line Voltage,Broudy,T26S-18,127.13,1.0,Miscellanous
+Miscellanous,Duct Temperature High Limit,Broudy,A25AN-1C,161.69,1.0,Miscellanous
+Miscellanous,Strap On Thermostat,Broudy,A19DAC-1C,100.6,1.0,Miscellanous
+Miscellanous,"JCI FCU/RTU Thermostat - 3CO's, 3BO's, 3UI's w Humd & Occ Sensor",Broudy,TEC4K-SN0-000 ,133.2,1.05,Miscellanous
+Miscellanous,MH Rhodes TOS without Hold,Kele,93506C,50.7,1.0,Miscellanous
+Miscellanous,MH Rhodes TOS with Hold,Kele,93317,77.87,1.0,Miscellanous
+Miscellanous,100 VA with circuit breaker,Broudy,TR100VA004,43.69,1.0,Miscellanous
+Miscellanous,75 VA with circuit breaker,Broudy,TR75VA004,42.14,1.0,Miscellanous
+Miscellanous,50 VA with circuit breaker,Broudy,TR50VA015,30.35,1.0,Miscellanous
+Miscellanous,40 VA,Broudy,TR40VA001,17.76,1.0,Miscellanous
+Miscellanous,(3) - 100 VA w Enclosure,Broudy,PSH300A,314.8,1.0,Miscellanous
+Miscellanous,(5) - 100 VA w Enclosure,Broudy,PSH500A,430.65,1.0,Miscellanous
+Miscellanous,UPS,Broudy,UPS-BR1500G,340.8,1.0,Miscellanous
+Miscellanous,VAV Box Valve,,,175.0,1.0,Miscellanous
+Miscellanous,"Honeywell 3 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0030G110C,1566.36,1.045,Miscellanous
+Miscellanous,"Honeywell 5 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0050G110C,1707.91,1.045,Miscellanous
+Miscellanous,"Honeywell 7.5 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0075G110C,1869.43,1.045,Miscellanous
+Miscellanous,"Honeywell 10 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0100G110C,2085.61,1.045,Miscellanous
+Miscellanous,"Honeywell 15 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0150G110C,2234.54,1.045,Miscellanous
+Miscellanous,"Honeywell 20 HP wo Bypass, Nema-1, Fused, 460V",Honeywell,HVFD3B3C0200G110C,2780.01,1.045,Miscellanous
+Miscellanous,"Honeywell 25 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0250G110C,3356.96,1.045,Miscellanous
+Miscellanous,"Honeywell 30 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0300G110C,3779.86,1.045,Miscellanous
+Miscellanous,"Honeywell 40 HP wo Bypass, Fused, Nema-1, 460V",Honeywell,HVFD3B3C0400G110C,4666.1,1.045,Miscellanous
+Miscellanous,"Honeywell 50 HP wo Bypass, Non-Fused, Nema-1, 460V",Honeywell,HVFD3B3C0500G110C,5977.4,1.045,Miscellanous
+Miscellanous,"Honeywell 60 HP wo Bypass, Non-Fused, Nema-1, 460V",Honeywell,HVFD3B3C0600G110C,7627.32,1.045,Miscellanous
+Miscellanous,"Honeywell 75 HP wo Bypass, Non-Fused, Nema-1, 460V",Honeywell,HVFD3B3C0750G110C,8252.88,1.045,Miscellanous
+Miscellanous,"Honeywell 100 HP wo Bypass, Non-Fused, Nema-1, 460V",Honeywell,HVFD3B3C1000G110C,10546.85,1.045,Miscellanous
+Miscellanous,"Honeywell 3 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0030G131C,2107.15,1.045,Miscellanous
+Miscellanous,"Honeywell 5 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0050G131C,2253.49,1.045,Miscellanous
+Miscellanous,"Honeywell 7.5 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0075G131C,2417.66,1.045,Miscellanous
+Miscellanous,"Honeywell 10 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0100G131C,2653.13,1.045,Miscellanous
+Miscellanous,"Honeywell 15 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0150G131C,2991.61,1.045,Miscellanous
+Miscellanous,"Honeywell 20 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0200G131C,3366.11,1.045,Miscellanous
+Miscellanous,"Honeywell 25 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0250G131C,4051.9,1.045,Miscellanous
+Miscellanous,"Honeywell 30 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0300G131C,4257.97,1.045,Miscellanous
+Miscellanous,"Honeywell 40 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0400G131C,5083.58,1.045,Miscellanous
+Miscellanous,"Honeywell 50 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0500G131C,6588.56,1.045,Miscellanous
+Miscellanous,"Honeywell 60 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0600G131C,8224.43,1.045,Miscellanous
+Miscellanous,"Honeywell 75 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C0750G131C,9844.23,1.045,Miscellanous
+Miscellanous,"Honeywell 100 HP w Bypass, Nema-1, 460V",Honeywell,HVFD3B3C1000G131C,12310.47,1.045,Miscellanous
+Miscellanous,Float Switch,Kele,KCFS-LB,24.51,1.0,Miscellanous
+Miscellanous,"10' Rope Sensor, .5 A Relay Output",Kele,WD-2PR-10,204.45,1.0,Miscellanous
+Miscellanous,"25' Rope Sensor, .5 A Relay Output",Kele,WD-2PR-25,327.99,1.0,Miscellanous
+Miscellanous,"50' Rope Sensor, .5 A Relay Output",Kele,WD-2PR-50,514.58,1.0,Miscellanous
+Miscellanous,"100' Rope Sensor, .5 A Relay Output",Kele,WD-2PR-100,983.1,1.0,Miscellanous
+Miscellanous,"Floor Spot Sensor, .5A",Kele,WD-1B,117.45,1.0,Miscellanous
+Miscellanous,Cooling Tower Level Controller w 4 Probes,Kele,WLC-4000,1242.5,1.0,Miscellanous
+Miscellanous,MSTP Nema 4 Master Transmitter,DCS,WBT900-MSTP,910.0,1.0,Miscellanous
+Miscellanous,MSTP Nema 4 Client Transmitter,DCS,WBT900-MSTP Combo Kit-3/LP9023 ,742.5,1.0,Miscellanous
+Miscellanous,Programming/Config.,DCS,,60.0,1.0,Miscellanous
+Miscellanous,Air Alert,ICD,AA96D-DLC,0.0,1.0,Miscellanous
+Miscellanous,301-C w/o BACnet,Broudy ,301-C-DLC,2662.85,1.0,Miscellanous
+Miscellanous,301-C BACnet,Broudy,301-C-DLC-BIP,5111.0,1.0,Miscellanous
+See Valve Quote,,,,0.0,,See Valve Quote
+Static pressure tips,,,,0.0,,Static pressure tips
+Comm and interlock wiring only,,,,0.0,,Comm and interlock wiring only
+Interlock wiring only,,,,0.0,,Interlock wiring only
+Comm Wiring Only,,,,0.0,,Comm Wiring Only
+BacNet Interface only,,,,0.0,,BacNet Interface only
+Air Flow Monitor Quote,,,,0.0,,Air Flow Monitor Quote
+Labor Only,,,,0.0,,Labor Only
+Temp Sensor,,Select Option,Select Option,0.0,,Temp Sensor
+Panel - Enclosure w Subpanel,,Select Option,Select Option,0.0,,Panel - Enclosure w Subpanel
+Thermostat,,Select Option,Select Option,0.0,,Thermostat
+Current Sw,,Select Option,Select Option,0.0,,Current Sw
+Relay,,Select Option,Select Option,0.0,,Relay
+Damper Actuator,,Select Option,Select Option,0.0,,Damper Actuator
+Temp Sensor,,Select Option,Select Option,0.0,,Temp Sensor
+Temp Sensor,,Select Option,Select Option,0.0,,Temp Sensor
+Humidity,,Select Option,Select Option,0.0,,Humidity
+Duct Humidity,,Select Option,Select Option,0.0,,Duct Humidity
+Press Transmitter,,Select Option,Select Option,0.0,,Press Transmitter
+Emergency Stop Switch,,Select Option,Select Option,0.0,,Emergency Stop Switch
+Controller,,Select Option,Select Option,0.0,,Controller
+Panel - Enclosure w Subpanel,,Select Option,Select Option,0.0,,Panel - Enclosure w Subpanel
+Current Sw,,Select Option,Select Option,0.0,,Current Sw
+Relay,,Select Option,Select Option,0.0,,Relay
+Damper Actuator,,Select Option,Select Option,0.0,,Damper Actuator
+Temp Sensor,,Select Option,Select Option,0.0,,Temp Sensor
+Temp Sensor,,Select Option,Select Option,0.0,,Temp Sensor
+Duct Humidity,,Select Option,Select Option,0.0,,Duct Humidity
+Temp Sensor,,Select Option,Select Option,0.0,,Temp Sensor
+Temp Sensor,,Select Option,Select Option,0.0,,Temp Sensor
+Emergency Stop Switch,,Select Option,Select Option,0.0,,Emergency Stop Switch
+Controller,,Select Option,Select Option,0.0,,Controller
+Panel - Enclosure w Subpanel,,Select Option,Select Option,0.0,,Panel - Enclosure w Subpanel
+Current Sw,,Select Option,Select Option,0.0,,Current Sw
+Relay,,Select Option,Select Option,0.0,,Relay
+Temp Sensor,,Select Option,Select Option,0.0,,Temp Sensor
+Controller,,Select Option,Select Option,0.0,,Controller
+Panel - Enclosure w Subpanel,,Select Option,Select Option,0.0,,Panel - Enclosure w Subpanel
+Current Sw,,Select Option,Select Option,0.0,,Current Sw
+Relay,,Select Option,Select Option,0.0,,Relay
+Thermostat,,Select Option,Select Option,0.0,,Thermostat
+Damper Actuator,,Select Option,Select Option,0.0,,Damper Actuator
+Press Transmitter,,Select Option,Select Option,0.0,,Press Transmitter
+Emergency Stop Switch,,Select Option,Select Option,0.0,,Emergency Stop Switch
+Push button,,Select Option,Select Option,0.0,,Push button
+Switch,,Select Option,Select Option,0.0,,Switch
+Alarm Indication Panel,,Select Option,Select Option,0.0,,Alarm Indication Panel
+Flow Sensor,,Select Option,Select Option,0.0,,Flow Sensor
+Jace,,Select Option,Select Option,0.0,,Jace
+Jace Maintenance,,Select Option,Select Option,0.0,,Jace Maintenance
+Jace Device Pack,,Select Option,Select Option,0.0,,Jace Device Pack
+Computer,,Select Option,Select Option,0.0,,Computer
+N4 System Supervisor,,Select Option,Select Option,0.0,,N
+N4 System Supervisor Maintenance,,Select Option,Select Option,0.0,,N
+I/O Module,,Select Option,Select Option,0.0,,I/O Module
+Carbon Dioxide Sensor,,Select Option,Select Option,0.0,,Carbon Dioxide Sensor
+Filter Status,,Select Option,Select Option,0.0,,Filter Status
+Transformer,,Select Option,Select Option,0.0,,Transformer
+Power Supply,,Select Option,Select Option,0.0,,Power Supply
+Pneumatic,,Select Option,Select Option,0.0,,Pneumatic
+Pilot Light,,Select Option,Select Option,0.0,,Pilot Light
+Refrigerant Monitor,,Select Option,Select Option,0.0,,Refrigerant Monitor
+Miscellanous,,Select Option,Select Option,0.0,,Miscellanous
+Flow Sensor,,Select Option,Select Option,0.0,,Flow Sensor
+Horn/Strobe,,Select Option,Select Option,0.0,,Horn/Strobe
+Guard,,Select Option,Select Option,0.0,,Guard
+Communicating Room Thermostat,,Select Option,Select Option,0.0,,Communicating Room Thermostat
+VFD,,Select Option,Select Option,0.0,,VFD
+Drivers,,Select Option,Select Option,0.0,,Drivers
+Timed Override,,Select Option,Select Option,0.0,,Timed Override
+Water Detection,,Select Option,Select Option,0.0,,Water Detection
+Display,,Select Option,Select Option,0.0,,Display
+Air Flow Monitor,,Select Option,Select Option,0.0,,Air Flow Monitor
+Estimator's Name,,Select Option,Select Option,0.0,,Estimator
+JCI FX80 Device License,,Select Option,Select Option,0.0,,JCI FX
+"CO, NO2 and O2 Sensors",,Select Option,Select Option,0.0,,CO
+Wireless Transmitter,,Select Option,Select Option,0.0,,Wireless Transmitter
+Master Panel,,Select Option,Select Option,0.0,,Master Panel
+SensePoint Gas Detection,,Select Option,Select Option,0.0,,SensePoint Gas Detection
+Sub Name,,Select Option,Select Option,0.0,,Sub Name
+UPS/Surge Protection,,Select Option,Select Option,0.0,,UPS/Surge Protection
+Optimizer License with 18 Month SMA,,Select Option,Select Option,0.0,,Optimizer License with
+Optimizer Accessories,,Select Option,Select Option,0.0,,Optimizer Accessories
+Phoenix Controller Core License,,Select Option,Select Option,0.0,,Phoenix Controller Core License
+Phoenix ILC SMA,,Select Option,Select Option,0.0,,Phoenix ILC SMA
+Date,Revision/Notes,,,,,Date
+2015-03-17 00:00:00,,Version 1.0,,,,Material
+2015-03-25 00:00:00,Added Job Setup Form,Version 2.0,,,,Material
+2015-05-20 00:00:00,Added t'stat guards,,,,,Material
+2015-05-28 00:00:00,Added Smoke Damper Disconnect,,,,,Material
+2015-06-03 00:00:00,Added Pneumatic Damper Actuators,,,,,Material
+2015-06-03 00:00:00,Added Solenoid Air Valve,,,,,Material
+2015-06-04 00:00:00,"Added MOB-4 & 8, HOA-102S",,,,,Material
+2015-06-19 00:00:00,Added Valve Pricing Columns,Version 2.1,,,,Material
+2015-07-20 00:00:00,Added A25An-1C High Limit T'stat,,,,,Material
+2015-07-21 00:00:00,Added Rope Sensors,,,,,Material
+2015-07-22 00:00:00,Added All Parts Under Misc Column,Version 2.2,,,,Material
+2015-08-19 00:00:00,Added Communicating Rm T'stats,,,,,Material
+2015-08-20 00:00:00,Added Jace Sizing Tool,,,,,Material
+2015-08-31 00:00:00,Added Parking and Mechanical Box,,,,,Material
+2015-09-01 00:00:00,Updated Pricing,,,,,Material
+2015-09-29 00:00:00,Added Sub vs Local Labor Comparison,,,,,Material
+2015-10-13 00:00:00,Added Sylk Bus Calculation Tool,Version 2.3,,,,Material
+2015-10-20 00:00:00,Added Spyder I/O Pages,Version 3.0,,,,Material
+2015-11-25 00:00:00,Added LOYTEC Display,,,,,Material
+2016-02-19 00:00:00,Added WEB's N4 Devices,Version 4.0,,,,Material
+2016-06-08 00:00:00,Added Wireless TR21-WK & TR23-WK Plus smoke damper actuators,,,,,Material
+2016-06-27 00:00:00,Added Honeywell Multiplier Cells,,,,,Material
+2016-10-17 00:00:00,Updated Pricing,Version 4.1,,,,Material
+2016-11-17 00:00:00,Added more BACNet Spyders and timed,,,,,Material
+2017-09-08 00:00:00,Updated Pricing,,,,,Material
+2017-10-23 00:00:00,Updated Hourly Rates and Burden Rate (1.4 from 1.35),Version 4.2,,,,Material
+2018-12-31 00:00:00,Updated Pricing,Version 4.3,,,,Material
+2019-03-15 00:00:00,Added JCI and CiPer and Pricing Update,Version 5.0,,,,Material
+2019-05-23 00:00:00,Updated Pricing,,,,,Material
+2020-03-23 00:00:00,Updated Labor Rates,,,,,Material
+2021-01-05 00:00:00,Updated JCI Pricing,,,,,Material
+2021-01-28 00:00:00,Merged sheets Pricing and Options List,,,,,Material
+2021-02-01 00:00:00,BACnet wireless added. ,,,,,Material
+2021-03-03 00:00:00,Labor Rates Updated. ,,,,,Material
+2021-03-18 00:00:00,Honeywell and Kele pricing updated added tecs,,,,,Material
+2021-03-29 00:00:00,"Added Power Supply, Honeywell Gas Sensor",,,,,Material
+2021-07-20 00:00:00,"Updated Pricing, Added Magnahelic Gauges",Version 5.3,,,,Material
+2021-09-01 00:00:00,Added CiPer I/O Devices - Temp Update on JCI Pricing,Version 5.4,,,,Material
+2021-11-16 00:00:00,Updated Pressura Pressure Monitor Pricing and HW 7% Increase,,,,,Material
+2021-12-06 00:00:00,Updated for JCI 7% Pricing Increase,,,,,Material
+2021-12-07 00:00:00,Updated for HW 15% Pricing Increase,,,,,Material
+2022-01-10 00:00:00,Updated Labor Rates,Version 5.5,,,,Material
+2022-05-13 00:00:00,"Added WEB surcharge, Updated SUB dropdowns, Added 5% to HW",Version 5.7,,,,Material
+2022-09-07 00:00:00,Udated Labor Rates,Version 5.8,,,,Material
+2022-09-16 00:00:00,"Updated Kele, JCI and Honeywell Pricing and added Siemens",Version 6.0,,,,Material
+2022-09-30 00:00:00,"Updated JCI ""Special Pricing"" and added a seperate multiplier for those. Increased other JCI pricing by 10%",Version 6.1,,,,Material
+2022-10-05 00:00:00,"Updated HW pricing by a net add of 2.5%, added BACnet relay",,,,,Material
+2022-11-15 00:00:00,"Added New JCI Wireless Products, HMI Display",Version 6.2,,,,Material
+2023-06-20 00:00:00,Added Names for Estimators,Version 6.4,,,,Material
+2023-07-20 00:00:00,"Added Florida tax codes, added tax code sheet, added Maracco CO/NO2 Sensors, added additional wire subs, added additional controls salesmen",Version 6.5,,,,Material
+2023-07-25 00:00:00,"Updated VFD pricing, added Alli Dennis and John Phillips",Version 6.7,,,,Material
+2023-09-27 00:00:00,"Added APM rates, split time between Senior PM and APM and added %, increased multipliers",Version 7.0,,,,Material
+2023-10-17 00:00:00,"Added Honeywell Optimizer, Updated Trunk Charges and added one location (located above) to change. Added one location on Totals tab to change mileage.",Version 7.1,,,,Material
+2023-11-10 00:00:00,"Updated Honeywell, JCI and Siemens pricing and removed multipliers, Added TC300, TC500, TR50, Belimo Nema4 actuator, Increased ""plug"" numbers for budget wiring",Version 7.2,,,,Material
+2024-04-15 00:00:00,"Updated pricing, Added WEB9000's, Added Optimizer Plant Controllers with Licenses and Expansion Modules, Added Siemens OA T/H sensors, Removed Jace 600 sizing data,  Added ability to Zero out tabs 2 through 10, Deleted Classic Spyder Tabs, Increased Onicon offerings. Updated burden labor rates.",Version 7.3,,,,Material
+2024-08-26 00:00:00,"Labor Rates Updated, JCI Increase of 3.5%",Version 7.4,,,,Material
+2024-10-07 00:00:00,"Updated Pricing, Added ISMA I/O Modules, Updated Cost Codes, Changed Warranty to multiply to Labor Only and not on the whole amount",Version 7.5,,,,Material
+2025-02-13 00:00:00,"Udated Labor Rates, Updated All Pricing, Added Phoenix Controllers",Version 7.6,,,,Material
+2025-03-05 00:00:00,Increased JCI material 12.5%  and HW 6.4% for Tariff Increases,Version 7.6a,,,,Material
+2025-05-01 00:00:00,"Added TR100 Series Sensors, Corrected Mileage",Version 7.6C,,,,Material
+2025-08-05 00:00:00,"Adjusted Labor Rates, Increased Siemens Pricing by 3.5%",Version 7.6D,,,,Material
+2025-12-11 00:00:00,"Updated pricing, Added Belimo CO/NO2 sensors, Added Senior Tech and Tech, Updated Labor rate",Version 8.0,,,,Material
+2025-12-18 00:00:00,"Updated error in formula for tech, graphics and programming, Added Refrigerant Monitors",Version 8.1,,,,Material
+2026-02-02 00:00:00,Updated Tax Rates for All Counties Shown on Sheet,Version 8.2,,,,Material
+2026-03-10 00:00:00,"Updated PM Labor Rate, increased per mile rate, added salemen, added Siemens items",Version 8.3,,,,Material
+2026-03-12 00:00:00,Revised due to error,Version 8.4,,,,Material
+2026-04-22 00:00:00,Updated JCI Special Pricing,Version 8.5,,,,Material
+2026-04-29 00:00:00,Updated Multiplier for Honeywell to Reflect a 4.5% Increase,Verstion 8.6,,,,Material
