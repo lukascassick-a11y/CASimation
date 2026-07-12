@@ -10,6 +10,8 @@ from estimator import (ProjectInfo, MaterialLine, LaborLine, EstimateSettings, c
     build_sylk_device_library, build_controller_catalog, controller_choices, default_part_for_equipment, DEFAULT_CONTROLLERS,
     HONEYWELL_DEFAULT_CONTROLLERS, JOHNSON_CONTROLS_DEFAULT_CONTROLLERS, SUPPORTED_MANUFACTURERS)
 from estimator.data_repository import DataRepository
+from estimator.catalog_manager import CatalogManager
+from estimator.company_standards import CompanyStandards
 from estimator.reports import build_excel, build_pdf
 from estimator.validation import validate_project, ValidationError
 from ui.vav_page import render_vav_air_box_sections
@@ -21,6 +23,8 @@ st.title("CASimation Building Automation Estimator")
 st.caption("Standalone estimator rebuilt from Estimate Tool VER-8.6")
 
 parts = repo.load_parts(); taxes = repo.load_taxes()
+company_standards = CompanyStandards()
+catalog_manager = CatalogManager(parts, company_standards)
 with st.sidebar:
     st.header("Project")
     project_name = st.text_input("Project name")
@@ -53,11 +57,11 @@ with st.sidebar:
     crew_size = st.number_input("Crew size", min_value=.25, value=2.0, step=.25)
     hours_per_day = st.number_input("Hours per day", min_value=1.0, value=8.0)
 
-tab1, tab2, legacy_tab, tab3, tab4, standards_tab, controller_library_tab, sylk_library_tab = st.tabs([
-    "Materials", "Labor", "Legacy Base Estimate", "Estimate", "Assumptions",
+controls_tab, totals_tab, labor_tab, materials_tab, assumptions_tab, standards_tab, controller_library_tab, sylk_library_tab = st.tabs([
+    "Controls Estimate", "Totals Summary", "Labor", "Materials", "Assumptions",
     "Company Standards", "Controller Library", "Sylk Device Library"
 ])
-with tab1:
+with materials_tab:
     st.subheader("Material and Equipment List")
     search = st.text_input("Search parts catalog", placeholder="controller, sensor, thermostat...")
     filtered = parts
@@ -69,8 +73,8 @@ with tab1:
     default_materials = pd.DataFrame(columns=["item","option","supplier","part_number","quantity","unit_cost","multiplier"])
     material_df = st.data_editor(default_materials, num_rows="dynamic", use_container_width=True,
         column_config={"quantity": st.column_config.NumberColumn(min_value=0.0), "unit_cost": st.column_config.NumberColumn(format="$%.2f", min_value=0.0), "multiplier": st.column_config.NumberColumn(min_value=0.0, default=1.0)})
-with legacy_tab:
-    st.subheader("Migrated Base Estimate Systems")
+with controls_tab:
+    st.subheader("Controls Estimate")
     basic_subtab, large_subtab, controller_subtab, sylk_subtab = st.tabs(["VAV / Air Boxes", "Large Equipment", "Controller Library", "Sylk Device Library"])
     legacy_inputs = []
 
@@ -80,6 +84,8 @@ with legacy_tab:
                 parts,
                 default_controller_manufacturer=default_controller_manufacturer,
                 show_legacy_controllers=show_legacy_controllers,
+                catalog=catalog_manager,
+                standards=company_standards,
             )
         )
 
@@ -297,7 +303,7 @@ with sylk_library_tab:
     st.dataframe(visible_sylk, use_container_width=True, hide_index=True)
     st.info("Each selected TR21, TR23, TR40, TR42, TR100, or TR120 device adds 1 Sylk device and 0 physical AI/UI points.")
 
-with tab2:
+with labor_tab:
     st.subheader("Labor")
     labor_seed = pd.DataFrame([
         {"category":"Engineering","hours":0.0,"hourly_rate":125.0,"burden_multiplier":1.0},
@@ -320,8 +326,8 @@ try:
 except ValidationError as exc:
     st.error(str(exc)); st.stop()
 
-with tab3:
-    st.subheader("Estimate Summary")
+with totals_tab:
+    st.subheader("Totals Summary")
     c1,c2,c3,c4 = st.columns(4)
     c1.metric("Grand Total", f"${result.grand_total:,.2f}")
     c2.metric("Materials + Tax", f"${result.taxable_material + result.tax:,.2f}")
@@ -339,6 +345,6 @@ with tab3:
         col2.download_button("Export PDF", pdf, f"{name}_estimate.pdf", "application/pdf", use_container_width=True)
     except ValidationError as exc:
         st.info(str(exc))
-with tab4:
+with assumptions_tab:
     st.write("The estimator includes migrated Base Estimate formulas for VAV/air-box systems and configurable large-equipment sections through row 296, including AHUs, heat pumps, fan coils, rooftop and outdoor-air units, chillers, boiler systems, emergency panels, and exhaust fans.")
     st.write("Workbook-specific controller sizing, valve sizing, Sylk-device rules, and every legacy option formula are intentionally isolated for phased migration and regression testing.")
