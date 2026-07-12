@@ -155,3 +155,37 @@ The VAV estimating screen now exposes the following controls directly inside eac
 - Duct sensor type, when required by the VAV template
 
 Selected sensors update the material description, supplier, part number, catalog-adjusted unit cost, estimate totals, and exports. TR-series Sylk sensors remain billable but contribute zero AI/UI points.
+
+## GitHub repository workflow
+
+Keep the repository private because catalog pricing and estimating rules may be proprietary.
+
+### First-time Windows setup
+
+1. Clone or download the repository.
+2. Open the project folder.
+3. Right-click `Run-CASimation.ps1` and choose **Run with PowerShell**.
+
+If PowerShell blocks local scripts, run this once in PowerShell:
+
+```powershell
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+```
+
+### Development workflow
+
+```powershell
+git checkout main
+git pull
+git checkout -b feature/short-description
+# Make and test changes
+git add .
+git commit -m "Describe the change"
+git push -u origin feature/short-description
+```
+
+Open a pull request on GitHub and merge it after the automated tests pass.
+
+### Legacy workbook
+
+The proprietary workbook is not included in the Git repository. Place a local copy in `reference_workbooks/` when it is needed for comparison or extraction. That folder is ignored by Git.

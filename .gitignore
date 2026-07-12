@@ -1,27 +1,39 @@
 # Python
 __pycache__/
 *.py[cod]
+*$py.class
 .pytest_cache/
+.coverage
+htmlcov/
 
-# Virtual environment
+# Virtual environments
 .venv/
 venv/
+env/
 
-# Streamlit
+# Streamlit secrets and local settings
 .streamlit/secrets.toml
 
-# Generated reports
-exports/generated/
-*.log
-
-# Local project files
-projects/
-customer_estimates/
-
-# Operating system
+# IDE and operating system
+.vscode/
+.idea/
 .DS_Store
 Thumbs.db
 
-# IDE
-.vscode/
-.idea/
+# Generated estimates and reports
+exports/generated/
+output/
+projects/
+customer_estimates/
+*.log
+
+# Proprietary/local source workbooks and temporary Excel files
+Estimate Tool*.xlsx
+reference_workbooks/
+~$*.xlsx
+
+# Build and release artifacts
+build/
+dist/
+*.spec
+releases/*.zip
