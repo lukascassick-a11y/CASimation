@@ -12,6 +12,7 @@ from estimator import (ProjectInfo, MaterialLine, LaborLine, EstimateSettings, c
 from estimator.data_repository import DataRepository
 from estimator.reports import build_excel, build_pdf
 from estimator.validation import validate_project, ValidationError
+from ui.vav_page import render_vav_air_box_sections
 
 ROOT = Path(__file__).resolve().parent
 repo = DataRepository(ROOT / "data")
@@ -74,128 +75,13 @@ with legacy_tab:
     legacy_inputs = []
 
     with basic_subtab:
-        st.caption("VAV and CRC/Phoenix air-valve formulas. VAV controller and sensor options are linked to the Parts List catalog.")
-
-        st.markdown("### VAV configuration")
-        st.caption("Open a VAV section below to edit its quantity, electrical cost per VAV, controller, and sensor types. Changes flow directly into estimate totals and exports.")
-
-        for idx, (system_name, rule) in enumerate(BASE_ESTIMATE_SYSTEMS.items()):
-            is_vav = "VAV Boxes" in system_name
-            with st.expander(system_name, expanded=is_vav):
-                configured_rule = rule
-                electrical_rate_override = None
-                electrical_cost_per_unit_override = None
-
-                if is_vav:
-                    qty_col, electrical_col, allowance_col = st.columns(3)
-                    qty = qty_col.number_input(
-                        "Number of VAVs",
-                        min_value=0.0,
-                        value=0.0,
-                        step=1.0,
-                        key=f"legacy_basic_{idx}",
-                    )
-                    electrical_cost_per_unit_override = electrical_col.number_input(
-                        "Electrical cost per VAV",
-                        min_value=0.0,
-                        value=float(rule.electrical_rate_per_point),
-                        step=25.0,
-                        format="%.2f",
-                        key=f"vav_electrical_cost_{idx}",
-                        help="Editable electrical allowance applied once for each VAV.",
-                    )
-                    allowance_col.metric(
-                        "Electrical allowance",
-                        f"${float(qty) * electrical_cost_per_unit_override:,.2f}",
-                        help=f"{float(qty):,.0f} VAVs × ${electrical_cost_per_unit_override:,.2f} per VAV",
-                    )
-                else:
-                    qty = st.number_input(
-                        "Number of boxes / valves",
-                        min_value=0.0,
-                        value=0.0,
-                        step=1.0,
-                        key=f"legacy_basic_{idx}",
-                    )
-
-                if is_vav and rule.materials:
-                    controller_manufacturer = st.selectbox(
-                        "Controller manufacturer",
-                        list(SUPPORTED_MANUFACTURERS),
-                        index=list(SUPPORTED_MANUFACTURERS).index(default_controller_manufacturer),
-                        key=f"vav_controller_manufacturer_{idx}",
-                    )
-                    st.markdown("#### Controller and sensor selections")
-                    st.caption("Select the controller and sensor models used for this VAV type. Selected catalog pricing is applied automatically.")
-                    replacements = {}
-                    option_rows = []
-                    for material_index, material in enumerate(rule.materials):
-                        choices = pd.DataFrame()
-                        if material.item == "Controller":
-                            choices = controller_choices(parts, manufacturer=controller_manufacturer, include_legacy=show_legacy_controllers)
-                        elif material.item == "Temp Sensor":
-                            # Space and duct sensors are presented independently based on the legacy row default.
-                            sensor_keywords = ("Duct", "Insertion", "Averaging") if "Duct" in material.option else ("Space", "TR21", "TR23", "TR40", "TR42", "TR50", "TR71", "TR75", "TR100", "TR120")
-                            choices = catalog_choices(parts, "Temp Sensor", keywords=sensor_keywords)
-
-                        selected_material = material
-                        if not choices.empty:
-                            labels = choices["label"].tolist()
-                            default_matches = choices.index[choices["part_number"].eq(material.part_number)].tolist()
-                            if material.item == "Controller":
-                                preferred_part = default_part_for_equipment(system_name, controller_manufacturer)
-                                preferred = choices.index[choices["part_number"].eq(preferred_part)].tolist()
-                                default_index = preferred[0] if preferred else (default_matches[0] if default_matches else 0)
-                            else:
-                                default_index = default_matches[0] if default_matches else 0
-                            label = "Controller type (Materials → Controllers)" if material.item == "Controller" else ("Duct sensor type" if "Duct" in material.option else "Space sensor type")
-                            selected_label = st.selectbox(
-                                label,
-                                labels,
-                                index=default_index,
-                                key=f"vav_option_{idx}_{material_index}",
-                                help=(
-                                    "TR-series Sylk sensors remain billable material but count as 0 AI/UI points."
-                                    if material.item == "Temp Sensor" and "Duct" not in material.option
-                                    else "Select the catalog item used for this VAV material row."
-                                ),
-                            )
-                            selected_row = choices.loc[choices["label"].eq(selected_label)].iloc[0]
-                            selected_material = replace_material_from_catalog(material, selected_row)
-                            replacements[material_index] = selected_material
-
-                        option_rows.append({
-                            "item": selected_material.item,
-                            "option": selected_material.option,
-                            "supplier": selected_material.supplier,
-                            "part_number": selected_material.part_number,
-                            "quantity_per_box": selected_material.per_unit,
-                            "unit_cost": selected_material.unit_cost,
-                            "point_classification": (
-                                "Sylk device — 0 AI/UI points"
-                                if is_tr_sylk_sensor(option=selected_material.option, part_number=selected_material.part_number)
-                                else "Physical I/O / material"
-                            ),
-                        })
-
-                    configured_rule = replace_rule_materials(rule, replacements)
-                    st.dataframe(
-                        pd.DataFrame(option_rows),
-                        use_container_width=True,
-                        hide_index=True,
-                        column_config={
-                            "item": st.column_config.TextColumn("Item"),
-                            "option": st.column_config.TextColumn("Option"),
-                            "supplier": st.column_config.TextColumn("Supplier"),
-                            "part_number": st.column_config.TextColumn("Part number"),
-                            "quantity_per_box": st.column_config.NumberColumn("Qty / box"),
-                            "unit_cost": st.column_config.NumberColumn("Unit cost", format="$%.2f"),
-                            "point_classification": st.column_config.TextColumn("Point classification"),
-                        },
-                    )
-
-                if qty:
-                    legacy_inputs.append(LegacySystemInput(configured_rule, qty, electrical_rate_override=electrical_rate_override, electrical_cost_per_unit_override=electrical_cost_per_unit_override))
+        legacy_inputs.extend(
+            render_vav_air_box_sections(
+                parts,
+                default_controller_manufacturer=default_controller_manufacturer,
+                show_legacy_controllers=show_legacy_controllers,
+            )
+        )
 
 
     with controller_subtab:
