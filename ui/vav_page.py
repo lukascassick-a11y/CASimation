@@ -3,22 +3,15 @@ from __future__ import annotations
 import pandas as pd
 import streamlit as st
 
-from estimator.controller_catalog import (
-    SUPPORTED_MANUFACTURERS,
-    controller_choices,
-    default_part_for_equipment,
-)
+from estimator.catalog_manager import CatalogManager
+from estimator.company_standards import CompanyStandards, DEFAULT_COMPANY_STANDARDS, SUPPORTED_MANUFACTURERS
+from estimator.equipment_templates import equipment_template_for, option_template_for_item
 from estimator.legacy_base_estimate import (
     LegacyMaterialRule,
     LegacySystemInput,
     calculate_legacy_system,
 )
-from estimator.legacy_options import (
-    catalog_choices,
-    catalog_choices_by_category,
-    replace_material_from_catalog,
-    replace_rule_materials,
-)
+from estimator.legacy_options import replace_material_from_catalog, replace_rule_materials
 from estimator.legacy_templates import BASE_ESTIMATE_SYSTEMS
 from estimator.sylk_device_library import is_tr_sylk_sensor
 
@@ -29,27 +22,28 @@ def _default_choice_index(choices: pd.DataFrame, part_number: str) -> int:
 
 
 def _material_choices(
-    parts: pd.DataFrame,
+    catalog: CatalogManager,
     material: LegacyMaterialRule,
     *,
+    system_name: str,
     controller_manufacturer: str,
     show_legacy_controllers: bool,
 ) -> pd.DataFrame:
+    template = equipment_template_for(system_name)
     if material.item == "Controller":
-        return controller_choices(
-            parts,
-            manufacturer=controller_manufacturer,
+        return catalog.controllers(
+            controller_manufacturer,
             include_legacy=show_legacy_controllers,
         )
-    if material.item == "Temp Sensor":
-        keywords = (
-            ("Duct", "Insertion", "Averaging")
-            if "Duct" in material.option
-            else ("Space", "TR21", "TR23", "TR40", "TR42", "TR50", "TR71", "TR75", "TR100", "TR120")
-        )
-        return catalog_choices(parts, "Temp Sensor", keywords=keywords)
-    if material.item in {"Current Sw", "Relay"}:
-        return catalog_choices_by_category(parts, material.item)
+    option_template = option_template_for_item(template, material.item, material.option)
+    if option_template is None:
+        return pd.DataFrame()
+    if option_template.role in {"space_sensor", "duct_sensor"}:
+        return catalog.sensors(keywords=option_template.keywords)
+    if option_template.role == "current_switch":
+        return catalog.current_switches()
+    if option_template.role == "relay":
+        return catalog.relays()
     return pd.DataFrame()
 
 
@@ -70,6 +64,8 @@ def render_vav_air_box_sections(
     *,
     default_controller_manufacturer: str,
     show_legacy_controllers: bool,
+    catalog: CatalogManager | None = None,
+    standards: CompanyStandards = DEFAULT_COMPANY_STANDARDS,
 ) -> list[LegacySystemInput]:
     """Render the migrated VAV/air-box workflow and return calculation inputs.
 
@@ -88,6 +84,7 @@ def render_vav_air_box_sections(
     )
 
     legacy_inputs: list[LegacySystemInput] = []
+    catalog = catalog or CatalogManager(parts, standards)
     manufacturers = list(SUPPORTED_MANUFACTURERS)
     manufacturer_index = (
         manufacturers.index(default_controller_manufacturer)
@@ -151,8 +148,9 @@ def render_vav_air_box_sections(
 
             for material_index, material in enumerate(rule.materials):
                 choices = _material_choices(
-                    parts,
+                    catalog,
                     material,
+                    system_name=system_name,
                     controller_manufacturer=controller_manufacturer,
                     show_legacy_controllers=show_legacy_controllers,
                 )
@@ -184,7 +182,7 @@ def render_vav_air_box_sections(
                     labels = choices["label"].tolist()
                     default_part = material.part_number
                     if material.item == "Controller":
-                        preferred = default_part_for_equipment(system_name, controller_manufacturer)
+                        preferred = standards.default_controller("VAV", controller_manufacturer)
                         if preferred and choices["part_number"].astype(str).eq(preferred).any():
                             default_part = preferred
                     selected_label = st.selectbox(
