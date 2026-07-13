@@ -33,7 +33,7 @@ def test_vav_sensor_and_accessory_controls_are_visible():
 
 def test_manufacturer_standards_are_connected_to_vav_ui():
     assert 'key=f"vav_controller_manufacturer_{idx}"' in VAV_UI
-    assert "default_part_for_equipment(system_name, controller_manufacturer)" in VAV_UI
+    assert 'standards.default_controller("VAV", controller_manufacturer)' in VAV_UI
 
 
 def test_per_vav_electrical_override_changes_calculation():

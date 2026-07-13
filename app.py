@@ -10,6 +10,8 @@ from estimator import (ProjectInfo, MaterialLine, LaborLine, EstimateSettings, c
     build_sylk_device_library, build_controller_catalog, controller_choices, default_part_for_equipment, DEFAULT_CONTROLLERS,
     HONEYWELL_DEFAULT_CONTROLLERS, JOHNSON_CONTROLS_DEFAULT_CONTROLLERS, SUPPORTED_MANUFACTURERS)
 from estimator.data_repository import DataRepository
+from estimator.catalog_manager import CatalogManager
+from estimator.company_standards import CompanyStandards
 from estimator.reports import build_excel, build_pdf
 from estimator.validation import validate_project, ValidationError
 from ui.vav_page import render_vav_air_box_sections
@@ -21,6 +23,8 @@ st.title("CASimation Building Automation Estimator")
 st.caption("Standalone estimator rebuilt from Estimate Tool VER-8.6")
 
 parts = repo.load_parts(); taxes = repo.load_taxes()
+company_standards = CompanyStandards()
+catalog_manager = CatalogManager(parts, company_standards)
 with st.sidebar:
     st.header("Project")
     project_name = st.text_input("Project name")
@@ -80,6 +84,8 @@ with legacy_tab:
                 parts,
                 default_controller_manufacturer=default_controller_manufacturer,
                 show_legacy_controllers=show_legacy_controllers,
+                catalog=catalog_manager,
+                standards=company_standards,
             )
         )
 
