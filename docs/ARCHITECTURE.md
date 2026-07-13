@@ -20,3 +20,14 @@ CASimation separates user-interface code, business rules, reference data, and re
 ## Design principle
 
 Workbook cell references are treated as migration evidence, not as the permanent application architecture. Business rules should be expressed as named, tested Python functions.
+
+## Equipment-template foundation
+
+The estimator separates four concerns:
+
+1. `estimator/company_standards.py` stores company-wide manufacturer, lifecycle, controller-default, and electrical-default policies.
+2. `estimator/catalog_manager.py` normalizes the parts catalog and supplies lifecycle-aware product choices.
+3. `estimator/equipment_templates.py` defines reusable equipment roles and allowed configurable accessories.
+4. UI modules such as `ui/vav_page.py` render the workflow and pass selections to the existing calculation engine.
+
+Equipment templates do not contain pricing formulas. Verified calculations remain in the calculation modules so interface and catalog changes cannot silently alter estimate math.
