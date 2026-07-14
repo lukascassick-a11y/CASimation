@@ -15,9 +15,11 @@ from estimator.company_standards import CompanyStandards
 from estimator.reports import build_excel, build_pdf
 from estimator.validation import validate_project, ValidationError
 from ui.vav_page import render_vav_air_box_sections
+from ui.developer_tools import render_developer_tools
 
 ROOT = Path(__file__).resolve().parent
 repo = DataRepository(ROOT / "data")
+render_developer_tools(ROOT, repo)
 st.set_page_config(page_title="CASimation Estimate Tool", layout="wide")
 st.title("CASimation Building Automation Estimator")
 st.caption("Standalone estimator rebuilt from Estimate Tool VER-8.6")
